@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Wszyscy ludzie</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.C       G       D         Em
+ Wszyscy ludzie klaszczą w dłonie
+.C      G      D      Em
+ cała ziemia śpiewa, śpiewa
+.C       G     D    Em
+ Wielka radość na Syjonie
+.C     G         D        Em
+ Król zstepuje z nieba, z nieba
+
+[V2]
+. C   G    D   Em
+ Nadejdzie dzień, nadejdzie dzień
+ Zobaczy to (zobaczy to) każdy z nas
+ Nadejdzie dzień, nadejdzie dzień
+ Uwielbi Go (uwielbi Go) cały świat
+
+</lyrics>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

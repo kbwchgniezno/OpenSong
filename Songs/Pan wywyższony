@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Pan wywyższony</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+.G                                           C         
+ Pan wywyższony, nasz Król wywyższony wśród chwał, 
+.  D
+ Uwielbiajmy Go!  
+.G                      
+ Pan wywyższony, nasz Król wywyższony,  
+.   C     D   E
+ Oddajmy Jemu cześć.	
+[v2]
+.Am G        D         G        D      C G
+ Królem jest Pan, Jego łaska na wieki trwa.  
+.Am G     D        G         D        C   G
+ Niebo i ziemia radujcie się Jego imieniem.    
+.Am                   C         D
+ Pan wywyższony, nasz Król wywyższony	      
+.       G
+ Wśród chwał.                              
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
