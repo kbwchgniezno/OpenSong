@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Godzien chwaly jest baranek</title>
   <author></author>
@@ -16,10 +16,15 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[v1]
+  <lyrics>
+[v1]
+. D             A           
  Godzien chwały jest baranek
+. c             G
  święty, święty jest nasz Pan.
+. D             A  
  Temu, który siedzi na tronie
+. c             G
  Śpiewaj nową chwały pieśń
  
 [v2]
