@@ -18,21 +18,30 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
-. e H d A 
+. E                 B                      D        A 
  Ty jesteś dobry, a łaska Twa Panie, trwa wiecznie (2x)
-. A H  
+
+. A                     B  
  Ludzie ze wszystkich narodów i ras
-. C D 
+. C               D 
  od pokolenia do pokolenia
-[v2]
-. e H d A 
+
+[c1]
+. E        B    D          A 
  Wielbimy Cię, Alleluja, Alleluja
+.E         B            D   E
  Wielbimy Cię za dobroć Twą
- Wielbimy Cię, Alleluja, Alleluja
- Wielbimy Cię za dobroć Twą
+.
  Dobry Bóg!
-[v3]
+
+[b1]
+.      E          G
  Dobry Bóg, cały czas
- cały czas, dobry Bóg.</lyrics>
+.      A           E
+ Cały czas, dobry Bóg.
+.       E         D
+ Dobry Bóg, cały czas
+.       A          E
+ Cały czas, dobry Bóg.</lyrics>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
