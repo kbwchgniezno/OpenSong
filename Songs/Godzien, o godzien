@@ -38,4 +38,8 @@
  oddając mu hołd,
  miłość, wdzięczność, siłę i moc,
  błogosławieństwo i cześć.
- </lyrics></song>
+ </lyrics>
+  <linked_songs>
+  <linked_song>OpenSong\Songs\A gdyby dziś Pan Jezus przyszedł</linked_song></linked_songs>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

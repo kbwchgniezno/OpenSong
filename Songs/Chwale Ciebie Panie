@@ -1,1 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><song>  <title>Chwalę ciebie panie</title>  <author></author>  <copyright></copyright>  <hymn_number></hymn_number>  <presentation></presentation>  <ccli></ccli>  <capo print="false"></capo>  <key></key>  <aka></aka>  <key_line></key_line>  <user1></user1>  <user2></user2>  <user3></user3>  <theme></theme>  <tempo></tempo>  <time_sig></time_sig>  <lyrics>[V1].              C          a Chwalę Ciebie Panie i uwielbiam .         F          wznoszę w górę swoje ręce .       G wywyższając imię Twe [V2].          C bo wielkiś Ty  .                     a wielkie cuda czynisz dziś .                  F       / G nie dorówna Tobie nikt x2  </lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Chwalę ciebie panie</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+.              C          a
+ Chwalę Ciebie Panie i uwielbiam 
+.         F         
+ wznoszę w górę swoje ręce 
+.       G
+ wywyższając imię Twe
+ 
+[V2]
+.          C
+ bo wielkiś Ty  
+.                     a
+ wielkie dzieła czynisz dziś 
+.                  F       / G
+ nie dorówna Tobie nikt x2
+
+[V3]
+
+ Jesteś mą nadzieją, wiarą, życiem.
+ Daj mi poznać Swoje drogi,
+ bym nie zbłądził nigdy już.
+
+[V4]
+
+ Jesteś świata Panem i Opoką,
+ w Tobie składam troski swoje,
+ Tobie daję serce swe.
+ 
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

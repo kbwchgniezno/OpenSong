@@ -17,19 +17,42 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Przed obliczem Pana 
+ Przed Obliczem Pana 
   uniżmy się
- Przed obliczem Pana 
+ Przed Obliczem Pana 
   uniżmy się
  Pan sam wywyższy nas
  Jego jest ziemia i czas
  Pan sam wywyższy nas
 [V2]
  Wszystkie swoje troski 
-  oddajmy mu
+  oddajmy Mu
  Wszystkie swoje troski 
-  oddajmy mu
+  oddajmy Mu
  Pan sam wywyższy nas
  Jego jest ziemia i czas
  Pan sam wywyższy nas
-</lyrics></song>
+[V3]
+ Z pokorą stań przed Panem swym,
+ Z pokorą stań przed Panem swym,
+ Pan sam wywyższy nas
+ Jego jest ziemia i czas
+ Pan sam wywyższy nas
+[V4]
+ Kroczmy wszyscy za Nim, po kres tych dni,
+ Kroczmy wszyscy za Nim, po kres tych dni,
+ Pan sam wywyższy nas
+ Jego jest ziemia i czas
+ Pan sam wywyższy nas
+[V5]
+ W Jego chwale kiedyś spotkamy się,
+ W Jego chwale kiedyś spotkamy się,
+ Pan sam wywyższy nas
+ Jego jest ziemia i czas
+ Pan sam wywyższy nas
+
+
+</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
