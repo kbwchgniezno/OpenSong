@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Baranek i Lew (Lion And The Lamb)</title>
   <lyrics>[v1]
@@ -45,7 +45,9 @@
 .Bm                 A
  Któż jest jak nasz Bóg Wszechmocny
 .D                  E
- Któż jest jak nasz Bóg</lyrics>
+ Któż jest jak nasz Bóg
+
+</lyrics>
   <author>Lion And The Lamb</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
