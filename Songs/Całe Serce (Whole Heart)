@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Całe Serce (Whole Heart)</title>
-  <lyrics>[intro]
+  <lyrics>[i1]
 . E B E A
 
 [v1]
@@ -22,7 +22,7 @@
 . E               B
  I dałeś mi imię swe
 
- [v2]
+[v2]
 .       A
  Jestem tu
 .      E                   B
@@ -40,7 +40,7 @@
 . E              B
  I dałeś mi imię swe
 
- [c1]
+[c1]
 . C#m
  Poddaję Ci
 .B
@@ -54,7 +54,7 @@
 .      E      A
  Niech Twoim jest
 
- [cp1]
+[cp1]
 .   C#m      B
  Ty pokochałeś
 .               E     A
@@ -64,7 +64,7 @@
 .                 E   
  Teraz Ty trzymasz mnie
 
- [v3]
+[v3]
 .      A   E
  Łaska Twa
 .E            B
@@ -82,7 +82,7 @@
 .E                 B
  Niosąc mnie cały czas
 
- [cp2]
+[cp2]
 .         C#m  B
  Ty pokochałeś
 .                E    A
