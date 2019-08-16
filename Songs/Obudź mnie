@@ -17,15 +17,28 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
+.Em    C          G       D
  Obudź mnie, chcę słyszeć Cię
+.        Em     C        G        D
  Widzieć miłość Twą, jak wypełnia mnie
+.     Em          C
  Daj poznać Twój głos
+.G          D   C           D
  Poczuć jak Ty ogarniasz mnie
 [v2]
+.Em      C              D
  Brak mi sił, słów mi brak
+.      Em
  nawet łez, gdy szukam Cię
+.Em    C              D
  Ojcze wstań, podnieś mnie
+.        Em
  Do mnie mów, bo jestem Twój
+.Em       C             D
  Chwyć mą dłoń, przytul mnie,
+.        Em
  Chcę prawdziwie kochać Cię
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
