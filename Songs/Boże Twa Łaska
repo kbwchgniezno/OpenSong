@@ -17,10 +17,19 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
+.D              A        G
  Boże twa łaska nad nami jest
+.D            A        G
  Twoja miłość przychodzi wciąż.
+.e             G           A
  Ty działasz w mocy pośrod nas
+.e             G           A
  Przenikasz serca gładzisz grzech.
 [v2]
+.D                        G            A
  My chcemy więcej Ciebie, więcej łaski Twej.
- Pragniemy więcej mocy, więcej miłości Twojej.</lyrics></song>
+.D                        G            A
+ Pragniemy więcej mocy, więcej miłości Twojej.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
