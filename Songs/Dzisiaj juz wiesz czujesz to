@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><song>  <title>Dzisiaj juz wiesz czujesz to</title>  <author></author>  <copyright></copyright>  <hymn_number></hymn_number>  <presentation></presentation>  <ccli></ccli>  <capo print="false"></capo>  <key></key>  <aka></aka>  <key_line></key_line>  <user1></user1>  <user2></user2>  <user3></user3>  <theme></theme>  <tempo></tempo>  <time_sig></time_sig>  <lyrics>[v1]. G         A             h   G            A                  D Dzisiaj już wiesz czujesz to, masz w sobie ufność i nie wiesz skąd,. G           A               D               e                  A Słyszysz ktoś puka do twoich drzwi i słyszysz głos i wiesz, że go znasz.[v2]. G         A          h   G            A            D A łzy co płyną jak deszcz, dzisiaj obmyją i twoją twarz.. G           A               D               e                  A Twój Bóg wciąż bliżej i bliżej jest i dobrze wiesz, nie będziesz już sam.[v3].  e       G    h             G            A Nowe życie On pragnie ci dać, zacznij już, zacznij dziś.       G           A            h            G                    A              h Od tej chwili Bóg, od teraz na wieki, będzie chronił cię, będzie zmieniał twój świat..          C        A          h                  G                   A                 h On obiecał ci, że będzie przy Tobie i nie zostawi cię, od tej chwili już, od tej chwili już...[v4] Byź może znów wróci lęk, ten sam co wczoraj ten sam od lat Nie pozwól zepchnąć się znowu w dół bo w ręku swym trzyma cię Bóg.</lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Dzisiaj juz wiesz czujesz to</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+. G         A             h   G            A                  D
+ Dzisiaj już wiesz czujesz to, masz w sobie ufność i nie wiesz skąd,
+. G           A               D               e                  A
+ Słyszysz ktoś puka do twoich drzwi i słyszysz głos i wiesz, że go znasz.
+
+[v2]
+. G         A          h   G            A            D
+ A łzy co płyną jak deszcz, dzisiaj obmyją i twoją twarz.
+. G           A               D               e                  A
+ Twój Bóg wciąż bliżej i bliżej jest i dobrze wiesz, nie będziesz już sam.
+
+[v3]
+.  e       G    h             G            A
+ Nowe życie On pragnie ci dać, zacznij już, zacznij dziś.
+.       G           A            h            G                    A              h
+ Od tej chwili Bóg, od teraz na wieki, będzie chronił cię, będzie zmieniał twój świat.
+.          C        A          h                  G                   A                 h
+ On obiecał ci, że będzie przy Tobie i nie zostawi cię, od tej chwili już, od tej chwili już...
+
+[v4]
+ Być może znów wróci lęk, ten sam co wczoraj ten sam od lat
+ Nie pozwól zepchnąć się znowu w dół bo w ręku swym trzyma cię Bóg.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>

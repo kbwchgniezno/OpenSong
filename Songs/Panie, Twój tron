@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><song>  <title>Panie, Twój tron</title>  <author></author>  <copyright></copyright>  <hymn_number></hymn_number>  <presentation></presentation>  <ccli></ccli>  <capo print="false"></capo>  <key></key>  <aka></aka>  <key_line></key_line>  <user1></user1>  <user2></user2>  <user3></user3>  <theme></theme>  <tempo></tempo>  <time_sig></time_sig>  <lyrics>.           e           A Panie, Twój tron wznosi się.               fis    h Nad wszystkie ziemie świata.          e           A           D    D7 Jesteś najwyższy, Panie mój, Królu mój . D                / fis/ G g Uwielbiamy Cię    /x3 .    D      / ADA Panie nasz! </lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Panie, Twój tron</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>.           e           A
+ Panie, Twój tron wznosi się
+.               fis    h
+ Nad wszystkie ziemie świata
+.          e           A           D    D7
+ Jesteś najwyższy, Panie mój, Królu mój 
+. D                / fis/ G g
+ Wywyższamy Cię    /x3 
+.    D      / ADA
+ Panie nasz!
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
