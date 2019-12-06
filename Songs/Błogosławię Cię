@@ -17,24 +17,47 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
- Błogosławię Cię, kiedy ziemia wydaje plon.	 	
- Gdy obfitość Panie zlewasz Swą, błogosławię Cię.
- Błogosławię Cię, gdy pustynia w krąg otacza mnie,
- Choćbym przez pustkowie szedł, błogosławię Cię.
-[b1]	
+.A     E                 F#m     D
+ Błogosławię Cię, kiedy ziemia wydaje plon
+.     A              E             D	 	
+ Gdy obfitość Panie zlewasz Swą, błogosławię Cię
+.A      E             F#m              D
+ Błogosławię Cię, gdy pustynia w krąg otacza mnie
+.A                        E       D        
+ Choćbym przez pustkowie szedł, błogosławię Cię
+
+[b1]
+.A              E            F#m         D	
  Za Twą łaskę, którą zsyłasz, ja chwalę Cię,
+.A               E               F#m        D
  Choćby ciemność mnie przykryła, ja powiem, że:
+
 [b2]
- Panie, błogosławię imię Twe, 
- Błogosławię Cię.
+.            A           E
  Panie, błogosławię imię Twe,
+.             F#m D 
+ Błogosławię Cię
+.             A           E
+ Panie, błogosławię imię Twe,
+.           F#m     E    D
  Błogosławię Święte imię Twe.
+
 [v2]
+.S     E                 F#m           D
  Błogosławię Cię, kiedy słońca blask oświeca mnie,
+.       A            E             D
  To, co dajesz mi najlepsze jest, błogosławię Cię.
+.A      E                F#m         D
  Błogosławię Cię, kiedy drogę moją znaczy cierń,
+.         A                 E           D
  Chociaż cierpię, pragnę chwalić Cię, błogosławię Cię.
+
 [b3]
+.A                E      F#m              D
  Ty dajesz z woli Swej, zabierasz, kiedy chcesz, 
+.      A            E      F#m         D
  W mym sercu zawszę chcę, błogosławić Cię.
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
