@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Abba należę do CIebie</title>
-  <author></author>
+  <author>test</author>
   <copyright></copyright>
-  <hymn_number></hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
+  <hymn_number></hymn_number>
   <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <duration></duration>
+  <predelay></predelay>
+  <ccli></ccli>
+  <theme>;</theme>
+  <alttheme>;</alttheme>
   <user1></user1>
   <user2></user2>
   <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
-  <lyrics>[v1]
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <books></books>
+  <midi></midi>
+  <midi_index></midi_index>
+  <pitch></pitch>
+  <restrictions></restrictions>
+  <notes></notes>
+  <lyrics>[V1]
 .A               hm7
  nie chcę więcej samych słów, 
 .A              D
@@ -30,11 +39,11 @@
 .H        A         G
  spocznie tylko w Tobie.
  
-[c]
+[C]
 .D   A         e7
  Abba Ojcze, należę do Ciebie,
  
-[v2]
+[V2]
  Niepojęty, wielki Bóg,
  Ty stworzyłeś wszechświat cały,
  jakże jasny jest dom Twój,
@@ -42,4 +51,15 @@
  człowiek powstał z Twoich rąk,
  tak by kochać Ciebie. 
  
- </lyrics></song>
+ 
+</lyrics>
+  <linked_songs></linked_songs>
+  <pad_file>Automatyczny</pad_file>
+  <custom_chords></custom_chords>
+  <link_youtube></link_youtube>
+  <link_web></link_web>
+  <link_audio></link_audio>
+  <loop_audio>false</loop_audio>
+  <link_other></link_other>
+  <abcnotation></abcnotation>
+</song>
