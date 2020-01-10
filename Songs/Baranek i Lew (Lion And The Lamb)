@@ -5,24 +5,8 @@
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <linked_songs>
-  <linked_song>OpenSong\Songs\Panie, Twój tron</linked_song>
-  <linked_song>OpenSong\Songs\Jezus najwyższe imię</linked_song>
-  <linked_song>OpenSong\Songs\Dzieki Jezu</linked_song>
-  <linked_song>OpenSong\Songs\Niech będzie chwała</linked_song></linked_songs>
-  <tempo></tempo>
-  <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-  <lyrics>[v1]
+  <lyrics>
+[v1]
 .A
  On przyjdzie pośród chwał
 .               Bm     D
