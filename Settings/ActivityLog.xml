@@ -6,8 +6,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Błogosławieństwo (The Blessing)</FileName>
   <title>Błogosławieństwo (The Blessing)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1>
   <Entry2>
   <Date>2020-03-21</Date>
@@ -15,8 +15,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Błogosławieństwo (The Blessing)</FileName>
   <title>Błogosławieństwo (The Blessing)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry2>
   <Entry3>
   <Date>2020-03-21</Date>
@@ -24,8 +24,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Błogosławieństwo (The Blessing)</FileName>
   <title>Błogosławieństwo (The Blessing)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry3>
   <Entry4>
   <Date>2020-03-21</Date>
@@ -33,8 +33,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Błogosławieństwo (The Blessing)</FileName>
   <title>Błogosławieństwo (The Blessing)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry4>
   <Entry5>
   <Date>2020-03-21</Date>
@@ -42,6 +42,42 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Błogosławieństwo (The Blessing)</FileName>
   <title>Błogosławieństwo (The Blessing)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry5>
+  <Entry6>
+  <Date>2020-04-23</Date>
+  <Time>08:51:24</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Jesteś tu (Way Maker)</FileName>
+  <title>Jesteś tu (Way Maker)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry5></log>
+  <HasChords>false</HasChords></Entry6>
+  <Entry7>
+  <Date>2020-04-23</Date>
+  <Time>08:52:24</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteś tu (Way Maker)</FileName>
+  <title>Jesteś tu (Way Maker)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry7>
+  <Entry8>
+  <Date>2020-04-23</Date>
+  <Time>08:56:11</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteś tu (Way Maker)</FileName>
+  <title>Jesteś tu (Way Maker)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry8>
+  <Entry9>
+  <Date>2020-04-23</Date>
+  <Time>08:57:09</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteś tu (Way Maker)</FileName>
+  <title>Jesteś tu (Way Maker)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry9></log>
