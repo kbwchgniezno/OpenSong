@@ -51,8 +51,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Jesteś tu (Way Maker)</FileName>
   <title>Jesteś tu (Way Maker)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry6>
   <Entry7>
   <Date>2020-04-23</Date>
@@ -60,8 +60,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteś tu (Way Maker)</FileName>
   <title>Jesteś tu (Way Maker)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry7>
   <Entry8>
   <Date>2020-04-23</Date>
@@ -69,8 +69,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteś tu (Way Maker)</FileName>
   <title>Jesteś tu (Way Maker)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry8>
   <Entry9>
   <Date>2020-04-23</Date>
@@ -78,6 +78,51 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteś tu (Way Maker)</FileName>
   <title>Jesteś tu (Way Maker)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry9>
+  <Entry10>
+  <Date>2020-08-15</Date>
+  <Time>07:45:56</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Dla Ciebie Żyć</FileName>
+  <title>Dla Ciebie Żyć</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry9></log>
+  <HasChords>false</HasChords></Entry10>
+  <Entry11>
+  <Date>2020-08-15</Date>
+  <Time>07:46:16</Time>
+  <Description>7</Description>
+  <FileName>( Wszystkie )/Dla Ciebie Żyć (Build My Life)</FileName>
+  <title>Dla Ciebie Żyć</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry11>
+  <Entry12>
+  <Date>2020-08-15</Date>
+  <Time>07:47:25</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Dla Ciebie Żyć (Build My Life)</FileName>
+  <title>Dla Ciebie Żyć</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry12>
+  <Entry13>
+  <Date>2020-08-15</Date>
+  <Time>09:33:18</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Dla Ciebie Żyć (Build My Life)</FileName>
+  <title>Dla Ciebie Żyć</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry13>
+  <Entry14>
+  <Date>2020-08-15</Date>
+  <Time>09:34:57</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Dla Ciebie Żyć (Build My Life)</FileName>
+  <title>Dla Ciebie Żyć</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry14></log>
