@@ -87,8 +87,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Dla Ciebie Żyć</FileName>
   <title>Dla Ciebie Żyć</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry10>
   <Entry11>
   <Date>2020-08-15</Date>
@@ -96,8 +96,8 @@
   <Description>7</Description>
   <FileName>( Wszystkie )/Dla Ciebie Żyć (Build My Life)</FileName>
   <title>Dla Ciebie Żyć</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry11>
   <Entry12>
   <Date>2020-08-15</Date>
@@ -105,8 +105,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dla Ciebie Żyć (Build My Life)</FileName>
   <title>Dla Ciebie Żyć</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry12>
   <Entry13>
   <Date>2020-08-15</Date>
@@ -114,8 +114,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dla Ciebie Żyć (Build My Life)</FileName>
   <title>Dla Ciebie Żyć</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry13>
   <Entry14>
   <Date>2020-08-15</Date>
@@ -123,6 +123,51 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dla Ciebie Żyć (Build My Life)</FileName>
   <title>Dla Ciebie Żyć</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry14>
+  <Entry15>
+  <Date>2020-08-27</Date>
+  <Time>11:46:51</Time>
+  <Description>3</Description>
+  <FileName>W</FileName>
+  <title>Wasz Pan drogę zna</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry14></log>
+  <HasChords>true</HasChords></Entry15>
+  <Entry16>
+  <Date>2020-08-27</Date>
+  <Time>12:05:45</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Po prostu z Jezuem żyć</FileName>
+  <title>Po prostu z Jezuem żyć</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry16>
+  <Entry17>
+  <Date>2020-08-27</Date>
+  <Time>12:15:13</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Po prostu z Jezuem żyć</FileName>
+  <title>Po prostu z Jezuem żyć</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry17>
+  <Entry18>
+  <Date>2020-08-27</Date>
+  <Time>12:17:14</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Po prostu z Jezuem żyć</FileName>
+  <title>Po prostu z Jezuem żyć</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry18>
+  <Entry19>
+  <Date>2020-08-27</Date>
+  <Time>12:23:35</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Po prostu z Jezuem żyć</FileName>
+  <title>Po prostu z Jezuem żyć</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry19></log>
