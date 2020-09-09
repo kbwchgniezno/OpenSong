@@ -132,8 +132,8 @@
   <Description>3</Description>
   <FileName>W</FileName>
   <title>Wasz Pan drogę zna</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry15>
   <Entry16>
   <Date>2020-08-27</Date>
@@ -141,8 +141,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Po prostu z Jezuem żyć</FileName>
   <title>Po prostu z Jezuem żyć</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry16>
   <Entry17>
   <Date>2020-08-27</Date>
@@ -150,8 +150,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Po prostu z Jezuem żyć</FileName>
   <title>Po prostu z Jezuem żyć</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry17>
   <Entry18>
   <Date>2020-08-27</Date>
@@ -159,8 +159,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Po prostu z Jezuem żyć</FileName>
   <title>Po prostu z Jezuem żyć</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry18>
   <Entry19>
   <Date>2020-08-27</Date>
@@ -168,6 +168,42 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Po prostu z Jezuem żyć</FileName>
   <title>Po prostu z Jezuem żyć</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry19>
+  <Entry20>
+  <Date>2020-09-08</Date>
+  <Time>20:19:12</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Bóg Przebudzenia (God Of Revival)</FileName>
+  <title>Bóg Przebudzenia (God Of Revival)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry19></log>
+  <HasChords>false</HasChords></Entry20>
+  <Entry21>
+  <Date>2020-09-08</Date>
+  <Time>20:20:05</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Bóg Przebudzenia (God Of Revival)</FileName>
+  <title>Bóg Przebudzenia (God Of Revival)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry21>
+  <Entry22>
+  <Date>2020-09-08</Date>
+  <Time>20:36:24</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Bóg Przebudzenia (God Of Revival)</FileName>
+  <title>Bóg Przebudzenia (God Of Revival)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry22>
+  <Entry23>
+  <Date>2020-09-08</Date>
+  <Time>20:44:24</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Bóg Przebudzenia (God Of Revival)</FileName>
+  <title>Bóg Przebudzenia (God Of Revival)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry23></log>
