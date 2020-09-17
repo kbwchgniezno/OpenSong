@@ -16,22 +16,27 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
-- G         C
+  <lyrics>[v1]
+. C         F
  Powietrzem moim jest
-- G         C
+. C         F
  Powietrzem moim jest
-- G   D   e    h  C     e       D
+. C   G   Am    Em  F     Am     G
  Obecność Twoja, święta w sercu mym
-[V2]
-- G         C
+
+[v2]
+. C         F
  Powszednim chlebem mym
-- G         C
+. C         F
  Powszednim chlebem mym
-- G   D   e    h  C     e       D
+. C   G   Am Em  F   Am   G
  Twe żywe Słowo dane mi dziś
-[V3]
-- G D e h            C e D
- I Ja tak pragnę Ciebie
-- G D e h            C e D
- I Ja zginę bez ciebie</lyrics></song>
+
+[c1]
+. C G Am Em            F Am G
+ I Ja      tak pragnę Ciebie
+. C G Am Em            F Am G
+ I Ja      zginę bez ciebie</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
