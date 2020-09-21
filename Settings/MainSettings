@@ -17,4 +17,4 @@
   <paint new="false"/>
   <songfolder>( Wszystkie )</songfolder>
   <startmode/>
-</main_settings>
+  <song_revert_on_dont_save>true</song_revert_on_dont_save></main_settings>

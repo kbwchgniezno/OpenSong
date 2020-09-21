@@ -222,8 +222,8 @@
   <Description>3</Description>
   <FileName>P</FileName>
   <title>Powietrzem moim jest</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry25>
   <Entry26>
   <Date>2020-09-17</Date>
@@ -231,8 +231,8 @@
   <Description>3</Description>
   <FileName>P</FileName>
   <title>Powietrzem moim jest</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry26>
   <Entry27>
   <Date>2020-09-17</Date>
@@ -240,8 +240,8 @@
   <Description>3</Description>
   <FileName>P</FileName>
   <title>Powietrzem moim jest</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry27>
   <Entry28>
   <Date>2020-09-17</Date>
@@ -249,8 +249,8 @@
   <Description>3</Description>
   <FileName>P</FileName>
   <title>Powietrzem moim jest</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry28>
   <Entry29>
   <Date>2020-09-17</Date>
@@ -258,6 +258,33 @@
   <Description>3</Description>
   <FileName>P</FileName>
   <title>Powietrzem moim jest</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry29>
+  <Entry30>
+  <Date>2020-09-21</Date>
+  <Time>12:53:13</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Czyste Serce (Clean)</FileName>
+  <title>Czyste Serce (Clean)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry29></log>
+  <HasChords>false</HasChords></Entry30>
+  <Entry31>
+  <Date>2020-09-21</Date>
+  <Time>12:53:37</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Czyste Serce (Clean)</FileName>
+  <title>Czyste Serce (Clean)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry31>
+  <Entry32>
+  <Date>2020-09-21</Date>
+  <Time>12:59:27</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Czyste Serce (Clean)</FileName>
+  <title>Czyste Serce (Clean)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry32></log>
