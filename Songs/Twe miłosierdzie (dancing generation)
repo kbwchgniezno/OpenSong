@@ -17,29 +17,31 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
-. C
+. D
  Twe miłosierdzie sprawia, że
-. a
+. Hm
  dziękować chcę ze wszystkich sił
-. F                  C
+. G                  D
  i zatańcze Tobie na chwałę.
-.   C
+.   D
  Twa chwała sprawia, że nasz krzyk
-. a
+. Hm
  roznosi się po ziemi tej
-. F                   C
+. G                   D
  i krzyczymy Tobie na chwałę.
 
-.      d                     C
+[b1]
+.      Em                     D
  To przepełnia nas, bo przebaczono nam
-.        F            G
+.        G            A
  widzimy Panie Cię i nie możemy milczeć
-[c]
-.        C                         d
+
+[c1]
+.        D                         Em
  Będziemy dziś tańczącym pokoleniem bo
-.                    F
+.                    G
  okazałeś swoją łaskę nam
-.             C
+.             D
  wielką łaskę nam.</lyrics>
   <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
