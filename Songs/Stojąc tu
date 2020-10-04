@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><song>  <title>Stojąc tu</title>  <author></author>  <copyright></copyright>  <hymn_number></hymn_number>  <presentation></presentation>  <ccli></ccli>  <capo print="false"></capo>  <key></key>  <aka></aka>  <key_line></key_line>  <user1></user1>  <user2></user2>  <user3></user3>  <theme></theme>  <tempo></tempo>  <time_sig></time_sig>  <lyrics>[v1]. G Stojąc tu w Twej obecności. C                              G Myśląc wciąż o dobrych rzeczach Twych.                     C                           e Czekając cierpliwie, by usłyszeć Twój delikatny głos[v2].         D       C     D Święty, Wielki, Wierny aż do końca. e      D           C Zbawca, Przyjaciel, Królem jest Pan[v3].              G Będę zawsze wielbić imię Twe.              e Będę zawsze wielbić imię Twe.              D         Będę zawsze wielbić imię Twe. C Jezu[v4].         G             e W Tobie pewność mam, obietnice mam.         D             C Miłość wiecznie trwa, zawsze..         G                e W Tobie pokój mam, pełną radość mam,.        D               C bo Ty wiecznie trwasz, zawsze.</lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Stojąc tu</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+. G
+ Stojąc tu w Twej obecności
+. C                              G
+ Myśląc wciąż o dobrych rzeczach Twych
+.                     C                           e
+ Czekając cierpliwie, by usłyszeć Twój delikatny głos
+[v2]
+.         D       C     D
+ Święty, wielki, wierny aż do końca
+. e      D           C
+ Zbawca, Przyjaciel, Królem jest Pan
+[v3]
+.              G
+ Będę zawsze wielbić Imię Twe
+.              e
+ Będę zawsze wielbić Imię Twe
+.              D        
+ Będę zawsze wielbić Imię Twe
+. C
+ Jezu
+[v4]
+.         G             e
+ W Tobie pewność mam, obietnice mam
+.         D             C
+ Miłość wiecznie trwa, zawsze.
+.         G                e
+ W Tobie pokój mam, pełną radość mam,
+.        D               C
+ bo Ty wiecznie trwasz, zawsze.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

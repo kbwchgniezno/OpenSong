@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?><song>  <title>Zawsze wierny</title>  <author></author>  <copyright></copyright>  <hymn_number></hymn_number>  <presentation></presentation>  <ccli></ccli>  <capo print="false"></capo>  <key></key>  <aka></aka>  <key_line></key_line>  <user1></user1>  <user2></user2>  <user3></user3>  <theme></theme>  <tempo></tempo>  <time_sig></time_sig>  <lyrics>[v1]. cis    H           E zawsze wierny byłeś mi. cis    H           E kiedy zawodziłem ja. cis   H    A     E   fis niepojęty w miłości swej.        A dobrze jest z Tobą być . cis    H           E darowałeś życie mi. cis    H           E zabrałeś winę mą i grzech. cis   H    A     E   fis nikt nie kocha tak jak Ty.       A dałeś życie swe[c]. E           fis  A bo jesteś dobry dla mnie zawsze Twoja łaska wiecznie trwa[v2] niepojęty jesteś Ty jednak sługą stałeś się słyszysz każdy płacz i krzyk miłosierny mój Pan  przed świętością Twoją drżę spraw bym czyste serce miał wobec świata chcę kochać Cię dawać miłość Twą </lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Zawsze wierny</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+. cis    H           E
+ zawsze wierny byłeś mi
+. cis    H           E
+ kiedy zawodziłem ja
+. cis   H    A     E   fis
+ niepojęty w miłości swej
+.        A
+ dobrze jest z Tobą być
+ 
+. cis    H           E
+ darowałeś życie mi
+. cis    H           E
+ zabrałeś winę mą i grzech
+. cis   H    A     E   fis
+ nikt nie kocha tak jak Ty
+.       A
+ dałeś życie swe
+[c]
+. E           fis  A
+ bo jesteś dobry, dla mnie zawsze
+ Twoja łaska, wiecznie trwa
+[v2]
+ niepojęty jesteś Ty
+ jednak sługą stałeś się
+ słyszysz każdy płacz i krzyk
+ miłosierny mój Pan
+ 
+ przed świętością Twoją drżę
+ spraw bym czyste serce miał
+ wobec świata chcę kochać Cię
+ dawać miłość Twą
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
