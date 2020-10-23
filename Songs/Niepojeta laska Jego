@@ -17,25 +17,49 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[C]
- Niepojęta łaska Jego 
+.G/H       Am7
+ Niepojęta łaska Jego
+.Dm7    F7      G
  Wciąż dosięga nas
+.G/H         Am7
  Gdy podnosi przemienia serca
- I uwalnia nas
+.Dm7  F     G               F
+ I uwalnia nas  X2   Prawda Ta
+
 [V1]
+.Am7            F7    Am7
  On jest ojcem sierot
+.           F7        G    Am7
  Opiekunem wdów jest dobry Bóg
- Dom swój daje 
+.
+ Dom swój daje
+.F7          Dm7 
  Wszystkim opuszczonym
+
+[v2]
+.Am7           F7    Am7
  Zsyła deszcz obfity
-[V2]
+.          F7
  Na to co spragnione 
+.   G          Am7
  I wyczerpane jest
+.                F7
  Dobry jest dla biednych
+.         Dm7       F7
  W łasce swej nasz Bóg 
+.       Dm7     G
  Do nas uniżył się
+
 [V3]
+.Am7          F7   Am7
  On zna każde serce
+.             F7      G       Am7
  nie odwraca się, gdy wzywamy Go
+.           F7
  Kocha nas pomimo tego,
+.Dm7      F7       Dm7      G
  że tak niewiele możemy Mu dać
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
