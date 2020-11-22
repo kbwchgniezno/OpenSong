@@ -375,6 +375,24 @@
   <Description>3</Description>
   <FileName>N</FileName>
   <title>Niepojeta laska Jego</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry42>
+  <Entry43>
+  <Date>2020-11-22</Date>
+  <Time>09:05:17</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Zaszczyt</FileName>
+  <title>Zaszczyt</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry42></log>
+  <HasChords>false</HasChords></Entry43>
+  <Entry44>
+  <Date>2020-11-22</Date>
+  <Time>09:05:43</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Zaszczyt</FileName>
+  <title>Zaszczyt</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry44></log>
