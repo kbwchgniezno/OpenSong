@@ -384,8 +384,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Zaszczyt</FileName>
   <title>Zaszczyt</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry43>
   <Entry44>
   <Date>2020-11-22</Date>
@@ -393,6 +393,123 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Zaszczyt</FileName>
   <title>Zaszczyt</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry44>
+  <Entry45>
+  <Date>2020-12-18</Date>
+  <Time>17:22:51</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry44></log>
+  <HasChords>false</HasChords></Entry45>
+  <Entry46>
+  <Date>2020-12-18</Date>
+  <Time>17:25:42</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry46>
+  <Entry47>
+  <Date>2020-12-18</Date>
+  <Time>17:36:18</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry47>
+  <Entry48>
+  <Date>2020-12-18</Date>
+  <Time>17:46:24</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry48>
+  <Entry49>
+  <Date>2020-12-18</Date>
+  <Time>17:46:36</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry49>
+  <Entry50>
+  <Date>2020-12-18</Date>
+  <Time>17:47:38</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry50>
+  <Entry51>
+  <Date>2020-12-18</Date>
+  <Time>17:48:24</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry51>
+  <Entry52>
+  <Date>2020-12-18</Date>
+  <Time>18:06:21</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry52>
+  <Entry53>
+  <Date>2020-12-18</Date>
+  <Time>18:07:49</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry53>
+  <Entry54>
+  <Date>2020-12-18</Date>
+  <Time>18:09:14</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry54>
+  <Entry55>
+  <Date>2020-12-18</Date>
+  <Time>18:11:04</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry55>
+  <Entry56>
+  <Date>2020-12-18</Date>
+  <Time>18:15:28</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry56>
+  <Entry57>
+  <Date>2020-12-21</Date>
+  <Time>21:11:36</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
+  <title>Pospieszcie o Wierni</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry57></log>
