@@ -402,8 +402,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry45>
   <Entry46>
   <Date>2020-12-18</Date>
@@ -411,8 +411,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry46>
   <Entry47>
   <Date>2020-12-18</Date>
@@ -420,8 +420,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry47>
   <Entry48>
   <Date>2020-12-18</Date>
@@ -429,8 +429,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry48>
   <Entry49>
   <Date>2020-12-18</Date>
@@ -438,8 +438,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry49>
   <Entry50>
   <Date>2020-12-18</Date>
@@ -447,8 +447,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry50>
   <Entry51>
   <Date>2020-12-18</Date>
@@ -456,8 +456,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry51>
   <Entry52>
   <Date>2020-12-18</Date>
@@ -465,8 +465,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry52>
   <Entry53>
   <Date>2020-12-18</Date>
@@ -474,8 +474,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry53>
   <Entry54>
   <Date>2020-12-18</Date>
@@ -483,8 +483,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry54>
   <Entry55>
   <Date>2020-12-18</Date>
@@ -492,8 +492,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry55>
   <Entry56>
   <Date>2020-12-18</Date>
@@ -501,8 +501,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry56>
   <Entry57>
   <Date>2020-12-21</Date>
@@ -510,6 +510,51 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Pospieszcie o Wierni</FileName>
   <title>Pospieszcie o Wierni</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry57>
+  <Entry58>
+  <Date>2021-01-07</Date>
+  <Time>13:20:19</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Drogi Boże (Dear God)</FileName>
+  <title>Drogi Boże (Dear God)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry57></log>
+  <HasChords>false</HasChords></Entry58>
+  <Entry59>
+  <Date>2021-01-07</Date>
+  <Time>13:22:58</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Drogi Boże (Dear God)</FileName>
+  <title>Drogi Boże (Dear God)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry59>
+  <Entry60>
+  <Date>2021-01-07</Date>
+  <Time>13:37:00</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Drogi Boże (Dear God)</FileName>
+  <title>Drogi Boże (Dear God)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry60>
+  <Entry61>
+  <Date>2021-01-07</Date>
+  <Time>13:38:36</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Drogi Boże (Dear God)</FileName>
+  <title>Drogi Boże (Dear God)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry61>
+  <Entry62>
+  <Date>2021-01-07</Date>
+  <Time>15:55:42</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Drogi Boże (Dear God)</FileName>
+  <title>Drogi Boże (Dear God)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry62></log>
