@@ -609,8 +609,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Twoim Jestem (I Surrender)</FileName>
   <title>Twoim Jestem (I Surrender)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry68>
   <Entry69>
   <Date>2021-03-11</Date>
@@ -618,8 +618,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Twoim Jestem (I Surrender)</FileName>
   <title>Twoim Jestem (I Surrender)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry69>
   <Entry70>
   <Date>2021-03-11</Date>
@@ -627,8 +627,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Twoim Jestem (I Surrender)</FileName>
   <title>Twoim Jestem (I Surrender)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry70>
   <Entry71>
   <Date>2021-03-11</Date>
@@ -636,8 +636,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Twoim Jestem (I Surrender)</FileName>
   <title>Twoim Jestem (I Surrender)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry71>
   <Entry72>
   <Date>2021-03-11</Date>
@@ -645,8 +645,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Twoim Jestem (I Surrender)</FileName>
   <title>Twoim Jestem (I Surrender)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry72>
   <Entry73>
   <Date>2021-03-11</Date>
@@ -654,6 +654,15 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Twoim Jestem (I Surrender)</FileName>
   <title>Twoim Jestem (I Surrender)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry73>
+  <Entry74>
+  <Date>2021-03-11</Date>
+  <Time>19:08:34</Time>
+  <Description>3</Description>
+  <FileName>T</FileName>
+  <title>Twoim Jestem (I Surrender)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry73></log>
+  <HasChords>true</HasChords></Entry74></log>
