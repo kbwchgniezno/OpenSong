@@ -672,8 +672,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Przenikaj</FileName>
   <title>Przenikaj</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry75>
   <Entry76>
   <Date>2021-04-30</Date>
@@ -681,6 +681,15 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Przenikaj</FileName>
   <title>Przenikaj</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry76>
+  <Entry77>
+  <Date>2021-04-30</Date>
+  <Time>16:04:28</Time>
+  <Description>3</Description>
+  <FileName>P</FileName>
+  <title>Przenikaj</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry76></log>
+  <HasChords>true</HasChords></Entry77></log>
