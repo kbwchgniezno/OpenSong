@@ -663,6 +663,24 @@
   <Description>3</Description>
   <FileName>T</FileName>
   <title>Twoim Jestem (I Surrender)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry74>
+  <Entry75>
+  <Date>2021-04-30</Date>
+  <Time>15:50:09</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Przenikaj</FileName>
+  <title>Przenikaj</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry74></log>
+  <HasChords>false</HasChords></Entry75>
+  <Entry76>
+  <Date>2021-04-30</Date>
+  <Time>15:54:50</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Przenikaj</FileName>
+  <title>Przenikaj</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry76></log>
