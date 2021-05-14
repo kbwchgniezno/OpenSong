@@ -17,13 +17,27 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
+.D          B7/D#       A7
  TEMU KTÓRY MA WSZELKĄ MOC, 
+.        D
  by was strzec,
- aby was strzec od upadku i z radością wielką 
+.D       D7         G   B7 
+ aby was strzec od upadku 
+.Em           A
+ i z radością wielką
+.           F#m           Bm 
  was stawić nieskalanych, czystych 
+.      E        A  Aaug
  przed obliczem Swym.
-[V2]
+
+[c1]
+.   D       F#m   G  B
  Jedynemu mądremu Bogu 
+.      Em           Em       A
  niech będzie wciąż chwała i moc,
+.  F#m    Baug B  E       C#      D A D
  Majestat, potęga teraz i zawsze! Amen 
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
