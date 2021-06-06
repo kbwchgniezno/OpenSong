@@ -699,8 +699,8 @@
   <Description>3</Description>
   <FileName>T</FileName>
   <title>Temu,który ma wszelka moc</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry78>
   <Entry79>
   <Date>2021-05-14</Date>
@@ -708,8 +708,8 @@
   <Description>3</Description>
   <FileName>T</FileName>
   <title>Temu,który ma wszelka moc</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry79>
   <Entry80>
   <Date>2021-05-14</Date>
@@ -717,8 +717,8 @@
   <Description>3</Description>
   <FileName>T</FileName>
   <title>Temu,który ma wszelka moc</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry80>
   <Entry81>
   <Date>2021-05-14</Date>
@@ -726,8 +726,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Nigdy Nie Zawiodłeś</FileName>
   <title>Nigdy Nie Zawiodłeś</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry81>
   <Entry82>
   <Date>2021-05-14</Date>
@@ -735,8 +735,8 @@
   <Description>7</Description>
   <FileName>( Wszystkie )/Nigdy Nie Zawiodłeś (Never Lost)</FileName>
   <title>Nigdy Nie Zawiodłeś</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry82>
   <Entry83>
   <Date>2021-05-14</Date>
@@ -744,8 +744,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Nigdy Nie Zawiodłeś (Never Lost)</FileName>
   <title>Nigdy Nie Zawiodłeś</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry83>
   <Entry84>
   <Date>2021-05-14</Date>
@@ -753,8 +753,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Nigdy Nie Zawiodłeś (Never Lost)</FileName>
   <title>Nigdy Nie Zawiodłeś</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry84>
   <Entry85>
   <Date>2021-05-14</Date>
@@ -762,8 +762,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Nigdy Nie Zawiodłeś (Never Lost)</FileName>
   <title>Nigdy Nie Zawiodłeś</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry85>
   <Entry86>
   <Date>2021-05-14</Date>
@@ -771,6 +771,51 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Nigdy Nie Zawiodłeś (Never Lost)</FileName>
   <title>Nigdy Nie Zawiodłeś</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry86>
+  <Entry87>
+  <Date>2021-05-14</Date>
+  <Time>14:18:08</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Nigdy Nie Zawiodłeś (Never Lost)</FileName>
+  <title>Nigdy Nie Zawiodłeś</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry87>
+  <Entry88>
+  <Date>2021-05-14</Date>
+  <Time>14:19:09</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Nigdy Nie Zawiodłeś (Never Lost)</FileName>
+  <title>Nigdy Nie Zawiodłeś</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry88>
+  <Entry89>
+  <Date>2021-06-06</Date>
+  <Time>08:49:16</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Daj Nam Znać</FileName>
+  <title>Daj Nam Znać</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry86></log>
+  <HasChords>false</HasChords></Entry89>
+  <Entry90>
+  <Date>2021-06-06</Date>
+  <Time>08:56:07</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Daj Nam Znać</FileName>
+  <title>Daj Nam Znać</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry90>
+  <Entry91>
+  <Date>2021-06-06</Date>
+  <Time>08:57:45</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Daj Nam Znać</FileName>
+  <title>Daj Nam Znać</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry91></log>
