@@ -834,8 +834,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Nowe Stworzenie</FileName>
   <title>Nowe Stworzenie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry93>
   <Entry94>
   <Date>2021-07-10</Date>
@@ -843,8 +843,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Nowe Stworzenie</FileName>
   <title>Nowe Stworzenie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry94>
   <Entry95>
   <Date>2021-07-10</Date>
@@ -852,6 +852,15 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Nowe Stworzenie</FileName>
   <title>Nowe Stworzenie</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry95>
+  <Entry96>
+  <Date>2021-07-10</Date>
+  <Time>11:23:21</Time>
+  <Description>3</Description>
+  <FileName>N</FileName>
+  <title>Nowe Stworzenie</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry95></log>
+  <HasChords>true</HasChords></Entry96></log>
