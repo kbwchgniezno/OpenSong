@@ -20,8 +20,11 @@
  //: Jesteś królem // 
  królem jest Pan 
 [V1]  
- Podnieśmy wszyscy nasze ręce 
- podnieśmy wszyscy nasze serca
+ Podnieśmy wszyscy nasze serca 
+ podnieśmy wszyscy nasze dłonie
  stawajmy  przed obliczem  
  Pana wielbiąc Go 
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
