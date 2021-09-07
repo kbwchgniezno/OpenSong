@@ -870,8 +870,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Poddaję Wszystko Tobie (Make Room)</FileName>
   <title>Poddaję Wszystko Tobie (Make Room)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry97>
   <Entry98>
   <Date>2021-08-31</Date>
@@ -879,8 +879,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Poddaję Wszystko Tobie (Make Room)</FileName>
   <title>Poddaję Wszystko Tobie (Make Room)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry98>
   <Entry99>
   <Date>2021-08-31</Date>
@@ -888,8 +888,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Poddaję Wszystko Tobie (Make Room)</FileName>
   <title>Poddaję Wszystko Tobie (Make Room)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry99>
   <Entry100>
   <Date>2021-08-31</Date>
@@ -897,8 +897,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Poddaję Wszystko Tobie (Make Room)</FileName>
   <title>Poddaję Wszystko Tobie (Make Room)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry100>
   <Entry101>
   <Date>2021-08-31</Date>
@@ -906,8 +906,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Poddaję Wszystko Tobie (Make Room)</FileName>
   <title>Poddaję Wszystko Tobie (Make Room)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry101>
   <Entry102>
   <Date>2021-08-31</Date>
@@ -915,8 +915,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Poddaję Wszystko Tobie (Make Room)</FileName>
   <title>Poddaję Wszystko Tobie (Make Room)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry102>
   <Entry103>
   <Date>2021-08-31</Date>
@@ -924,8 +924,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Spocznij Na Nas (Rest On Us)</FileName>
   <title>Spocznij Na Nas (Rest On Us)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry103>
   <Entry104>
   <Date>2021-08-31</Date>
@@ -933,8 +933,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Spocznij Na Nas (Rest On Us)</FileName>
   <title>Spocznij Na Nas (Rest On Us)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry104>
   <Entry105>
   <Date>2021-08-31</Date>
@@ -942,8 +942,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Spocznij Na Nas (Rest On Us)</FileName>
   <title>Spocznij Na Nas (Rest On Us)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry105>
   <Entry106>
   <Date>2021-08-31</Date>
@@ -951,8 +951,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Spocznij Na Nas (Rest On Us)</FileName>
   <title>Spocznij Na Nas (Rest On Us)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry106>
   <Entry107>
   <Date>2021-08-31</Date>
@@ -960,8 +960,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Spocznij Na Nas (Rest On Us)</FileName>
   <title>Spocznij Na Nas (Rest On Us)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry107>
   <Entry108>
   <Date>2021-08-31</Date>
@@ -969,8 +969,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Spocznij Na Nas (Rest On Us)</FileName>
   <title>Spocznij Na Nas (Rest On Us)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry108>
   <Entry109>
   <Date>2021-08-31</Date>
@@ -978,6 +978,60 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Spocznij Na Nas (Rest On Us)</FileName>
   <title>Spocznij Na Nas (Rest On Us)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry109>
+  <Entry110>
+  <Date>2021-08-31</Date>
+  <Time>18:13:02</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Spocznij Na Nas (Rest On Us)</FileName>
+  <title>Spocznij Na Nas (Rest On Us)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry110>
+  <Entry111>
+  <Date>2021-09-07</Date>
+  <Time>10:06:54</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Znajdź Mnie (Find me)</FileName>
+  <title>Znajdź Mnie (Find me)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry109></log>
+  <HasChords>false</HasChords></Entry111>
+  <Entry112>
+  <Date>2021-09-07</Date>
+  <Time>10:10:44</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Znajdź Mnie (Find me)</FileName>
+  <title>Znajdź Mnie (Find me)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry112>
+  <Entry113>
+  <Date>2021-09-07</Date>
+  <Time>10:12:11</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Znajdź Mnie (Find me)</FileName>
+  <title>Znajdź Mnie (Find me)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry113>
+  <Entry114>
+  <Date>2021-09-07</Date>
+  <Time>10:14:06</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Znajdź Mnie (Find me)</FileName>
+  <title>Znajdź Mnie (Find me)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry114>
+  <Entry115>
+  <Date>2021-09-07</Date>
+  <Time>10:43:49</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Znajdź Mnie (Find me)</FileName>
+  <title>Znajdź Mnie (Find me)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry115></log>
