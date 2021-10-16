@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<present_settings version="1.1">
+<present_settings version="1.2">
   <style blanks="true" border="true" initial_mode="N" shadow="true" thickness="2" transition="true"/>
   <default_style>
   <title align="center" bold="true" border="true" border_color="#000000" color="#FFFFFF" fill="false" fill_color="#000000" font="Helvetica" italic="true" shadow="true" shadow_color="#000000" size="26" underline="false" valign="bottom"/>
