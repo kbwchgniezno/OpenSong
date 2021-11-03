@@ -15,11 +15,11 @@
 [c1]
 .C           G              Am
  Za mało mam, gdy nie mam Cię
-.Am                     F
+.       G                 F
  Jesteś wszystkim, czego chcę
 .C            G           Am
  Na nowo dziś wypełnij mnie
-.Am                      F
+.          G             F
  Jesteś wszystkim, czego chcę
 
 [i1]
@@ -70,7 +70,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
