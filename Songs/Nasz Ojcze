@@ -4,21 +4,21 @@
   <lyrics>[v1]
 .     E
  Nasz Ojcze w niebie
-.A              H
+.A              B
  Święć się Imię Twe
 .       E        
  Twe królestwo niech przyjdzie
-.    A            H
+.    A            B
  Twa wola spełni się
 
 [c1]
-.      A          F#m           C#m           H
+.      A          F#m           C#m           B
  Twe królestwo na ziemię niech zstąpi, niech zstąpi
-.     A           F#m           C#m           H   E/A
+.     A           F#m           C#m           B   E/A
  Twe królestwo na ziemię niech zstąpi, niech zstąpi
 
 [b1]
-.    A      Hm     C#m  Hm
+.    A      Bm     C#m  Bm
  Przyjdź królestwo Twe
 .                  A
  Przyjdź królestwo Twe
@@ -26,7 +26,7 @@
 [b2]
 .A   
  Twoja jest chwała
-.         H 
+.         B 
  Twoje królestwo
 .C#m               E
  Twoja jest moc na wieki Amen</lyrics>
@@ -35,7 +35,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
