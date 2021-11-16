@@ -1581,8 +1581,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Yesuah</FileName>
   <title>Yesuah</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry176>
   <Entry177>
   <Date>2021-11-16</Date>
@@ -1590,8 +1590,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/W TObie Wszystko mam</FileName>
   <title>Yesuah</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry177>
   <Entry178>
   <Date>2021-11-16</Date>
@@ -1599,8 +1599,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Yesuah</FileName>
   <title>Yesuah</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry178>
   <Entry179>
   <Date>2021-11-16</Date>
@@ -1609,5 +1609,122 @@
   <FileName>Nasz Ojcze</FileName>
   <title>Nasz Ojcze</title>
   <author>Our Father</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry179>
+  <Entry180>
+  <Date>2021-11-16</Date>
+  <Time>13:38:45</Time>
+  <Description>7</Description>
+  <FileName>YESZUA</FileName>
+  <title>Yesuah</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry180>
+  <Entry181>
+  <Date>2021-11-16</Date>
+  <Time>13:38:52</Time>
+  <Description>7</Description>
+  <FileName>JESZUA</FileName>
+  <title>Yesuah</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry181>
+  <Entry182>
+  <Date>2021-11-16</Date>
+  <Time>13:41:34</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>Yesuah</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry182>
+  <Entry183>
+  <Date>2021-11-16</Date>
+  <Time>13:43:53</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>Yesuah</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry183>
+  <Entry184>
+  <Date>2021-11-16</Date>
+  <Time>13:44:47</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>Yesuah</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry184>
+  <Entry185>
+  <Date>2021-11-16</Date>
+  <Time>14:17:22</Time>
+  <Description>7</Description>
+  <FileName>Żydowskie/Chanuka/JESZUA</FileName>
+  <title>JESZU’A</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry185>
+  <Entry186>
+  <Date>2021-11-16</Date>
+  <Time>14:18:11</Time>
+  <Description>7</Description>
+  <FileName>Żydowskie/Chanuka/Jeszu'a</FileName>
+  <title>JESZU’A</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry186>
+  <Entry187>
+  <Date>2021-11-16</Date>
+  <Time>14:31:19</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>Yesuah</title>
+  <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry179></log>
+  <HasChords>true</HasChords></Entry187>
+  <Entry188>
+  <Date>2021-11-16</Date>
+  <Time>14:32:38</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>Yesuah</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry188>
+  <Entry189>
+  <Date>2021-11-16</Date>
+  <Time>14:38:53</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>Yesuah</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry189>
+  <Entry190>
+  <Date>2021-11-16</Date>
+  <Time>14:49:17</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>Yesuah</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry190>
+  <Entry191>
+  <Date>2021-11-16</Date>
+  <Time>15:14:14</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>JESZUA</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry191>
+  <Entry192>
+  <Date>2021-11-16</Date>
+  <Time>15:14:23</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>JESZUA</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry192></log>
