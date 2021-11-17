@@ -1680,8 +1680,8 @@
   <Description>3</Description>
   <FileName>JESZUA</FileName>
   <title>Yesuah</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry187>
   <Entry188>
   <Date>2021-11-16</Date>
@@ -1689,8 +1689,8 @@
   <Description>3</Description>
   <FileName>JESZUA</FileName>
   <title>Yesuah</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry188>
   <Entry189>
   <Date>2021-11-16</Date>
@@ -1698,8 +1698,8 @@
   <Description>3</Description>
   <FileName>JESZUA</FileName>
   <title>Yesuah</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry189>
   <Entry190>
   <Date>2021-11-16</Date>
@@ -1707,8 +1707,8 @@
   <Description>3</Description>
   <FileName>JESZUA</FileName>
   <title>Yesuah</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry190>
   <Entry191>
   <Date>2021-11-16</Date>
@@ -1716,8 +1716,8 @@
   <Description>3</Description>
   <FileName>JESZUA</FileName>
   <title>JESZUA</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry191>
   <Entry192>
   <Date>2021-11-16</Date>
@@ -1725,6 +1725,60 @@
   <Description>3</Description>
   <FileName>JESZUA</FileName>
   <title>JESZUA</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry192>
+  <Entry193>
+  <Date>2021-11-17</Date>
+  <Time>15:07:09</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
+  <title>To Ty, Mój Bóg (No One But You)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry192></log>
+  <HasChords>false</HasChords></Entry193>
+  <Entry194>
+  <Date>2021-11-17</Date>
+  <Time>15:07:23</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
+  <title>To Ty, Mój Bóg (No One But You)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry194>
+  <Entry195>
+  <Date>2021-11-17</Date>
+  <Time>15:08:41</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
+  <title>To Ty, Mój Bóg (No One But You)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry195>
+  <Entry196>
+  <Date>2021-11-17</Date>
+  <Time>15:15:11</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
+  <title>To Ty, Mój Bóg (No One But You)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry196>
+  <Entry197>
+  <Date>2021-11-17</Date>
+  <Time>15:25:41</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
+  <title>To Ty, Mój Bóg (No One But You)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry197>
+  <Entry198>
+  <Date>2021-11-17</Date>
+  <Time>15:31:02</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
+  <title>To Ty, Mój Bóg (No One But You)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry198></log>
