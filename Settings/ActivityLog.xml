@@ -1734,8 +1734,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
   <title>To Ty, Mój Bóg (No One But You)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry193>
   <Entry194>
   <Date>2021-11-17</Date>
@@ -1743,8 +1743,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
   <title>To Ty, Mój Bóg (No One But You)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry194>
   <Entry195>
   <Date>2021-11-17</Date>
@@ -1752,8 +1752,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
   <title>To Ty, Mój Bóg (No One But You)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry195>
   <Entry196>
   <Date>2021-11-17</Date>
@@ -1761,8 +1761,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
   <title>To Ty, Mój Bóg (No One But You)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry196>
   <Entry197>
   <Date>2021-11-17</Date>
@@ -1770,8 +1770,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
   <title>To Ty, Mój Bóg (No One But You)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry197>
   <Entry198>
   <Date>2021-11-17</Date>
@@ -1779,6 +1779,87 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/To Ty, Mój Bóg (No One But You)</FileName>
   <title>To Ty, Mój Bóg (No One But You)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry198>
+  <Entry199>
+  <Date>2021-11-19</Date>
+  <Time>15:31:25</Time>
+  <Description>3</Description>
+  <FileName>Panie, Twój tron</FileName>
+  <title>Panie, Twój tron</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry198></log>
+  <HasChords>true</HasChords></Entry199>
+  <Entry200>
+  <Date>2021-11-19</Date>
+  <Time>15:34:27</Time>
+  <Description>3</Description>
+  <FileName>Panie, Twój tron</FileName>
+  <title>Panie, Twój tron</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry200>
+  <Entry201>
+  <Date>2021-11-19</Date>
+  <Time>15:34:40</Time>
+  <Description>3</Description>
+  <FileName>Panie, Twój tron</FileName>
+  <title>Panie, Twój tron</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry201>
+  <Entry202>
+  <Date>2021-11-19</Date>
+  <Time>15:34:55</Time>
+  <Description>3</Description>
+  <FileName>Panie, Twój tron</FileName>
+  <title>Panie, Twój tron</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry202>
+  <Entry203>
+  <Date>2021-11-19</Date>
+  <Time>16:07:40</Time>
+  <Description>3</Description>
+  <FileName>Panie, Twój tron</FileName>
+  <title>Panie, Twój tron</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry203>
+  <Entry204>
+  <Date>2021-11-19</Date>
+  <Time>16:08:39</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>JESZUA</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry204>
+  <Entry205>
+  <Date>2021-11-19</Date>
+  <Time>16:09:27</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>JESZUA</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry205>
+  <Entry206>
+  <Date>2021-11-19</Date>
+  <Time>16:15:08</Time>
+  <Description>3</Description>
+  <FileName>JESZUA</FileName>
+  <title>JESZUA</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry206>
+  <Entry207>
+  <Date>2021-11-19</Date>
+  <Time>16:15:27</Time>
+  <Description>3</Description>
+  <FileName>Panie, Twój tron</FileName>
+  <title>Panie, Twój tron</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry207></log>
