@@ -1788,8 +1788,8 @@
   <Description>3</Description>
   <FileName>Panie, Twój tron</FileName>
   <title>Panie, Twój tron</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry199>
   <Entry200>
   <Date>2021-11-19</Date>
@@ -1797,8 +1797,8 @@
   <Description>3</Description>
   <FileName>Panie, Twój tron</FileName>
   <title>Panie, Twój tron</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry200>
   <Entry201>
   <Date>2021-11-19</Date>
@@ -1806,8 +1806,8 @@
   <Description>3</Description>
   <FileName>Panie, Twój tron</FileName>
   <title>Panie, Twój tron</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry201>
   <Entry202>
   <Date>2021-11-19</Date>
@@ -1815,8 +1815,8 @@
   <Description>3</Description>
   <FileName>Panie, Twój tron</FileName>
   <title>Panie, Twój tron</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry202>
   <Entry203>
   <Date>2021-11-19</Date>
@@ -1824,8 +1824,8 @@
   <Description>3</Description>
   <FileName>Panie, Twój tron</FileName>
   <title>Panie, Twój tron</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry203>
   <Entry204>
   <Date>2021-11-19</Date>
@@ -1833,8 +1833,8 @@
   <Description>3</Description>
   <FileName>JESZUA</FileName>
   <title>JESZUA</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry204>
   <Entry205>
   <Date>2021-11-19</Date>
@@ -1842,8 +1842,8 @@
   <Description>3</Description>
   <FileName>JESZUA</FileName>
   <title>JESZUA</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry205>
   <Entry206>
   <Date>2021-11-19</Date>
@@ -1851,8 +1851,8 @@
   <Description>3</Description>
   <FileName>JESZUA</FileName>
   <title>JESZUA</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry206>
   <Entry207>
   <Date>2021-11-19</Date>
@@ -1860,6 +1860,96 @@
   <Description>3</Description>
   <FileName>Panie, Twój tron</FileName>
   <title>Panie, Twój tron</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry207>
+  <Entry208>
+  <Date>2021-12-03</Date>
+  <Time>13:27:14</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
+  <title>Jezu jesteś w centrum</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry207></log>
+  <HasChords>false</HasChords></Entry208>
+  <Entry209>
+  <Date>2021-12-03</Date>
+  <Time>13:27:25</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
+  <title>Jezu jesteś w centrum</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry209>
+  <Entry210>
+  <Date>2021-12-03</Date>
+  <Time>13:27:49</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
+  <title>Jezu jesteś w centrum</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry210>
+  <Entry211>
+  <Date>2021-12-03</Date>
+  <Time>13:30:26</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
+  <title>Jezu jesteś w centrum</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry211>
+  <Entry212>
+  <Date>2021-12-03</Date>
+  <Time>13:30:39</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
+  <title>Jezu jesteś w centrum</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry212>
+  <Entry213>
+  <Date>2021-12-03</Date>
+  <Time>13:30:42</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
+  <title>Jezu jesteś w centrum</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry213>
+  <Entry214>
+  <Date>2021-12-03</Date>
+  <Time>13:31:38</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
+  <title>Jezu jesteś w centrum</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry214>
+  <Entry215>
+  <Date>2021-12-03</Date>
+  <Time>13:42:12</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
+  <title>Jezu jesteś w centrum</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry215>
+  <Entry216>
+  <Date>2021-12-03</Date>
+  <Time>13:47:43</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
+  <title>Jezu jesteś w centrum</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry216>
+  <Entry217>
+  <Date>2021-12-03</Date>
+  <Time>13:53:35</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
+  <title>Jezu jesteś w centrum</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry217></log>
