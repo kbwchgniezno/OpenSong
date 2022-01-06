@@ -1869,8 +1869,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
   <title>Jezu jesteś w centrum</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry208>
   <Entry209>
   <Date>2021-12-03</Date>
@@ -1878,8 +1878,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
   <title>Jezu jesteś w centrum</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry209>
   <Entry210>
   <Date>2021-12-03</Date>
@@ -1887,8 +1887,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
   <title>Jezu jesteś w centrum</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry210>
   <Entry211>
   <Date>2021-12-03</Date>
@@ -1896,8 +1896,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
   <title>Jezu jesteś w centrum</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry211>
   <Entry212>
   <Date>2021-12-03</Date>
@@ -1905,8 +1905,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
   <title>Jezu jesteś w centrum</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry212>
   <Entry213>
   <Date>2021-12-03</Date>
@@ -1914,8 +1914,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
   <title>Jezu jesteś w centrum</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry213>
   <Entry214>
   <Date>2021-12-03</Date>
@@ -1923,8 +1923,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
   <title>Jezu jesteś w centrum</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry214>
   <Entry215>
   <Date>2021-12-03</Date>
@@ -1932,8 +1932,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
   <title>Jezu jesteś w centrum</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry215>
   <Entry216>
   <Date>2021-12-03</Date>
@@ -1941,8 +1941,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
   <title>Jezu jesteś w centrum</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry216>
   <Entry217>
   <Date>2021-12-03</Date>
@@ -1950,6 +1950,105 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jezu jesteś w centrum</FileName>
   <title>Jezu jesteś w centrum</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry217>
+  <Entry218>
+  <Date>2022-01-04</Date>
+  <Time>16:44:43</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
+  <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry218>
+  <Entry219>
+  <Date>2022-01-04</Date>
+  <Time>16:45:13</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
+  <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry219>
+  <Entry220>
+  <Date>2022-01-04</Date>
+  <Time>16:46:27</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
+  <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry220>
+  <Entry221>
+  <Date>2022-01-04</Date>
+  <Time>17:02:00</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
+  <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry221>
+  <Entry222>
+  <Date>2022-01-04</Date>
+  <Time>17:04:55</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
+  <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry222>
+  <Entry223>
+  <Date>2022-01-04</Date>
+  <Time>17:07:19</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
+  <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry223>
+  <Entry224>
+  <Date>2022-01-04</Date>
+  <Time>17:10:13</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
+  <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry224>
+  <Entry225>
+  <Date>2022-01-04</Date>
+  <Time>17:17:32</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
+  <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry225>
+  <Entry226>
+  <Date>2022-01-04</Date>
+  <Time>17:18:28</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
+  <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry226>
+  <Entry227>
+  <Date>2022-01-06</Date>
+  <Time>11:56:01</Time>
+  <Description>3</Description>
+  <FileName>Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
+  <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry217></log>
+  <HasChords>true</HasChords></Entry227>
+  <Entry228>
+  <Date>2022-01-06</Date>
+  <Time>11:56:10</Time>
+  <Description>3</Description>
+  <FileName>Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
+  <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry228></log>
