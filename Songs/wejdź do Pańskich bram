@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>wejdź do Pańskich bram</title>
+  <title>Wejdź do Pańskich bram</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -35,4 +35,7 @@
 -         C   D   G
  Pan nasz dobry jest
 -    C          D     G
- Jego łaska na wieki trwa</lyrics></song>
+ Jego łaska na wieki trwa</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
