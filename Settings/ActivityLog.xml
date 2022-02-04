@@ -2040,8 +2040,8 @@
   <Description>3</Description>
   <FileName>Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
   <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry227>
   <Entry228>
   <Date>2022-01-06</Date>
@@ -2049,6 +2049,69 @@
   <Description>3</Description>
   <FileName>Groby zmieniasz w ogrody (Graves Into Gardens)</FileName>
   <title>Groby zmieniasz w ogrody (Graves Into Gardens)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry228>
+  <Entry229>
+  <Date>2022-01-06</Date>
+  <Time>14:31:20</Time>
+  <Description>3</Description>
+  <FileName>Nigdy Nie Zawiodłeś (Never Lost)</FileName>
+  <title>Nigdy Nie Zawiodłeś</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry229>
+  <Entry230>
+  <Date>2022-02-04</Date>
+  <Time>15:27:27</Time>
+  <Description>3</Description>
+  <FileName>Memu Bogu</FileName>
+  <title>Memu Bogu 2</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry228></log>
+  <HasChords>false</HasChords></Entry230>
+  <Entry231>
+  <Date>2022-02-04</Date>
+  <Time>15:27:51</Time>
+  <Description>7</Description>
+  <FileName>Memu Bogu 2</FileName>
+  <title>Memu Bogu 2</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry231>
+  <Entry232>
+  <Date>2022-02-04</Date>
+  <Time>15:27:59</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Memu Bogu</FileName>
+  <title>Memu Bogu</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry232>
+  <Entry233>
+  <Date>2022-02-04</Date>
+  <Time>15:29:29</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Memu Bogu</FileName>
+  <title>Memu Bogu</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry233>
+  <Entry234>
+  <Date>2022-02-04</Date>
+  <Time>15:30:35</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Memu Bogu</FileName>
+  <title>Memu Bogu</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry234>
+  <Entry235>
+  <Date>2022-02-04</Date>
+  <Time>15:44:32</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Memu Bogu</FileName>
+  <title>Memu Bogu</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry235></log>

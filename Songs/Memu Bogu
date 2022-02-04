@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Memu Bogu</title>
+  <lyrics>[v1]
+.C
+ Jesteś nieskończenie wielki, umocniłeś ziemię i się nigdy nie zachwieje
+ Jesteś nieskończenie piękny, Ty ubrałeś wszystkie kwiaty, na Twą cześć śpiewają ptaki
+ Jesteś nieskończenie wierny, Ty nas karmisz i prowadzisz, w swoim czasie wszystko dajesz
+ Jesteś nieskończenie święty, święty, święty, święty
+
+[c1]
+.A              Hm                     A
+ Memu Bogu będę śpiewał jak długo będę żył
+.                D                   A
+ Memu Bogu będę grał póki starczy mi sił
+.               Hm                     A
+ Memu Bogu będę śpiewał jak długo będę żył
+.               D                    A
+ Memu Bogu będę grał póki starczy mi sił
+.               Hm                    F#m
+ Memu Bogu będę śpiewał jak długo będę żył
+.               D                    A
+ Memu Bogu będę grał póki starczy mi sił
+.               Hm                     C#m
+ Memu Bogu będę śpiewał jak długo będę żył
+.               D                    A
+ Memu Bogu będę grał póki starczy mi sił
+
+[b1]
+.E F G
+
+
+[v2]
+.C
+ Jesteś nieskończenie mądry, słońce wie kiedy wstaje, zsyłasz noc – ciemność nastaje
+ Jesteś nieskończenie hojny, gdy otwierasz rękę – wszystko dobrem się napełnia
+ Jesteś nieskończenie dobry, tam gdzie zsyłasz Ducha – stwarzasz, ziemię naszych serc odnawiasz
+ Jesteś nieskończenie święty, święty, święty, święty</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -14,12 +49,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[v1]
- Memu Bogu, Królowi 
- Będę śpiewać tę pieśń
- Teraz zawsze na wieki amen.
- Alleluja, alleluja, alleluja, amen.
- 
- </lyrics></song>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
