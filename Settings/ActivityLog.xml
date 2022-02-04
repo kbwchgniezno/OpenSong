@@ -2067,8 +2067,8 @@
   <Description>3</Description>
   <FileName>Memu Bogu</FileName>
   <title>Memu Bogu 2</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry230>
   <Entry231>
   <Date>2022-02-04</Date>
@@ -2076,8 +2076,8 @@
   <Description>7</Description>
   <FileName>Memu Bogu 2</FileName>
   <title>Memu Bogu 2</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry231>
   <Entry232>
   <Date>2022-02-04</Date>
@@ -2085,8 +2085,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Memu Bogu</FileName>
   <title>Memu Bogu</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry232>
   <Entry233>
   <Date>2022-02-04</Date>
@@ -2094,8 +2094,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Memu Bogu</FileName>
   <title>Memu Bogu</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry233>
   <Entry234>
   <Date>2022-02-04</Date>
@@ -2103,8 +2103,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Memu Bogu</FileName>
   <title>Memu Bogu</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry234>
   <Entry235>
   <Date>2022-02-04</Date>
@@ -2112,6 +2112,24 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Memu Bogu</FileName>
   <title>Memu Bogu</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry235>
+  <Entry236>
+  <Date>2022-02-04</Date>
+  <Time>15:58:33</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Błogosławiony</FileName>
+  <title>Błogosławiony</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry235></log>
+  <HasChords>false</HasChords></Entry236>
+  <Entry237>
+  <Date>2022-02-04</Date>
+  <Time>16:12:24</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Błogosławiony</FileName>
+  <title>Błogosławiony</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry237></log>
