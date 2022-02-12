@@ -2121,8 +2121,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Błogosławiony</FileName>
   <title>Błogosławiony</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry236>
   <Entry237>
   <Date>2022-02-04</Date>
@@ -2130,6 +2130,42 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Błogosławiony</FileName>
   <title>Błogosławiony</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry237>
+  <Entry238>
+  <Date>2022-02-12</Date>
+  <Time>11:22:53</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/ABBA</FileName>
+  <title>ABBA</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry237></log>
+  <HasChords>false</HasChords></Entry238>
+  <Entry239>
+  <Date>2022-02-12</Date>
+  <Time>11:25:58</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/ABBA</FileName>
+  <title>ABBA</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry239>
+  <Entry240>
+  <Date>2022-02-12</Date>
+  <Time>11:51:04</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/ABBA</FileName>
+  <title>ABBA Melech Haolam</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry240>
+  <Entry241>
+  <Date>2022-02-12</Date>
+  <Time>12:08:26</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/ABBA</FileName>
+  <title>ABBA Melech Haolam</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry241></log>
