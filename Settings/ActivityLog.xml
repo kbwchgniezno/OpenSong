@@ -2139,8 +2139,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/ABBA</FileName>
   <title>ABBA</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry238>
   <Entry239>
   <Date>2022-02-12</Date>
@@ -2148,8 +2148,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/ABBA</FileName>
   <title>ABBA</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry239>
   <Entry240>
   <Date>2022-02-12</Date>
@@ -2157,8 +2157,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/ABBA</FileName>
   <title>ABBA Melech Haolam</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry240>
   <Entry241>
   <Date>2022-02-12</Date>
@@ -2166,6 +2166,69 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/ABBA</FileName>
   <title>ABBA Melech Haolam</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry241>
+  <Entry242>
+  <Date>2022-02-15</Date>
+  <Time>11:47:19</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/ABBA</FileName>
+  <title>ABBA Melech Haolam</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry242>
+  <Entry243>
+  <Date>2022-02-21</Date>
+  <Time>12:08:03</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
+  <title>Dobroć (Goodness Of God)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry241></log>
+  <HasChords>false</HasChords></Entry243>
+  <Entry244>
+  <Date>2022-02-21</Date>
+  <Time>12:08:33</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
+  <title>Dobroć (Goodness Of God)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry244>
+  <Entry245>
+  <Date>2022-02-21</Date>
+  <Time>12:19:42</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
+  <title>Dobroć (Goodness Of God)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry245>
+  <Entry246>
+  <Date>2022-02-21</Date>
+  <Time>12:21:00</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
+  <title>Dobroć (Goodness Of God)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry246>
+  <Entry247>
+  <Date>2022-02-21</Date>
+  <Time>12:24:32</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
+  <title>Dobroć (Goodness Of God)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry247>
+  <Entry248>
+  <Date>2022-02-21</Date>
+  <Time>12:29:21</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
+  <title>Dobroć (Goodness Of God)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry248></log>
