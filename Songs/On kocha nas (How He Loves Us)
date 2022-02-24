@@ -2,43 +2,64 @@
 <song>
   <title>On kocha nas (How He Loves Us)</title>
   <lyrics>[v1]
-.C Am G F
+.C
  On zazdrosny jest
+.Am
  Kocha jak wiatr ja jestem drzewem
+.G                                      F
  Kołyszę się czując Jego miłość i Jego łaskę
- I nagle juz wiem, ze co otacza mnie
+.   C
+ I nagle juz wiem, że co otacza mnie
+.    Am
  Nie mogło się odbyć bez Niego
+.  G
  I zdaję sobie sprawę jak On kocha mnie
+.     F
  Jak troszczy się, czuwa nade mną
 
 [c1]
-.C Am G F
+.C                Am
  Tak On tak kocha nas
+.            G
  On tak nas kocha
+.             F
  On tak kocha nas
 
 . On kocha, On Kocha, On Kocham tak kocha mnie
 . On Cię Kocha, On Cię Kocha, On tak kocha Cię
 
+
+[b1]
+.C
+ On jest naszym tatą
+.
+ A my jesteśmy dziećmi
+.Am
+ Wszystko co tu mamy
+.
+ Dostaliśmy z Jego ręki
+. G
+ I wszystko co spotyka nas
+.                        F
+ Nie mogło się odbyć bez Niego
+
+.C
+ On jest naszym tatą
+.
+ Najlepszy jaki jest
+.Am
+ Bez Niego nic nie mogę
+.
+ Bez Niego nie ma mnie
+. G
+ I nie ma już czasu na żal i na gniew
+.       F
+ Kiedy myślę znów jak kocha mnie
+
+[inst1}
 .G Am F
 .oo ooo ooo ooo ooo
 
-[b1]
-.G Am F
- On jest naszym tatą
- A my jesteśmy dziećmi
- Wszystko co tu mamy
- Dostaliśmy z Jego reki
- I wszystko co spotyka nas
- Nie mogło się odbyć bez Niego
-
-.G Am F
- On jest naszym tatą
- najlepszy jaki jest
- Bez Niego nic nie mogę
- Bez Niego nie ma mnie
- I nie ma już czasu na żal i na gniew
- Kiedy myślę znów jak kocha mnie
 
 
 </lyrics>
@@ -47,7 +68,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

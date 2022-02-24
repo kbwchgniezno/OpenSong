@@ -2184,8 +2184,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
   <title>Dobroć (Goodness Of God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry243>
   <Entry244>
   <Date>2022-02-21</Date>
@@ -2193,8 +2193,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
   <title>Dobroć (Goodness Of God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry244>
   <Entry245>
   <Date>2022-02-21</Date>
@@ -2202,8 +2202,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
   <title>Dobroć (Goodness Of God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry245>
   <Entry246>
   <Date>2022-02-21</Date>
@@ -2211,8 +2211,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
   <title>Dobroć (Goodness Of God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry246>
   <Entry247>
   <Date>2022-02-21</Date>
@@ -2220,8 +2220,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
   <title>Dobroć (Goodness Of God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry247>
   <Entry248>
   <Date>2022-02-21</Date>
@@ -2229,6 +2229,15 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dobroć (Goodness Of God)</FileName>
   <title>Dobroć (Goodness Of God)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry248>
+  <Entry249>
+  <Date>2022-02-24</Date>
+  <Time>11:49:44</Time>
+  <Description>3</Description>
+  <FileName>On kocha nas (How He Loves Us)</FileName>
+  <title>On kocha nas (How He Loves Us)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry248></log>
+  <HasChords>true</HasChords></Entry249></log>
