@@ -2319,8 +2319,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Egipt (Egypt)</FileName>
   <title>Egipt (Egypt)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry258>
   <Entry259>
   <Date>2022-03-24</Date>
@@ -2328,8 +2328,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Egipt (Egypt)</FileName>
   <title>Egipt (Egypt)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry259>
   <Entry260>
   <Date>2022-03-24</Date>
@@ -2337,8 +2337,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Egipt (Egypt)</FileName>
   <title>Egipt (Egypt)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry260>
   <Entry261>
   <Date>2022-03-24</Date>
@@ -2346,8 +2346,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Egipt (Egypt)</FileName>
   <title>Egipt (Egypt)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry261>
   <Entry262>
   <Date>2022-03-24</Date>
@@ -2355,8 +2355,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Egipt (Egypt)</FileName>
   <title>Egipt (Egypt)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry262>
   <Entry263>
   <Date>2022-03-24</Date>
@@ -2364,6 +2364,33 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Egipt (Egypt)</FileName>
   <title>Egipt (Egypt)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry263>
+  <Entry264>
+  <Date>2022-04-05</Date>
+  <Time>07:54:04</Time>
+  <Description>3</Description>
+  <FileName>Jezus daje nam zbawienie</FileName>
+  <title>Jezus daje nam zbawienie</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry263></log>
+  <HasChords>true</HasChords></Entry264>
+  <Entry265>
+  <Date>2022-04-05</Date>
+  <Time>07:54:11</Time>
+  <Description>3</Description>
+  <FileName>Jezus daje nam zbawienie</FileName>
+  <title>Jezus daje nam zbawienie</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry265>
+  <Entry266>
+  <Date>2022-04-05</Date>
+  <Time>07:55:32</Time>
+  <Description>3</Description>
+  <FileName>Jezus daje nam zbawienie</FileName>
+  <title>Jezus daje nam zbawienie</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry266></log>
