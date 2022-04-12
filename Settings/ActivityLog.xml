@@ -2373,8 +2373,8 @@
   <Description>3</Description>
   <FileName>Jezus daje nam zbawienie</FileName>
   <title>Jezus daje nam zbawienie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry264>
   <Entry265>
   <Date>2022-04-05</Date>
@@ -2382,8 +2382,8 @@
   <Description>3</Description>
   <FileName>Jezus daje nam zbawienie</FileName>
   <title>Jezus daje nam zbawienie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry265>
   <Entry266>
   <Date>2022-04-05</Date>
@@ -2391,6 +2391,33 @@
   <Description>3</Description>
   <FileName>Jezus daje nam zbawienie</FileName>
   <title>Jezus daje nam zbawienie</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry266>
+  <Entry267>
+  <Date>2022-04-12</Date>
+  <Time>13:32:47</Time>
+  <Description>3</Description>
+  <FileName>Golgoto</FileName>
+  <title>Golgoto</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry266></log>
+  <HasChords>true</HasChords></Entry267>
+  <Entry268>
+  <Date>2022-04-12</Date>
+  <Time>13:34:27</Time>
+  <Description>3</Description>
+  <FileName>Golgoto</FileName>
+  <title>Golgoto</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry268>
+  <Entry269>
+  <Date>2022-04-12</Date>
+  <Time>13:35:17</Time>
+  <Description>3</Description>
+  <FileName>Golgoto</FileName>
+  <title>Golgoto</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry269></log>

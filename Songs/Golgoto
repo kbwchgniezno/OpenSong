@@ -2,9 +2,9 @@
 <song>
   <title>Golgoto</title>
   <lyrics>[v1]
-.Am          Am              Am  Am
+.Am              Dm           Am 
  W tej ciszy przebywać wciąż chcę, 
-.Am          Am           Am  Am
+.Am           Dm           Am 
  W tej ciszy daleki świat ten. 
 .   Dm             Am
  Ty koisz mój ból, usuwasz mój strach,
@@ -12,9 +12,9 @@
  Gdy widzę Cię Zbawco przez łzy. 
 
 [v2]
-.Am
+.Am            Dm       Am
  Ja widzę Cię Jezu mój tam, 
-.Am
+.Am              Dm      Am
  Jak wiele masz sińców i ran. 
 .Dm                Am      
  Miłości Twej moc, zawiodła Cię tam, 
@@ -32,9 +32,9 @@
  Choć tak dawno to się stało, widziałeś mnie. 
 
 [v3]
-.Am
+.Am             Dm         Am
  Wspominam tak często ten dzień, 
-.Am
+.Am          Dm         Am
  Golgotę i słodki jej cień. 
 .    Dm                  Am
  Przyszedłem pod Krzyż z ciężarem swych win,
@@ -47,7 +47,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
