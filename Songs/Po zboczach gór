@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><song>  <title>Po zboczach gór</title>  <author></author>  <copyright></copyright>  <hymn_number></hymn_number>  <presentation></presentation>  <ccli></ccli>  <capo print="false"></capo>  <key></key>  <aka></aka>  <key_line></key_line>  <user1></user1>  <user2></user2>  <user3></user3>  <theme></theme>  <tempo></tempo>  <time_sig></time_sig>  <lyrics> {v1}.E                          fis                               A Po zboczach gór przez morza kres, biegnie Twa miłość w każdy dzień.                         H                             E Dla niej otwieram serca drzwi, Ty Panie dajesz wolność mi. W Twej prawdzie chodzę, cieszę się Codziennie wznoszę ręce swe Ty dajesz miłość swą i o niej będę śpiewać.[c]. E              fis           A      H O miłości Twej będę śpiewać, wciąż...[v2].fis                E     A                H I czuję się jak w tańcu, to niedorzeczne, wiem Lecz kiedy świat doświadczy Cię, zechcę tańczyć też, jak my cieszyć się!</lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Po zboczach gór</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics> {v1}
+.E                          F#m                    
+ Po zboczach gór przez morza kres, 
+.                            A
+ Biegnie Twa miłość w każdy dzień
+.                         H                             E
+ Dla niej otwieram serca drzwi, Ty Panie dajesz wolność mi.
+.E                              F#m
+ W Twej prawdzie chodzę, cieszę się
+.                         A
+ Codziennie wznoszę ręce swe
+.                         H
+ Ty dajesz miłość swą i o niej będę śpiewać.
+
+[c]
+. E              F#m           A                    H
+ O miłości Twej będę śpiewać, wciąż o miłości Twej będę śpiewać
+
+[b1]
+.F#m                E     A                H
+ I czuję się jak w tańcu, to niedorzeczne, wiem
+.F#m                 E                     A                  H
+ Lecz kiedy świat doświadczy Cię, zechcę tańczyć też, jak my cieszyć się!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
