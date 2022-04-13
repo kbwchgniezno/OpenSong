@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -17,16 +17,21 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
-. cis                        A            E    
+. C#m                        A            E    
  Nie spoczniesz w żarliwości swej nim będę Twój
-.          fis  
+.          F#m  
  Masz serce me x2
  
 [v2]
+.        C#m           A
  Pieczęć Twą na sercu swym
+.         E       F#m           C#m
  Pieczęć Twą na ramieniu kładę swym
+.           A             E
  Bo miłość Twa tak mocna jest jak śmierć
- płomień Pana to miłości żar
+.         F#m            C#m
+ Płomień Pana to miłości żar
+.          A    E            F#m
  A wielkie wody nie zagaszą jej
  
  
