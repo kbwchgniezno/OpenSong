@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -16,20 +16,23 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>. C      F G        C
+  <lyrics>. G      C D        G
  Czcijmy Jezusa, czcijmy Go!
-. F         G
+. C         D
  Oddajmy Mu chwałę x2
-. C      F  G     C
+. G      C  D     G
  Czcijmy Jezusa, czcijmy Go!
  
-.         G                    a
+.         D                    Em
  Powstał z martwych! Powstał z martwych!
-.     G             a 
+.     D             Em
  I On żyje na wieki już!
-.           G                  a
+.           D                  Em
  Powstał z martwych! Powstał z martwych!
-.           G           F
+.           D           C
  Więc razem się radujmy x3
-.          G                      C
- Świętując zmartwychwstania ten dzień!</lyrics></song>
+.          D                      G
+ Świętując zmartwychwstania ten dzień!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
