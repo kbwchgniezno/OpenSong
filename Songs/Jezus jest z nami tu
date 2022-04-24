@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>jezus jest z nami tu</title>
+  <title>Jezus jest z nami tu</title>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -23,4 +23,7 @@
  A Jego moc działa dziś, by zbawić cię.
  A Jego moc działa dziś, by namaścić cię
  Jezus jest z nami tu.
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
