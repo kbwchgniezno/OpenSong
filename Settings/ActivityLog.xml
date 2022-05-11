@@ -2796,8 +2796,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Naprawdę wolny (Free Indeed)</FileName>
   <title>Naprawdę wolny (Free Indeed)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry311>
   <Entry312>
   <Date>2022-05-11</Date>
@@ -2805,8 +2805,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Naprawdę wolny (Free Indeed)</FileName>
   <title>Naprawdę wolny (Free Indeed)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry312>
   <Entry313>
   <Date>2022-05-11</Date>
@@ -2814,8 +2814,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Naprawdę wolny (Free Indeed)</FileName>
   <title>Naprawdę wolny (Free Indeed)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry313>
   <Entry314>
   <Date>2022-05-11</Date>
@@ -2823,8 +2823,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Naprawdę wolny (Free Indeed)</FileName>
   <title>Naprawdę wolny (Free Indeed)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry314>
   <Entry315>
   <Date>2022-05-11</Date>
@@ -2832,8 +2832,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Naprawdę wolny (Free Indeed)</FileName>
   <title>Naprawdę wolny (Free Indeed)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry315>
   <Entry316>
   <Date>2022-05-11</Date>
@@ -2841,6 +2841,33 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Naprawdę wolny (Free Indeed)</FileName>
   <title>Naprawdę wolny (Free Indeed)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry316>
+  <Entry317>
+  <Date>2022-05-11</Date>
+  <Time>12:16:04</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Naprawdę wolny (Free Indeed)</FileName>
+  <title>Naprawdę wolny (Free Indeed)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry317>
+  <Entry318>
+  <Date>2022-05-11</Date>
+  <Time>13:12:28</Time>
+  <Description>3</Description>
+  <FileName>Naprawdę wolny (Free Indeed)</FileName>
+  <title>Naprawdę wolny (Free Indeed)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry316></log>
+  <HasChords>true</HasChords></Entry318>
+  <Entry319>
+  <Date>2022-05-11</Date>
+  <Time>13:12:58</Time>
+  <Description>3</Description>
+  <FileName>Naprawdę wolny (Free Indeed)</FileName>
+  <title>Naprawdę wolny (Free Indeed)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry319></log>
