@@ -1,54 +1,67 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Baranek i Lew (Lion And The Lamb)</title>
   <author>Lion And The Lamb</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
-  <lyrics>
+  <lyrics>.CAPO 2
 [v1]
-.A
+.G
  On przyjdzie pośród chwał
-.               Bm     D
+.               Am     C
  I każdy wyzna, że to Pan
-.F#m
+.Em
  Kajdany zerwą się
-.                      E        D
+.                      D        C
  A z wdzięcznych serc popłynie pieśń
-.                    E
+.                    D
  Któż jest jak nasz Bóg Wszechmocny
 
 [c]
-.A                       E          F#m
+.G                       D          Em
  Nasz Bóg jest jak Lew, potężny Lew Judy
-.                     E             D
+.                     D             C
  Jest niepokonany, On sam walczy za nas
-.                   E
+.                   D
  Wszyscy się pokłonią przed Nim
-.A                     E          F#m
+.G                     D          Em
  Nasz Bóg jak Baranek, wydany na śmierć
-.                       E            D
+.                       D            C
  Żeby Jego święta krew zmazała nasz grzech
-.                 E                          D
+.                 D                          C
  Wszyscy się pokłonią przed Barankiem, jak i Lwem
-.               E
+.               D
  Wszyscy się pokłonią przed Nim
 
 [v2]
-.A
+.G
  Torujcie drogę Mu
-.                 Bm      D
+.                 Am      C
  Bo już nadchodzi królów Król
-.F#m
+.Em
  Całego świata Pan
-.                E       D
+.                D       C
  Przychodzi, by uwolnić nas
-.                   E
+.                   D
  Któż jest jak nasz Bóg Wszechmocny
 
 [b]
-.Bm                 A
+.Am                 G
  Któż jest jak nasz Bóg Wszechmocny
-.D                  E
+.C                  D
  Któż jest jak nasz Bóg</lyrics>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
