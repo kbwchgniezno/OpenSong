@@ -3282,8 +3282,8 @@
   <Description>3</Description>
   <FileName>Wszystko Tobie oddać chcę (Presence)</FileName>
   <title>Wszystko Tobie oddać chcę (Presence)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry365>
   <Entry366>
   <Date>2022-06-17</Date>
@@ -3291,8 +3291,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Ja Ciebie chcę (Nothing Else)</FileName>
   <title>Ja Ciebie chcę (Nothing Else)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry366>
   <Entry367>
   <Date>2022-06-17</Date>
@@ -3300,8 +3300,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Ja Ciebie chcę (Nothing Else)</FileName>
   <title>Ja Ciebie chcę (Nothing Else)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry367>
   <Entry368>
   <Date>2022-06-17</Date>
@@ -3309,8 +3309,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Ja Ciebie chcę (Nothing Else)</FileName>
   <title>Ja Ciebie chcę (Nothing Else)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry368>
   <Entry369>
   <Date>2022-06-17</Date>
@@ -3318,8 +3318,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Ja Ciebie chcę (Nothing Else)</FileName>
   <title>Ja Ciebie chcę (Nothing Else)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry369>
   <Entry370>
   <Date>2022-06-17</Date>
@@ -3327,8 +3327,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Ja Ciebie chcę (Nothing Else)</FileName>
   <title>Ja Ciebie chcę (Nothing Else)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry370>
   <Entry371>
   <Date>2022-06-17</Date>
@@ -3336,8 +3336,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Ja Ciebie chcę (Nothing Else)</FileName>
   <title>Ja Ciebie chcę (Nothing Else)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry371>
   <Entry372>
   <Date>2022-06-17</Date>
@@ -3345,8 +3345,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Ja Ciebie chcę (Nothing Else)</FileName>
   <title>Ja Ciebie chcę (Nothing Else)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry372>
   <Entry373>
   <Date>2022-06-17</Date>
@@ -3354,6 +3354,105 @@
   <Description>3</Description>
   <FileName>( Główny )/Ja Ciebie chcę (Nothing Else)</FileName>
   <title>Ja Ciebie chcę (Nothing Else)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry373>
+  <Entry374>
+  <Date>2022-07-09</Date>
+  <Time>12:24:53</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Lew (LION)</FileName>
+  <title>Lew (LION)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry373></log>
+  <HasChords>false</HasChords></Entry374>
+  <Entry375>
+  <Date>2022-07-09</Date>
+  <Time>12:25:34</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Lew (LION)</FileName>
+  <title>Lew (LION)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry375>
+  <Entry376>
+  <Date>2022-07-09</Date>
+  <Time>12:36:47</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Lew (LION)</FileName>
+  <title>Lew (LION)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry376>
+  <Entry377>
+  <Date>2022-07-09</Date>
+  <Time>12:42:37</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Lew (LION)</FileName>
+  <title>Lew (LION)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry377>
+  <Entry378>
+  <Date>2022-07-09</Date>
+  <Time>12:44:02</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Lew (LION)</FileName>
+  <title>Lew (LION)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry378>
+  <Entry379>
+  <Date>2022-07-09</Date>
+  <Time>12:44:28</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Lew (LION)</FileName>
+  <title>Lew (LION)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry379>
+  <Entry380>
+  <Date>2022-07-09</Date>
+  <Time>12:44:32</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Lew (LION)</FileName>
+  <title>Lew (LION)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry380>
+  <Entry381>
+  <Date>2022-07-09</Date>
+  <Time>13:00:28</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Lew (LION)</FileName>
+  <title>Lew (LION)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry381>
+  <Entry382>
+  <Date>2022-07-09</Date>
+  <Time>13:01:09</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Lew (LION)</FileName>
+  <title>Lew (LION)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry382>
+  <Entry383>
+  <Date>2022-07-09</Date>
+  <Time>13:03:13</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Lew (LION)</FileName>
+  <title>Lew (LION)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry383>
+  <Entry384>
+  <Date>2022-07-09</Date>
+  <Time>13:06:54</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Lew (LION)</FileName>
+  <title>Lew (LION)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry384></log>
