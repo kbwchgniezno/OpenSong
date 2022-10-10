@@ -3840,8 +3840,8 @@
   <Description>1</Description>
   <FileName>( Główny )/ALLELUJA (Alleluia)</FileName>
   <title>ALLELUJA (Alleluia)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry427>
   <Entry428>
   <Date>2022-09-21</Date>
@@ -3849,8 +3849,8 @@
   <Description>3</Description>
   <FileName>( Główny )/ALLELUJA (Alleluia)</FileName>
   <title>ALLELUJA (Alleluia)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry428>
   <Entry429>
   <Date>2022-09-21</Date>
@@ -3858,8 +3858,8 @@
   <Description>3</Description>
   <FileName>( Główny )/ALLELUJA (Alleluia)</FileName>
   <title>ALLELUJA (Alleluia)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry429>
   <Entry430>
   <Date>2022-09-21</Date>
@@ -3867,8 +3867,8 @@
   <Description>3</Description>
   <FileName>( Główny )/ALLELUJA (Alleluia)</FileName>
   <title>ALLELUJA (Alleluia)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry430>
   <Entry431>
   <Date>2022-09-21</Date>
@@ -3876,8 +3876,8 @@
   <Description>3</Description>
   <FileName>( Główny )/ALLELUJA (Alleluia)</FileName>
   <title>ALLELUJA (Alleluia)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry431>
   <Entry432>
   <Date>2022-09-21</Date>
@@ -3885,6 +3885,60 @@
   <Description>3</Description>
   <FileName>( Główny )/ALLELUJA (Alleluia)</FileName>
   <title>ALLELUJA (Alleluia)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry432>
+  <Entry433>
+  <Date>2022-09-22</Date>
+  <Time>08:58:14</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/ALLELUJA (Alleluia)</FileName>
+  <title>ALLELUJA (Alleluia)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry433>
+  <Entry434>
+  <Date>2022-09-28</Date>
+  <Time>17:12:19</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Raduje się dusza ma</FileName>
+  <title>Raduje się dusza ma</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry432></log>
+  <HasChords>false</HasChords></Entry434>
+  <Entry435>
+  <Date>2022-09-28</Date>
+  <Time>17:12:40</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Raduje się dusza ma</FileName>
+  <title>Raduje się dusza ma</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry435>
+  <Entry436>
+  <Date>2022-09-28</Date>
+  <Time>17:19:31</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Raduje się dusza ma</FileName>
+  <title>Raduje się dusza ma</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry436>
+  <Entry437>
+  <Date>2022-09-28</Date>
+  <Time>17:22:38</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Raduje się dusza ma</FileName>
+  <title>Raduje się dusza ma</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry437>
+  <Entry438>
+  <Date>2022-09-28</Date>
+  <Time>17:25:55</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Raduje się dusza ma</FileName>
+  <title>Raduje się dusza ma</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry438></log>
