@@ -1,45 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Cały świat niech pozna Cię</title>
-  <lyrics>[c1]
-.     A           E     D        A         E       D
+  <lyrics>;CAPO 2
+[c1]
+.     G           D     C        G         D       C
  Cały Świat niech pozna Cię, Twą potęgę i chwałę i moc.
-.      A     E      D         F#m E
- Każdy język wyzna, że jesteś Pan_em.
-.      A     E      D      A       E     D
+.      G     D      C         Em D
+ Każdy język wyzna, że jesteś Panem.
+.      G     D      C      G       D     C
  Każdy naród dowie się o miłości i łasce Twej.
-.      A        E     D         F#m E
- Każdy człowiek uzna, że jesteś Pan_em.
+.      G        D     C         Em D
+ Każdy człowiek uzna, że jesteś Panem.
 
 [v1]
-.F#m               E                    A             D
+.Em                D                    G             C
  Nikt nie jest tak święty jak ty, prócz ciebie nie ma nikogo.
-.F#m                     E                  A
+.Em                      D                  G
  Nikt nie jest skałą tak mocną jak Ty, nasz Bóg.
-.F#m              E                   A                     D
+.Em               D                   G                     C
  Serce przepełnia radość i strach, bo chwała wróciła wraz z Tobą.
-.F#m                 E           A
+.Em                  D           G
  Do swojej własności przyszedłeś Adonai.
 
 [v2]
-.F#m                E                    A            D
+.Em                 D                    G            C
  Ty wszystko wiesz, przenikasz i znasz i jesteś pewną ostoją.
-.F#m                     E                 A
+.Em                      D                 G
  Najsłabszych podnosisz, ochraniasz tarczą swą.
-.F#m              E                   A               D
+.Em               D                   G               C
  Zuchwali i dumni rozproszą się, lecz ufni cieszą się Tobą.
-.F#m                     E             A
+.Em                      D             G
  Pieśni zwycięstwa niech głoszą prawdę tą.
 
 [b1]
-.D   A      F#m        E
+.C   G      Em         D
  Wywyższony bądź wśród nas
-.D           A     F#m   E
+.C           G     Em    D
  Adonai, EL ELJON, EL SZADAJ     X4
 
-.Cały świat niech pozna Cię...
+.A#ały świat niech pozna A#ię...
 
-.INSTR. D A F#m E
+.INSTR. C G Em D
 
 .Wywyższony X4</lyrics>
   <author></author>
@@ -47,7 +48,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -16,48 +16,48 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[v1]
-.A     E                 F#m     D
+  <lyrics>;CAPO 2
+[v1]
+.G     D                 Em      C
  Błogosławię Cię, kiedy ziemia wydaje plon
-.     A              E             D	 	
+.     G              D             C
  Gdy obfitość Panie zlewasz Swą, błogosławię Cię
-.A      E             F#m              D
+.G      D             Em               C
  Błogosławię Cię, gdy pustynia w krąg otacza mnie
-.A                        E       D        
+.G                        D       C
  Choćbym przez pustkowie szedł, błogosławię Cię
 
 [b1]
-.A              E            F#m         D	
+.G              D            Em          C
  Za Twą łaskę, którą zsyłasz, ja chwalę Cię,
-.A               E               F#m        D
+.G               D               Em         C
  Choćby ciemność mnie przykryła, ja powiem, że:
 
 [b2]
-.            A           E
+.            G           D
  Panie, błogosławię imię Twe,
-.             F#m D 
+.             Em C
  Błogosławię Cię
-.             A           E
+.             G           D
  Panie, błogosławię imię Twe,
-.           F#m     E    D
+.           Em      D    C
  Błogosławię Święte imię Twe.
 
 [v2]
-.S     E                 F#m           D
+.S     D                 Em            C
  Błogosławię Cię, kiedy słońca blask oświeca mnie,
-.       A            E             D
+.       G            D             C
  To, co dajesz mi najlepsze jest, błogosławię Cię.
-.A      E                F#m         D
+.G      D                Em          C
  Błogosławię Cię, kiedy drogę moją znaczy cierń,
-.         A                 E           D
+.         G                 D           C
  Chociaż cierpię, pragnę chwalić Cię, błogosławię Cię.
 
 [b3]
-.A                E      F#m              D
- Ty dajesz z woli Swej, zabierasz, kiedy chcesz, 
-.      A            E      F#m         D
- W mym sercu zawszę chcę, błogosławić Cię.
- </lyrics>
+.G                D      Em               C
+ Ty dajesz z woli Swej, zabierasz, kiedy chcesz,
+.      G            D      Em          C
+ W mym sercu zawszę chcę, błogosławić Cię.</lyrics>
   <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
