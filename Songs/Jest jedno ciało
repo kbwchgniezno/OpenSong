@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><song>  <title>Jest jedno ciało</title>  <author></author>  <copyright></copyright>  <hymn_number></hymn_number>  <presentation></presentation>  <ccli></ccli>  <capo print="false"></capo>  <key></key>  <aka></aka>  <key_line></key_line>  <user1></user1>  <user2></user2>  <user3></user3>  <theme></theme>  <tempo></tempo>  <time_sig></time_sig>  <lyrics>[v1]. H        E                  H Jest jedno ciało, jest jeden Pan.              E                   H Jednoczy nas w duchu, byśmy razem szli..      E           Fis         dis        gis Usta głoszą chwałę Mu, w ręku słowa Jego miecz.      A                   cis              Fis W moc odziani tak idziemy, zdobywamy ziemię tę.[c].         H     E      H     gis    cis    Fis Jesteśmy ludem króla chwał, Jego świętym narodem. E         cis            H           Fis Wybranym pokoleniem, by objawiać Jego cześć..         H     E      H     gis    cis    Fis Jesteśmy ludem króla chwał, Jego świętym narodem. E        gis   cis               Fis       H Wielbimy Jezusa, On jest królem całej ziemi tej.</lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jest jedno ciało</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+. G        C                  G
+ Jest jedno ciało, jest jeden Pan
+.              C                   G
+ Jednoczy nas w duchu, byśmy razem szli.
+.      C           D          Bm          Em
+ Usta głoszą chwałę Mu, w ręku słowa Jego miecz
+.      F                   Am              D
+ W moc odziani tak idziemy, zdobywamy ziemię tę.
+
+[c1]
+.         G     C      G     Em    Am    D
+ Jesteśmy ludem króla chwał, Jego świętym narodem
+.C         Am            G              D
+ Wybranym pokoleniem, by objawiać Jego cześć.
+.         G     C      G      Em   Am      D
+ Jesteśmy ludem króla chwał, Jego świętym narodem
+. EC       G      Am              D          G
+ Wielbimy Jezusa, On jest królem całej ziemi tej.
+
+.    G     Em      C       G  D
+ Niewyczerpane są łaski od Pana
+.    G      Em         C       D D7 
+ Bez końca wielka jest miłość Twa!
+.        C       D     Hm       Em
+ Ciągle świeża i nowa, świeża i nowa
+.Am          D      G        G7
+ Wielka jest Panie wierność Twa
+.C           D        C G
+ Wielka jest wierność Twa!
+</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
