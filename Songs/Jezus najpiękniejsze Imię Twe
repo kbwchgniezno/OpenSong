@@ -17,17 +17,32 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
+.C     d
  Jezu, najpiękniejsze Imię Twe
+.G               C             G
  Jezu , gdy się modlę słyszysz mnie
+.a          d
  Jezu, gdy upadam podnosisz mnie
+.   G                             C (A)
  Najpiękniejsze , wspaniałe Imię Twe
 [v2]
+.D          e
  Jezu, chcę uwielbiać Imię Twe
+.A              D                  A
  Jezu, wciąż ten sam nie zmieniasz się
+.h               e 
  Jezu, usuwasz strach, zabierasz grzech
+.    A                           D (H)
  Najpiękniejsze, wspaniałe Imię Twe
-[v3}
+[v3]
+.E             fis
  Jezu, Jesteś Królem co ma przyjść
+.H            E                    H 
  Jezu, dajesz miłość, w niej chce żyć
+.cis           fis            
  Jezu, wznoszę głos by wielbić Cię
- Najpiękniejsze, wspaniałe Imię Twe</lyrics></song>
+.   H                          E
+ Najpiękniejsze, wspaniałe Imię Twe</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
