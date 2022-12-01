@@ -4605,8 +4605,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/I Thank God</FileName>
   <title>I Thank God</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry512>
   <Entry513>
   <Date>2022-12-01</Date>
@@ -4614,8 +4614,8 @@
   <Description>2</Description>
   <FileName>( Wszystkie )/I Thank God</FileName>
   <title>I Thank God</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry513>
   <Entry514>
   <Date>2022-12-01</Date>
@@ -4623,8 +4623,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry514>
   <Entry515>
   <Date>2022-12-01</Date>
@@ -4632,8 +4632,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry515>
   <Entry516>
   <Date>2022-12-01</Date>
@@ -4641,8 +4641,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry516>
   <Entry517>
   <Date>2022-12-01</Date>
@@ -4650,8 +4650,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry517>
   <Entry518>
   <Date>2022-12-01</Date>
@@ -4659,8 +4659,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry518>
   <Entry519>
   <Date>2022-12-01</Date>
@@ -4668,8 +4668,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry519>
   <Entry520>
   <Date>2022-12-01</Date>
@@ -4677,8 +4677,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry520>
   <Entry521>
   <Date>2022-12-01</Date>
@@ -4686,8 +4686,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry521>
   <Entry522>
   <Date>2022-12-01</Date>
@@ -4695,8 +4695,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry522>
   <Entry523>
   <Date>2022-12-01</Date>
@@ -4704,8 +4704,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry523>
   <Entry524>
   <Date>2022-12-01</Date>
@@ -4713,8 +4713,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry524>
   <Entry525>
   <Date>2022-12-01</Date>
@@ -4722,6 +4722,15 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry525>
+  <Entry526>
+  <Date>2022-12-01</Date>
+  <Time>11:38:21</Time>
+  <Description>3</Description>
+  <FileName>Dziękuję Ci (I Thank God)</FileName>
+  <title>Dziękuję Ci (I Thank God)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry525></log>
+  <HasChords>true</HasChords></Entry526></log>

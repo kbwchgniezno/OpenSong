@@ -91,19 +91,34 @@
 
 
 [b1]
+.C
+ Piekło nie trzyma mnie
+.C        
+ Wolność mam
+.C
+ Grzech już nie trzyma mnie
+.C         C
+ Wolność mam
+.C
+ Strach już nie trzyma mnie
+.C        C
+ Wolność mam
+
+[b2]
 .G
  Piekło nie trzyma mnie
-.Am         F  G
+.Am         F  C       
  Wolność mam
 .G
  Grzech już nie trzyma mnie
-.A          F  G
+.Am        F  C
  Wolność mam
 .G
  Strach już nie trzyma mnie
-.Am         F G
+.Am       F    C
  Wolność mam
- Wolność mam
+
+ 
 
 [c1]</lyrics>
   <author></author>
