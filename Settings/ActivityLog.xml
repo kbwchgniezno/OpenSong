@@ -4731,8 +4731,8 @@
   <Description>3</Description>
   <FileName>Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry526>
   <Entry527>
   <Date>2022-12-01</Date>
@@ -4740,8 +4740,8 @@
   <Description>3</Description>
   <FileName>Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry527>
   <Entry528>
   <Date>2022-12-01</Date>
@@ -4749,6 +4749,33 @@
   <Description>3</Description>
   <FileName>Dziękuję Ci (I Thank God)</FileName>
   <title>Dziękuję Ci (I Thank God)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry528>
+  <Entry529>
+  <Date>2022-12-12</Date>
+  <Time>15:52:49</Time>
+  <Description>3</Description>
+  <FileName>Rodzi się Król (Born Is The King)</FileName>
+  <title>Rodzi się Król</title>
+  <author>Born Is The King</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry529>
+  <Entry530>
+  <Date>2022-12-12</Date>
+  <Time>16:10:16</Time>
+  <Description>3</Description>
+  <FileName>Błogosławieństwo</FileName>
+  <title>Błogosławieństwo (The Blessing)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry528></log>
+  <HasChords>true</HasChords></Entry530>
+  <Entry531>
+  <Date>2022-12-12</Date>
+  <Time>16:10:30</Time>
+  <Description>3</Description>
+  <FileName>Błogosławieństwo (The Blessing)</FileName>
+  <title>Błogosławieństwo (The Blessing)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry531></log>

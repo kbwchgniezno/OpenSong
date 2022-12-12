@@ -1,57 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Rodzi się Król</title>
-  <lyrics>[v1]
-.C          F     G
+  <lyrics>;CAPO 5
+[v1]
+.G          C     D
  Dzisiaj narodził się
-.   F     C F G F
+.   C     G C D C
  Zbawiciel
-.C         F       G
+.G         C       D
  Z nieba zesłany, by
-.    F    C F G F
+.    C    G C D C
  Dać życie
-.C            F      G
+.G            C      D
  Nadzieją dla świata i
-.     F       C F G F
+.     C       G C D C
  Światłością On
-.C             F      G
+.G             C      D
  Ziemia niech cieszy się
-.   F        C   F G F
+.   C        G   C D C
  Bo to czas Świąt
 
 [c1]
-.       C                  F         G
+.       G                  C         D
  Więc podnieś swój głos i oddaj Mu cześć
-.    F
+.    C
  Są Święta
-.C                    F             G
+.G                    C             D
  Rodzi się Król, więc ciesz się tym dniem
-.    F
+.    C
  Są Święta
-.C       F       G
+.G       C       D
  Głośno wykrzycz to
-.   F
+.   C
  Są Święta
-.C      F      G
+.G      C      D
  Razem chwalmy Go
-.   F
+.   C
  Są Święta
 
 [v2]
-.C         F      G
+.G         C      D
  Pokój zwiastuje dziś
-.  F      C  F G F
+.  C      G  C D C
  Aniołów głos
-.C            F      G
+.G            C      D
  Ziemia niech cieszy się
-.   F        C        F G F
+.   C        G        C D C
  Bo to czas Świąt   Bo to czas Świąt</lyrics>
   <author>Born Is The King</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
