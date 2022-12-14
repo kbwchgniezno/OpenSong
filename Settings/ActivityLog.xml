@@ -4759,7 +4759,7 @@
   <FileName>Rodzi się Król (Born Is The King)</FileName>
   <title>Rodzi się Król</title>
   <author>Born Is The King</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry529>
   <Entry530>
   <Date>2022-12-12</Date>
@@ -4767,8 +4767,8 @@
   <Description>3</Description>
   <FileName>Błogosławieństwo</FileName>
   <title>Błogosławieństwo (The Blessing)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry530>
   <Entry531>
   <Date>2022-12-12</Date>
@@ -4776,6 +4776,96 @@
   <Description>3</Description>
   <FileName>Błogosławieństwo (The Blessing)</FileName>
   <title>Błogosławieństwo (The Blessing)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry531>
+  <Entry532>
+  <Date>2022-12-13</Date>
+  <Time>16:33:54</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
+  <title>Jesteśmy żywi (In The River)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry531></log>
+  <HasChords>false</HasChords></Entry532>
+  <Entry533>
+  <Date>2022-12-13</Date>
+  <Time>16:37:31</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
+  <title>Jesteśmy żywi (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry533>
+  <Entry534>
+  <Date>2022-12-13</Date>
+  <Time>16:37:37</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
+  <title>Jesteśmy żywi (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry534>
+  <Entry535>
+  <Date>2022-12-13</Date>
+  <Time>16:45:13</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
+  <title>Jesteśmy żywi (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry535>
+  <Entry536>
+  <Date>2022-12-13</Date>
+  <Time>16:45:38</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
+  <title>Jesteśmy żywi (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry536>
+  <Entry537>
+  <Date>2022-12-13</Date>
+  <Time>16:49:07</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
+  <title>Jesteśmy żywi (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry537>
+  <Entry538>
+  <Date>2022-12-13</Date>
+  <Time>16:51:54</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
+  <title>Jesteśmy żywi (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry538>
+  <Entry539>
+  <Date>2022-12-13</Date>
+  <Time>16:58:10</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
+  <title>Jesteśmy żywi (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry539>
+  <Entry540>
+  <Date>2022-12-13</Date>
+  <Time>16:59:50</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
+  <title>Jesteśmy żywi (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry540>
+  <Entry541>
+  <Date>2022-12-13</Date>
+  <Time>17:18:16</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
+  <title>Jesteśmy żywi (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry541></log>
