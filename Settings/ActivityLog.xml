@@ -4875,8 +4875,8 @@
   <Description>3</Description>
   <FileName>Kocham wiec nie musze sie bac</FileName>
   <title>Kocham wiec nie musze sie bac</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry542>
   <Entry543>
   <Date>2022-12-15</Date>
@@ -4884,8 +4884,8 @@
   <Description>3</Description>
   <FileName>Kocham wiec nie musze sie bac</FileName>
   <title>Kocham wiec nie musze sie bac</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry543>
   <Entry544>
   <Date>2022-12-16</Date>
@@ -4893,6 +4893,96 @@
   <Description>3</Description>
   <FileName>Kocham wiec nie musze sie bac</FileName>
   <title>Kocham wiec nie musze sie bac</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry544>
+  <Entry545>
+  <Date>2022-12-16</Date>
+  <Time>14:23:39</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
+  <title>Król Chwały (King of Glory)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry544></log>
+  <HasChords>false</HasChords></Entry545>
+  <Entry546>
+  <Date>2022-12-16</Date>
+  <Time>14:23:47</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
+  <title>Król Chwały (King of Glory)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry546>
+  <Entry547>
+  <Date>2022-12-16</Date>
+  <Time>14:26:23</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
+  <title>Król Chwały (King of Glory)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry547>
+  <Entry548>
+  <Date>2022-12-16</Date>
+  <Time>14:26:55</Time>
+  <Description>3</Description>
+  <FileName>Jesteśmy żywi (In The River)</FileName>
+  <title>W Twej rzece (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry548>
+  <Entry549>
+  <Date>2022-12-16</Date>
+  <Time>14:27:09</Time>
+  <Description>7</Description>
+  <FileName>W Twej rzece (In The River)</FileName>
+  <title>W Twej rzece (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry549>
+  <Entry550>
+  <Date>2022-12-16</Date>
+  <Time>14:27:15</Time>
+  <Description>3</Description>
+  <FileName>W Twej rzece (In The River)</FileName>
+  <title>W Twej rzece (In The River)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry550>
+  <Entry551>
+  <Date>2022-12-16</Date>
+  <Time>14:32:26</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
+  <title>Król Chwały (King of Glory)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry551>
+  <Entry552>
+  <Date>2022-12-16</Date>
+  <Time>14:36:33</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
+  <title>Król Chwały (King of Glory)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry552>
+  <Entry553>
+  <Date>2022-12-16</Date>
+  <Time>14:37:01</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
+  <title>Król Chwały (King of Glory)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry553>
+  <Entry554>
+  <Date>2022-12-16</Date>
+  <Time>14:38:49</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
+  <title>Król Chwały (King of Glory)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry554></log>
