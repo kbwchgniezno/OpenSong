@@ -4785,8 +4785,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
   <title>Jesteśmy żywi (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry532>
   <Entry533>
   <Date>2022-12-13</Date>
@@ -4794,8 +4794,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
   <title>Jesteśmy żywi (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry533>
   <Entry534>
   <Date>2022-12-13</Date>
@@ -4803,8 +4803,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
   <title>Jesteśmy żywi (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry534>
   <Entry535>
   <Date>2022-12-13</Date>
@@ -4812,8 +4812,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
   <title>Jesteśmy żywi (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry535>
   <Entry536>
   <Date>2022-12-13</Date>
@@ -4821,8 +4821,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
   <title>Jesteśmy żywi (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry536>
   <Entry537>
   <Date>2022-12-13</Date>
@@ -4830,8 +4830,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
   <title>Jesteśmy żywi (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry537>
   <Entry538>
   <Date>2022-12-13</Date>
@@ -4839,8 +4839,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
   <title>Jesteśmy żywi (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry538>
   <Entry539>
   <Date>2022-12-13</Date>
@@ -4848,8 +4848,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
   <title>Jesteśmy żywi (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry539>
   <Entry540>
   <Date>2022-12-13</Date>
@@ -4857,8 +4857,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
   <title>Jesteśmy żywi (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry540>
   <Entry541>
   <Date>2022-12-13</Date>
@@ -4866,6 +4866,33 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Jesteśmy żywi (In The River)</FileName>
   <title>Jesteśmy żywi (In The River)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry541>
+  <Entry542>
+  <Date>2022-12-15</Date>
+  <Time>14:48:58</Time>
+  <Description>3</Description>
+  <FileName>Kocham wiec nie musze sie bac</FileName>
+  <title>Kocham wiec nie musze sie bac</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry541></log>
+  <HasChords>true</HasChords></Entry542>
+  <Entry543>
+  <Date>2022-12-15</Date>
+  <Time>14:49:32</Time>
+  <Description>3</Description>
+  <FileName>Kocham wiec nie musze sie bac</FileName>
+  <title>Kocham wiec nie musze sie bac</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry543>
+  <Entry544>
+  <Date>2022-12-16</Date>
+  <Time>14:20:58</Time>
+  <Description>3</Description>
+  <FileName>Kocham wiec nie musze sie bac</FileName>
+  <title>Kocham wiec nie musze sie bac</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry544></log>

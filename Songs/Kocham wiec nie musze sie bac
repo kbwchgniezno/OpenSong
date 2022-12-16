@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><song>  <title>Kocham wiec nie musze sie bac</title>  <author></author>  <copyright></copyright>  <hymn_number></hymn_number>  <presentation></presentation>  <ccli></ccli>  <capo print="false"></capo>  <key></key>  <aka></aka>  <key_line></key_line>  <user1></user1>  <user2></user2>  <user3></user3>  <theme></theme>  <tempo></tempo>  <time_sig></time_sig>  <lyrics>[V1]. A                            Kocham,więc nie muszę sie bac. G Zabierz mój strach. D Zabierz mój strach.            A Zabierz mój strach[V2] Jezus,mówi Ci Że miłośc ta Zabiera strach,zabiera strach, zabiera strach[V3] Jezus,Jezus,Jezus,o-o Jezus,Jezus,Jezus,o-o[V4] Jezus,mówi Ci Że miłośc ta Zabiera strach,zabiera strach, zabiera strach[V5] Jezus daje Ci miłośc Swą Zabiera strach,zabiera strach, zabiera strach </lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Kocham wiec nie musze sie bac</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+. A                           
+ Kocham, więc nie muszę się bać
+. G
+ Zabierz mój strach
+. D
+ Zabierz mój strach
+.            A
+ Zabierz mój strach
+[V2]
+ Jezus, mówi Ci
+ Że miłość ta
+ Zabiera strach, zabiera strach,
+ zabiera strach
+[V3]
+ Jezus, Jezus,Jezus,o-o
+ Jezus,Jezus,Jezus,o-o
+[V4]
+ Jezus, mówi Ci
+ Że miłość ta
+ Zabiera strach, zabiera strach,
+ zabiera strach
+[V5]
+ Jezus daje Ci miłość Swą
+ Nie lękaj się, nie lękaj się, nie lękaj się
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
