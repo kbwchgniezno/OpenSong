@@ -2,83 +2,83 @@
 <song>
   <title>Książę Nieba</title>
   <lyrics>[v1]
-.      E              A   E
+.      C              F   C
  Cała ziemia z przejęcia drży
-.         E        A     E
+.         C        F     C
  W oczach ludzi nadziei błysk
-.     B              A
+.     G              F
  Obietnica wypełnia się
-.              E
+.              C
  To jest ten dzień
 
 [v2]
-.     E          A      E
+.     C          F      C
  Aniołowie już śpieszą, by
-.        E        A      E
+.        C        F      C
  Zbawcy świata zaśpiewać hymn
-.        B             A
+.        G             F
  Jako człowiek On w Betlejem
-.        E
+.        C
  Urodził się
 
 [c1]
-.         A            E
+.         F            C
  Książę Nieba jest już tu
-.      B             C#m
+.      G             Am
  Chór aniołów śpiewa Mu
-.        A                E
+.        F                C
  Bo ten chłopiec jest też Bogiem
-.     B              C#m
+.     G              Am
  Słowo ciałem stało się
-.     A             E
+.     F             C
  Cała władza i Królestwo
-.     B            C#m
+.     G            Am
  W Jego rękach już są
-.          A
+.          F
  Księciem Nieba
-.   B           E
+.   G           C
  I nadzieją jest On
 
 
 [v3]
-.     E          A         E
+.     C          F         C
  Oto łaska w najlepszej z form
-.     E          A      E
+.     C          F      C
  Jego miłość ma wieczną moc
-.      B           A
+.      G           F
  Syn Dawida i Boży Syn
-.              E
+.              C
  Cała ufność w Nim
 
 [c1]
 
 [b1]
-.      B              A
+.      G              F
  Królu chwały, witamy Cię
-.     B               A
+.     G               F
  Urodzony, by pokój nieść
-.          C#m         B      A
+.          Am          G      F
  Na zawsze godzien, śpiewamy pieśń
-.          A      B        E
+.          F      G        C
  O, Książę Nieba, wielbimy Cię
 
 [b1]
 
 [v4]
-.         E         A     E
+.         C         F     C
  Księcia Nieba dziś mogę znać
-.        E            A      E
+.        C            F      C
  I wyznać grzechy, to łaski dar
-.        B            A
+.        G            F
  Złożę ciężar u Jego stóp
-.           E
+.           C
  I zaśpiewam Mu</lyrics>
   <author>Prince Of Heaven</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
