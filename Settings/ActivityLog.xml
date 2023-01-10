@@ -4902,8 +4902,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
   <title>Król Chwały (King of Glory)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry545>
   <Entry546>
   <Date>2022-12-16</Date>
@@ -4911,8 +4911,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
   <title>Król Chwały (King of Glory)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry546>
   <Entry547>
   <Date>2022-12-16</Date>
@@ -4920,8 +4920,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
   <title>Król Chwały (King of Glory)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry547>
   <Entry548>
   <Date>2022-12-16</Date>
@@ -4929,8 +4929,8 @@
   <Description>3</Description>
   <FileName>Jesteśmy żywi (In The River)</FileName>
   <title>W Twej rzece (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry548>
   <Entry549>
   <Date>2022-12-16</Date>
@@ -4938,8 +4938,8 @@
   <Description>7</Description>
   <FileName>W Twej rzece (In The River)</FileName>
   <title>W Twej rzece (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry549>
   <Entry550>
   <Date>2022-12-16</Date>
@@ -4947,8 +4947,8 @@
   <Description>3</Description>
   <FileName>W Twej rzece (In The River)</FileName>
   <title>W Twej rzece (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry550>
   <Entry551>
   <Date>2022-12-16</Date>
@@ -4956,8 +4956,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
   <title>Król Chwały (King of Glory)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry551>
   <Entry552>
   <Date>2022-12-16</Date>
@@ -4965,8 +4965,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
   <title>Król Chwały (King of Glory)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry552>
   <Entry553>
   <Date>2022-12-16</Date>
@@ -4974,8 +4974,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
   <title>Król Chwały (King of Glory)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry553>
   <Entry554>
   <Date>2022-12-16</Date>
@@ -4983,8 +4983,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Król Chwały (King of Glory)</FileName>
   <title>Król Chwały (King of Glory)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry554>
   <Entry555>
   <Date>2022-12-17</Date>
@@ -4993,5 +4993,131 @@
   <FileName>Książę Nieba (Prince Of Heaven)</FileName>
   <title>Książę Nieba</title>
   <author>Prince Of Heaven</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry555>
+  <Entry556>
+  <Date>2022-12-23</Date>
+  <Time>20:08:54</Time>
+  <Description>3</Description>
+  <FileName>Albowiem tak Bóg</FileName>
+  <title>Albowiem tak Bóg</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry556>
+  <Entry557>
+  <Date>2022-12-23</Date>
+  <Time>20:18:22</Time>
+  <Description>3</Description>
+  <FileName>Mario, czy już wiesz</FileName>
+  <title>Mario</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry557>
+  <Entry558>
+  <Date>2022-12-23</Date>
+  <Time>20:18:26</Time>
+  <Description>3</Description>
+  <FileName>Mario</FileName>
+  <title>Mario, czy ty wiesz</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry558>
+  <Entry559>
+  <Date>2022-12-23</Date>
+  <Time>20:18:38</Time>
+  <Description>3</Description>
+  <FileName>Mario</FileName>
+  <title>Mario</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry559>
+  <Entry560>
+  <Date>2023-01-10</Date>
+  <Time>12:59:46</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Ty Jesteś Drogą (Way Truth Life)</FileName>
+  <title>Ty Jesteś Drogą (Way Truth Life)</title>
+  <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry555></log>
+  <HasChords>false</HasChords></Entry560>
+  <Entry561>
+  <Date>2023-01-10</Date>
+  <Time>13:00:07</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Ty Jesteś Drogą (Way Truth Life)</FileName>
+  <title>Ty Jesteś Drogą (Way Truth Life)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry561>
+  <Entry562>
+  <Date>2023-01-10</Date>
+  <Time>13:08:41</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Ty Jesteś Drogą (Way Truth Life)</FileName>
+  <title>Ty Jesteś Drogą (Way Truth Life)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry562>
+  <Entry563>
+  <Date>2023-01-10</Date>
+  <Time>13:10:22</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Ty Jesteś Drogą (Way Truth Life)</FileName>
+  <title>Ty Jesteś Drogą (Way Truth Life)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry563>
+  <Entry564>
+  <Date>2023-01-10</Date>
+  <Time>13:12:47</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Ty Jesteś Drogą (Way Truth Life)</FileName>
+  <title>Ty Jesteś Drogą (Way Truth Life)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry564>
+  <Entry565>
+  <Date>2023-01-10</Date>
+  <Time>13:13:23</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Ty Jesteś Drogą (Way Truth Life)</FileName>
+  <title>Ty Jesteś Drogą (Way Truth Life)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry565>
+  <Entry566>
+  <Date>2023-01-10</Date>
+  <Time>13:15:34</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Ty Jesteś Drogą (Way Truth Life)</FileName>
+  <title>Ty Jesteś Drogą (Way Truth Life)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry566>
+  <Entry567>
+  <Date>2023-01-10</Date>
+  <Time>13:17:55</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Ty Jesteś Drogą (Way Truth Life)</FileName>
+  <title>Ty Jesteś Drogą (Way Truth Life)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry567>
+  <Entry568>
+  <Date>2023-01-10</Date>
+  <Time>13:38:31</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Ty Jesteś Drogą (Way Truth Life)</FileName>
+  <title>Ty Jesteś Drogą (Way Truth Life)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry568>
+  <Entry569>
+  <Date>2023-01-10</Date>
+  <Time>13:40:19</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Ty Jesteś Drogą (Way Truth Life)</FileName>
+  <title>Ty Jesteś Drogą (Way Truth Life)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry569></log>

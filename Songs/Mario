@@ -2,65 +2,65 @@
 <song>
   <title>Mario</title>
   <lyrics>[v1]
-.                Dm
+.                Am
  Mario czy Ty wiesz
-.       C           Gm7               A
+.       G           Dm7               E
  Kim okaże się twój syn, twój mały chłopiec?
-.               Dm
+.               Am
  Mario czy Ty wiesz,
-.        C              Gm7         A
+.        G              Dm7         E
  Że te stópki dwie po wodzie będą kroczyć?
-.         Gm7
+.         Dm7
  Czy ty wiesz,
-.       C           F        C      Dm
+.       G           C        G      Am
  Że ta mała dłoń powstrzyma wielki wiatr?
-.     Gm7                 A
+.     Dm7                 E
  Że dałaś życie temu, kto Tobie życie dał?
 
 [v2]
-.              Dm
+.              Am
  Mario czy Ty wiesz,
-.     C            Gm7             A
+.     G            Dm7             E
  Że pewnego dnia przywróci wzrok ślepemu?
-.               Dm
+.               Am
  Mario czy już wiesz
-.          C         Gm7          A
+.          G         Dm7          E
  Że twój synek ma wybawić nas od złego?
-.        Gm7              C             F         C     Dm
+.        Dm7              G             C         G     Am
  Czy Ty wiesz, że Twój chłopiec już niebiańskie ścieżki zna?
-.     Gm7                    A
+.     Dm7                    E
  Że patrząc w jego oczy – najświętszą widzisz twarz?
 
 [instrumenta]
-. Dm C Gm7 A
+. Am G Dm7 E
 
 [c1]
-.     A#           C
+.     F            G
  Ślepemu wzrok, Głuchemu dźwięk
-.  Dm       C    A#
+.  Am       G    F
  Zmarłemu życia dar.
-. Gm7             A
+. Dm7             E
  Chromemu krok, niememu pieśń,
-. Dm               A
+. Am               E
  Przynosi Chrystus Pan.
 
 [v3]
-.               Dm
+.               Am
  Mario czy Ty wiesz
-.       C           Gm7          A
+.       G           Dm7          E
  Kim naprawdę jest maleńki twój bohater?
-.              Dm         C              Gm7            A
+.              Am         G              Dm7            E
  Mario czy Ty wiesz, że pewnego dnia on rządzić będzie światem?
-.        Gm7           C         F        C        Dm
+.        Dm7           G         C        G        Am
  Czy Ty wiesz, że to właśnie on pokona grzech i śmierć?
-.          Gm7                        A
+.          Dm7                        E
  Dziecko śpiące w twych ramionach, na imię ma „Jam jest”!</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
