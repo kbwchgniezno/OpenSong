@@ -1,1 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><song>  <title>Moje zycie twoim jest</title>  <author></author>  <copyright></copyright>  <hymn_number></hymn_number>  <presentation></presentation>  <ccli></ccli>  <capo print="false"></capo>  <key></key>  <aka></aka>  <key_line></key_line>  <user1></user1>  <user2></user2>  <user3></user3>  <theme></theme>  <tempo></tempo>  <time_sig></time_sig>  <lyrics>[v1]. H                     gis Moje życie Twoim jest, tylko Ty nadajesz jemu sens.. Fis                             E Kiedy pragnę mogę zawsze znaleźć Cię.. H                                gis W moim życiu wszystko pewne jest, gdy na pierwszym miejscu stawiam Cie.. Fis                         E Z pokorą staję, wielbię imię Twe.[c]. H   Fis    gis               E Jezus drogą, tylko Tobie Panie służyć będę x4[v2] Jesteś zawsze, zawsze tu, wszechobecny Boże mój. Łaska Twa wypełnia serce me. Nigdy nie zmieniasz się, wczoraj, dzisiaj wiecznie troszczysz się. Aż do końca będę Panie wielbić Cię.[v3]. H              Fis Ty jesteś drogą, życiem mym.. gis                E             gis    Fis              E W prawdzie z wiarą kroczyć z Tobą chcę, na zawsze kroczyć chcę.</lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Moje zycie twoim jest</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+. A                     F#m
+ Moje życie Twoim jest, tylko Ty nadajesz jemu sens.
+. E                                D
+ Kiedy pragnę mogę zawsze znaleźć Cię.
+. A                                F#m
+ W moim życiu wszystko pewne jest, gdy na pierwszym miejscu stawiam Cię.
+. E                          D
+ Z pokorą staję, wielbię imię Twe.
+
+[c1]
+. A     E     F#m                D
+ Jezus drogą, tylko Tobie Panie służyć będę x4
+
+[v2]
+.A                           F#m
+ Jesteś zawsze, zawsze tu, wszechobecny Boże mój.
+.E                        D
+ Łaska Twa wypełnia serce me.
+.A                          F#m
+ Nigdy nie zmieniasz się, wczoraj, dzisiaj wiecznie troszczysz się.
+.E                              D
+ Aż do końca będę Panie wielbić Cię.
+
+[v3]
+. A              E
+ Ty jesteś drogą, życiem mym.
+. F#m                D             F#m    E                D
+ W prawdzie z wiarą kroczyć z Tobą chcę, na zawsze kroczyć chcę.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
