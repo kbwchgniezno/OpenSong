@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -17,7 +17,7 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-.              C          a
+.              C          Am
  Chwalę Ciebie Panie i uwielbiam 
 .         F         
  wznoszę w górę swoje ręce 
@@ -27,7 +27,7 @@
 [V2]
 .          C
  bo wielkiś Ty  
-.                     a
+.                     Am
  wielkie dzieła czynisz dziś 
 .                  F       / G
  nie dorówna Tobie nikt x2
