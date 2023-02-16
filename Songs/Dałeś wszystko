@@ -2,74 +2,74 @@
 <song>
   <title>Dałeś wszystko</title>
   <lyrics>[v1]
-.D                          G
+.G                          Am7
  Jak wielka jest Twa miłość Boże
-.D                         G
+.G                         Am
  Że zanim jeszcze powstał świat
-.D                           G
+.G                           Am7
  Znałeś już me wszystkie przyszłe
-.D                A        G
+.   D      G      D        C
  Przyszłe dni i policzyłeś je
 
 [v2]
-.D                        G
+.G                        Am7
  Jak wielka musi być Twa miłość
-.D                             G 
+.G                             Am
  Że kiedy jeszcze mnie nie było, tu
-.D                               G
+.G                               Am7
  Wiedziałeś już, że chcesz mnie stworzyć
-.D                         A     G
- Na obraz Twój, bym był taki jak Ty
-.D                     A         G
+.     D    G         D          C
+ Na obraz Swój, bym był taki jak Ty
+.      D      G      D           C
  Więc zawsze chcę pamiętać o tym że....
 
 [c1]
-.D                                        G               A
+.G               C                  Am7    G              D C
  To jak wyglądam i co w sercu chowam jest dziełem Twoich rąk
-.D                                       G           A
+.G                 C               Am7  G          D
  Ty dałeś wszystko mi co potrzebne bym mógł służyć Ci
 
 [v3]
-.D                    G
- Ja powinienem ufać Tobie
-.D                     G
+.G                    Am7
+ Wiem powinienem ufać Tobie
+.G                     Am7
  Bo słowo Twe potężne jest
-.D                     G
+.G                     Am
  Co rozkazałeś według planu
-.D                             G
+.D     G       D               C
  Stało się i stworzyłeś także mnie
-.D                      A         G
+.   D         G   D              C
  Więc zawsze chcę pamiętać o tym że....
 
 [c2]
-.D                                         G              A
+.G               C                     Am7  G             D C
  To jak wyglądam i co w sercu chowam jest dziełem Twoich rąk
-.D                                      G           A
+.G                 C               Am7  G          D
  Ty dałeś wszystko mi co potrzebne bym mógł służyć Ci
 
 [v4]
-.G
+.C                    Am7
  Stworzony do dobrych czynów
-.A
- A Stworzony na obraz jego miłości
-.G
+.Em                   Bm
+ Stworzony na obraz jego miłości
+.C            Am7
  Wolny od potępienia
-.A
+.            Em               D
  Umarły dla lęku, umarły dla strachu!
-.G
+.C                         Am7
  Wybrany przed stworzeniem świata
-.A
+.Em                   Bm
  Zdobyty za cenę przelanej krwi
-.G
+.C                 Am7
  Z wiarą wyśpiewam słowa
-.A
+.              Em               D
  Nie należę do siebie należę do BOGA!</lyrics>
   <author>Klaudia Staier Stępień</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
