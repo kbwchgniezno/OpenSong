@@ -2,54 +2,54 @@
 <song>
   <title>Tylko śpiewać chcę (Only wanna sing)</title>
   <lyrics>[1]
-.C#m      A
+.Am       F
  Nie, nie chodzi o mnie
-.E      B
+.C      G
  Jestem tu dla Ciebie
-.C#m      A               E  B
+.Am       F               C  G
  Nie chcę śpiewać pustych słów
-.C#m      A
+.Am       F
  Nie, nie szukam wrażeń
-.E     B
+.C     G
  Szukam Ciebie, Panie
-.C#m      A             E   B
+.Am       F             C   G
  Przyjmij chwałę z moich ust
 
 [c1]
-.C#m A            E
+.Am  F            C
  Ja tylko śpiewać chcę
-.     B                C#m
+.     G                Am
  Jeśli z tego cieszysz się
-.     A           E   B
+.     F           C   G
  Jeśli to uwielbia Cię
-.C#m A                E
+.Am  F                C
  Sam śpiew nie znaczy nic
-.     B              C#m
+.     G              Am
  Jeśli serca nie ma w nim
-.   A                E  B
+.   F                C  G
  Najważniejszy jesteś Ty
 
 [v2]
-.C#m        A
+.Am         F
  Nie chcesz ideału
-.E     B
+.C     G
  Tylko duszę całą
-.C#m   A            E B
+.Am    F            C G
  To, co mam, oddaję Ci
-.C#m                  A
+.Am                   F
  Nie tylko śpiewem, co trwa przez chwilę
-.E                   B
+.C                   G
  A całym życiem chcę wielbić Ciebie
-.C#m                  A
+.Am                   F
  Jeśli mam śpiewać, to w jednym celu
-.E               B
+.C               G
  Wszelka chwała, Panie, Twoja jest</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
