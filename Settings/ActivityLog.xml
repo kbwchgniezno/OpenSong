@@ -5496,8 +5496,8 @@
   <Description>4</Description>
   <FileName>Tłumaczenia/ALLELUJA (Alleluia)</FileName>
   <title>ALLELUJA (Alleluia)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry611>
   <Entry612>
   <Date>2023-02-18</Date>
@@ -5506,7 +5506,7 @@
   <FileName>Tłumaczenia/Baranek i Lew (Lion And The Lamb)</FileName>
   <title>Baranek i Lew (Lion And The Lamb)</title>
   <author>Lion And The Lamb</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry612>
   <Entry613>
   <Date>2023-02-18</Date>
@@ -5514,8 +5514,8 @@
   <Description>4</Description>
   <FileName>Tłumaczenia/Boże cudow (God of wonders)</FileName>
   <title>Boże cudow (God of wonders)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry613>
   <Entry614>
   <Date>2023-02-19</Date>
@@ -5523,8 +5523,8 @@
   <Description>3</Description>
   <FileName>Król Chwały (King of Glory)</FileName>
   <title>Król Chwały (King of Glory)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry614>
   <Entry615>
   <Date>2023-02-19</Date>
@@ -5532,8 +5532,8 @@
   <Description>3</Description>
   <FileName>Król Chwały (King of Glory)</FileName>
   <title>Król Chwały (King of Glory)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry615>
   <Entry616>
   <Date>2023-02-19</Date>
@@ -5541,8 +5541,8 @@
   <Description>2</Description>
   <FileName>STEEPED 21.08.2022/Królu mój (King Of My Heart)</FileName>
   <title>Królu mój (King Of My Heart)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry616>
   <Entry617>
   <Date>2023-02-19</Date>
@@ -5550,8 +5550,8 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/Abba (You're more real)</FileName>
   <title>Abba (You're more real)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry617>
   <Entry618>
   <Date>2023-02-23</Date>
@@ -5559,8 +5559,8 @@
   <Description>3</Description>
   <FileName>Dobroć (Goodness Of God)</FileName>
   <title>Dobroć (Goodness Of God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry618>
   <Entry619>
   <Date>2023-02-23</Date>
@@ -5569,7 +5569,7 @@
   <FileName>Tłumaczenia/Wznoszę Alleluja (Raise A Hallelujah)</FileName>
   <title>Wznoszę Alleluja (Raise A Hallelujah)</title>
   <author>Bethel</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry619>
   <Entry620>
   <Date>2023-02-23</Date>
@@ -5577,8 +5577,8 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/W TObie Wszystko mam</FileName>
   <title>W Twej rzece (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry620>
   <Entry621>
   <Date>2023-02-23</Date>
@@ -5586,6 +5586,15 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/W TObie Wszystko mam</FileName>
   <title>W Twej rzece (In The River)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry621>
+  <Entry622>
+  <Date>2023-02-23</Date>
+  <Time>13:37:28</Time>
+  <Description>3</Description>
+  <FileName>Tłumaczenia/W Twej rzece (In The River)</FileName>
+  <title>W Twej rzece (In The River)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry621></log>
+  <HasChords>true</HasChords></Entry622></log>
