@@ -2,70 +2,70 @@
 <song>
   <title>Wznoszę Alleluja (Raise A Hallelujah)</title>
   <lyrics>[v1]
-.C                F
+.G                C
  Wznoszę Alleluja, w obecności nieprzyjaciół mych
-.Am                G
+.Em                D
  Wznoszę Alleluja, uciszę tym niewiary krzyk
-.C                   F
+.G                   C
  Wznoszę Alleluja, ta melodia moją bronią jest
-.Am                G
+.Em                D
  Wznoszę Alleluja, niebo walczy zamiast mnie
 
 [c1]
-.F                        C
+.C                        G
  Śpiewam tę pieśń, kiedy dookoła sztorm
-.Am                         G
+.Em                         D
  Głośniej i głośniej niech uwielbienia zabrzmi ton
-.F                  C
+.C                  G
  Z prochów nadzieja powstaje znów
-.Am               G
+.Em               D
  Śmierć pokonana, na wieki żyje Król
 
 [v2]
-.C                       F
+.G                       C
  Wznoszę Alleluja, kiedy trudnych pytań tyle wciąż
-.Am                 G
+.Em                 D
  Wznoszę Alleluja, zobaczę, jak ucieka mrok
-.C                 F
+.G                 C
  Wznoszę Alleluja, wszystko we mnie wielbi Cię
-.Am                G
+.Em                D
  Wznoszę Alleluja, strach już nie zatrzyma mnie
 
 [c1]
 
 [b1]
+.G
+ Śpiewam jeszcze głośniej
 .C
  Śpiewam jeszcze głośniej
-.F
+.Em
  Śpiewam jeszcze głośniej
-.Am
- Śpiewam jeszcze głośniej
-.G
+.D
  Śpiewam jeszcze głośniej
 
 [b2]
-.C
+.G
  Śpiewam jeszcze głośniej
  W obecności nieprzyjaciół mych
-.F
+.C
  Śpiewam jeszcze głośniej
  Uciszę tym niewiary krzyk
-.Am
+.Em
  Śpiewam jeszcze głośniej
  Ta melodia moją bronią jest
-.G
+.D
  Śpiewam jeszcze głośniej
  Niebo walczy zamiast mnie
 
 [TAG]
-. G   C   F   Am   G
+. D   G   C   Em D
  Śpiewam Alleluja</lyrics>
   <author>Bethel</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
