@@ -16,4 +16,7 @@
   <paint new="false"/>
   <songfolder>( Wszystkie )</songfolder>
   <startmode/>
-  <song_revert_on_dont_save>true</song_revert_on_dont_save></main_settings>
+  <song_revert_on_dont_save>true</song_revert_on_dont_save>
+  <reload songfolder="true" set="true"/>
+  <slide_style_color enabled="true"/>
+</main_settings>
