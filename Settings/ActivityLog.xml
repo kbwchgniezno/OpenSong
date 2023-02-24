@@ -5595,8 +5595,8 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/W Twej rzece (In The River)</FileName>
   <title>W Twej rzece (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry622>
   <Entry623>
   <Date>2023-02-23</Date>
@@ -5604,8 +5604,8 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/W Twej rzece (In The River)</FileName>
   <title>W Twej rzece (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry623>
   <Entry624>
   <Date>2023-02-23</Date>
@@ -5613,8 +5613,8 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/Dobroć (Goodness Of God)</FileName>
   <title>W Twej rzece (In The River)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry624>
   <Entry625>
   <Date>2023-02-23</Date>
@@ -5622,8 +5622,8 @@
   <Description>3</Description>
   <FileName>Dobroć (Goodness Of God)</FileName>
   <title>Dobroć (Goodness Of God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry625>
   <Entry626>
   <Date>2023-02-23</Date>
@@ -5631,8 +5631,8 @@
   <Description>3</Description>
   <FileName>Dobroć (Goodness Of God)</FileName>
   <title>Dobroć (Goodness Of God)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry626>
   <Entry627>
   <Date>2023-02-23</Date>
@@ -5640,6 +5640,33 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/Tylko śpiewać chcę (Only wanna sing)</FileName>
   <title>Tylko śpiewać chcę (Only wanna sing)</title>
-  <author></author>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry627>
+  <Entry628>
+  <Date>2023-02-23</Date>
+  <Time>14:34:27</Time>
+  <Description>3</Description>
+  <FileName>Tłumaczenia/Tylko śpiewać chcę (Only wanna sing)</FileName>
+  <title>Tylko śpiewać chcę (Only wanna sing)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry628>
+  <Entry629>
+  <Date>2023-02-23</Date>
+  <Time>17:02:24</Time>
+  <Description>3</Description>
+  <FileName>Nasz Ojcze</FileName>
+  <title>Nasz Ojcze</title>
+  <author>Our Father</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry629>
+  <Entry630>
+  <Date>2023-02-24</Date>
+  <Time>15:19:15</Time>
+  <Description>3</Description>
+  <FileName>Dałeś wszystko</FileName>
+  <title>Dałeś wszystko</title>
+  <author>Klaudia Staier Stępień</author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry627></log>
+  <HasChords>true</HasChords></Entry630></log>

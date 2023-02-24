@@ -79,6 +79,6 @@
   <theme></theme>
   <linked_songs/>
   <tempo></tempo>
-  <time_sig></time_sig>
+  <time_sig>4/4</time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
