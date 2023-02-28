@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Dobroć (Goodness Of God)</title>
-  <lyrics>;CAPO 4
+  <lyrics>
 [v1]
 .           B
  Ja kocham Cię
@@ -64,7 +64,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false" sharp="true">4</capo>
+  <capo></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
