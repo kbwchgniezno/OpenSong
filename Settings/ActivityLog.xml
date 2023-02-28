@@ -5676,8 +5676,8 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/Błogosławieństwo (The Blessing)</FileName>
   <title>Błogosławieństwo (The Blessing)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry631>
   <Entry632>
   <Date>2023-02-27</Date>
@@ -5685,8 +5685,8 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/Błogosławieństwo (The Blessing)</FileName>
   <title>Błogosławieństwo (The Blessing)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry632>
   <Entry633>
   <Date>2023-02-27</Date>
@@ -5694,8 +5694,8 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/Bóg Przebudzenia (God Of Revival)</FileName>
   <title>Bóg Przebudzenia (God Of Revival)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry633>
   <Entry634>
   <Date>2023-02-27</Date>
@@ -5703,8 +5703,8 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/Bóg Przebudzenia (God Of Revival)</FileName>
   <title>Bóg Przebudzenia (God Of Revival)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry634>
   <Entry635>
   <Date>2023-02-27</Date>
@@ -5712,8 +5712,8 @@
   <Description>5</Description>
   <FileName>Tłumaczenia/Bóg Przebudzenia (God Of Revival)</FileName>
   <title>Bóg Przebudzenia (God Of Revival)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry635>
   <Entry636>
   <Date>2023-02-27</Date>
@@ -5721,8 +5721,8 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/Błogosławieństwo (The Blessing)</FileName>
   <title>Bóg Przebudzenia (God Of Revival)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry636>
   <Entry637>
   <Date>2023-02-27</Date>
@@ -5730,6 +5730,15 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/Błogosławieństwo (The Blessing)</FileName>
   <title>Błogosławieństwo (The Blessing)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry637>
+  <Entry638>
+  <Date>2023-02-28</Date>
+  <Time>11:46:47</Time>
+  <Description>3</Description>
+  <FileName>Tłumaczenia/Dobroć (Goodness Of God)</FileName>
+  <title>Dobroć (Goodness Of God)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry637></log>
+  <HasChords>true</HasChords></Entry638></log>

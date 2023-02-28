@@ -1,70 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Dobroć (Goodness Of God)</title>
-  <lyrics>
-[v1]
-.           B
+  <lyrics>[v1]
+.           C
  Ja kocham Cię
-.      E           B
+.      F           C
  Twoja łaska nie zawodzi
-.F#/A#    G#m
+.G/B      Am
  W każdy dzień
-.        E             F#
+.        F             G
  W dłoni swej trzymasz mnie
-.                    G#m  E
+.                    Am   F
  Od momentu, gdy się budzę
-.           B F#/A# G#m
- Po najciemniejszą  noc
-.        E
+.           C G/B  Am
+ Po najciemniejszą noc
+.        F
  Śpiewać chcę
-.  F#            B
+.  G             C
  O dobroci Twej pieśń
 
 [c1]
-.E                     B
+.F                     C
  Panie mój, Ty jesteś wierny
-.E                     B     F#
+.F                     C     G
  Panie mój, Ty jesteś tak dobry
-.E                     B F#/A# G#m
+.F                     C G/B   Am
  I całym sobą, każdym tchnieniem
-.         E       F#           B
+.         F       G            C
  Śpiewać chcę o dobroci Twej pieśń
 
 [v2]
-.              B
+.              C
  Ja znam Twój głos
-.       E                  B
+.       F                  C
  Ty prowadzisz mnie przez ogień
-.    F#    G#m
+.    G     Am
  Gdy wokół mrok,
-.        E             F#
+.        F             G
  Czuję, że jesteś przy mnie
-.                G#m E
+.                Am  F
  Ty jesteś moim Ojcem
-.        B F# G#m
- I przyjaciel_em mym
-.        E   F#            B
+.        C G Am
+ I przyjacielem mym
+.        F   G             C
  Dobroć Twa zawsze otacza mnie
 
 [b1]
-.B                 E      F#           B
+.C                 F      G            C
  Twa dobroć otacza mnie, otacza zawsze mnie
-.B                 E      F#            B
+.C                 F      G             C
  Twa dobroć otacza mnie, otacza zawsze mnie
-.       B
+.       C
  Życie moje weź
-.     E
+.     F
  Ja poddaję się
-.  F#            G#m
+.  G             Am
  Oddaję wszystko Ci
-.B                E         F#          B
+.C                F         G           C
  Twa dobroć otacza mnie, otacza zawsze mnie</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
