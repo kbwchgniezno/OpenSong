@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Jego Imię Jezus (His Name Is Jesus)</title>
-  <lyrics>;CAPO 2
-[v1]
+  <lyrics>[v1]
 .Am                      C
  Jedynie On odkupieniem jest
 .                          Dm
@@ -77,7 +76,7 @@
   <user3></user3>
   <theme></theme>
   <linked_songs/>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <tempo>80</tempo>
+  <time_sig>4/4</time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
