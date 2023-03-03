@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Raduje się dusza ma</title>
-  <lyrics>.Dm 
+  <lyrics>.Am
  Raduje się dusza ma wielbi Pana swego
-.A    
+.E
  Będę Ci śpiewał z całej siły
-.Dm
+.Am
  Sławić Cię będę za twe dzieła
-.A                       A7
- Będę Ci śpiewał z całej siły    
-.F
+.E                       E7
+ Będę Ci śpiewał z całej siły
+.C
  Błogosławić będę Twoje imię
-.C                A
+.G                E
  Jest miłosierny Pan zastępów
-.Dm
+.Am
  Moc Jego ramienia nad swym ludem
-.A         A7
+.E         E7
  Pan, mój zbawca!</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false" sharp="true"></capo>
+  <capo print="false" sharp="true">2</capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

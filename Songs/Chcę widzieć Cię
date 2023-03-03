@@ -2,52 +2,52 @@
 <song>
   <title>Chcę widzieć Cię</title>
   <lyrics>[v1]
-.Hm    A   D     G
+.Am    G   C     F
  Jeśli chcę tego, czego nie chcesz Ty
-.Hm    A     D     G
+.Am    G     C     F
  Zatrzymaj mnie i powiedz mi, czego pragniesz
-.Hm    A     D     G
+.Am    G     C     F
  Jeśli idę tam, gdzie nie idziesz Ty
-.Hm     A    D     G
+.Am     G    C     F
  Zatrzymaj mnie, nie pozwól dalej iść
 
 [c1]
-.G A
+.F G
  Chcę widzieć Cię w życiu mym wywyższonego
-.G A
+.F G
  Chcę widzieć Cię w życiu mym
 
 [v2]
-.Hm    A     D     G
+.Am    G     C     F
  Cokolwiek czynię dla swojej własnej chwały
-.Hm     A     D      G
+.Am     G     C      F
  Zatrzymaj mnie i zbadaj moje serce
-.Hm      A        D       G
+.Am      G        C       F
  Gdy oceniam innych bez miłości
-.Hm       A        D         G
+.Am       G        C         F
  Zatrzymaj mnie i zniszcz moją pychę
 
 [v3]
-.Hm     A         D       G
+.Am     G         C       F
  Gdy boję się o to, co pomyślą inni
-.Hm       A        D        G
+.Am       G        C        F
  Zatrzymaj mnie, ważne jest , co myślisz TY
-.Hm       A        D       G
+.Am       G        C       F
  Gdy troszczę się tylko o to, co jest moje
-.Hm       A       D     G
+.Am       G       C     F
  Zatrzymaj mnie i skrusz moje serce
 
 [b1]
-.Hm     G      A
+.Am     F      G
  Bo tylko Twoja jest chwała Twoja jest chwała
-.Hm       G         A
+.Am       F         G
  I tylko Tobie się kłaniam Tobie się kłaniam</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -56,7 +56,7 @@
   <user3></user3>
   <theme></theme>
   <linked_songs/>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <tempo>130</tempo>
+  <time_sig>4/4</time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
