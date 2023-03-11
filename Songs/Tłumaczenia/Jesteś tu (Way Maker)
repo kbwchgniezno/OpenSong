@@ -12,13 +12,13 @@
  Uwielbiam Cię, uwielbiam Cię
 
 [c1]
-.G
+.     G
  Jesteś
-.             D
+.             
  Wszechmocny, Ty czynisz cuda
-.       A                  Bm
+.       D                         A
  Jesteś drogą, światłem w ciemności
-.      A             Bm
+.                   Bm
  O tak, taki jesteś Ty
 
 [v2]
@@ -32,9 +32,13 @@
  Uwielbiam Cię, uwielbiam Cię
 
 [v3]
+.        G                   D
  Jesteś tu, zmieniasz życie me
+.           A              Bm
  Uwielbiam Cię, uwielbiam Cię
+.        G             D
  Jesteś tu i odnawiasz mnie
+.          A              Bm
  Uwielbiam Cię, uwielbiam Cię
 
 [t1]
@@ -58,7 +62,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
