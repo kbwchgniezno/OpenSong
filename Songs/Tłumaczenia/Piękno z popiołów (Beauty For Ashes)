@@ -2,72 +2,71 @@
 <song>
   <title>Piękno z popiołów (Beauty For Ashes)</title>
   <lyrics>[v1]
-.         C                   D
+.         A                   B
  Pięknem staje się to, czego dotknie Twa dłoń
-.G/B                 C
+.E/G#                A
  Wszystko jest nowe już
-.    C                    D
+.    A                    B
  Podnosimy nasz wzrok, oddajemy Ci hołd
-.   G/B            C
+.   E/G#           A
  Widzimy majestat Twój
 
 [pc1]
-.C          D
+.A          B
  Tobie oddajemy to
-.G/B                   C
+.E/G#                  A
  Wszystko, co za nami jest
-.C         D
+.A         B
  Tobie zaufamy, bo
-.G/B                C
+.E/G#               A
  Z Tobą nie zgubimy się
 
 [c1]
-. Am            G        D
+. F#m           E        B
  Za rękę, Jezu, prowadź nas
-.          Em       G/B    C
+.          C#m      E/G#   A
  Drogę do ziemi obiecanej znasz
-.Am         G    D
+.F#m        E    B
  Z Tobą wznosimy się
-.         Em         G/B        C
+.         C#m        E/G#       A
  Bo Twoje imię ponad wszystkim jest
 
 [ins1]
-.Am G D
-.Em G/B C
+.F#m E B
+.C#m E/G# A
 
 [v2]
-.          C                     D
+.          A                     B
  Jeśli nie wiesz, gdzie iść, On zaprasza cię dziś
-.  G/B          C
+.  E/G#         A
  Ramiona otwarte ma
-.      C                      D
+.      A                      B
  On chce wolność ci dać, Jego łaska wciąż trwa
-.     G/B                C
+.     E/G#               A
  Jego miłość przemienia świat
 
 [b1]
-.Am          G           D
+.F#m         E           B
  Ty tworzysz piękno z popiołów
-.  Em               G/B      C
+.  C#m              E/G#     A
  Zamieniasz smutek w chwały pieśń
-.Am         G           D
+.F#m        E           B
  Ty wyprowadzasz mnie z mroku
-.Em            G/B      C
+.C#m           E/G#     A
  I wypełniasz radością mnie
-.Am         G          D
+.F#m        E          B
  Jestem już nowym stworzeniem
-.  Em             G/B       C
+.  C#m            E/G#      A
  Moja przeszłość odkupiona jest
-.Am        G       D
+.F#m       E       B
  Za Twoim głosem pobiegnę
-.    Em          G/B     C           
+.    C#m         E/G#    A
  Bo na Tobie nie zawiodę się
 
 [t1]
-. Am         G        D
+. F#m        E        B
  Będę Cię wielbić na wieki
-.Em G/B C
-</lyrics>
+.C#m E/G# A</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -82,7 +81,7 @@
   <user3></user3>
   <theme></theme>
   <linked_songs/>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <tempo>128</tempo>
+  <time_sig>4/4</time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
