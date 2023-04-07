@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Mocno wierzę w niebo</title>
-  <lyrics>[v1]
+  <lyrics>[c1]
 .D            F#m G  A
  Mocno wierzę w niebo
 .                   D      Bm
@@ -11,7 +11,7 @@
 .                                D
  Który wyrwał mnie z mych wszelkich trwóg
 
-[c1]
+[v1]
 . D
  Wykonało się rzekł nasz Pan
 .        A
@@ -21,23 +21,20 @@
 .G                    D
  Gdy swe życie za nas dał
 
+[c1]
+ 
 [v2]
- Mocno wierzę w niebo
- W którym mieszka Ojciec Bóg
- Wierzę też w Jezusa
- Który wyrwał mnie z mych wszelkich trwóg
-
-[c2]
+.D
  Pan okazał nam łaskę swą
+.       A
  Gdy na krzyżu za nas zmarł
+.     A7
  Pan okazał nam łaskę swą
+.G                    D
  Gdy swe życie za nas dał
 
-[v3]
- Mocno wierzę w niebo
- W którym mieszka Ojciec Bóg
- Wierzę też w Jezusa
- Który wyrwał mnie z mych wszelkich trwóg</lyrics>
+[c1]
+</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
