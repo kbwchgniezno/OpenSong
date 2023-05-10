@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -17,31 +17,57 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
+.     G             D
  Boże mój, jeszcze raz
+. Em
  Otwieram swe serce
+.   C
  Bo wiem, jesteś tu
+.        G
  Modlitw mych
+.          D
  Słuchasz wciąż
+.     Em
  Bez względu na stan
+.         C
  W jakim znajduję się
+
 [v2]
+.        G           D
  Jesteś wierny, odpowiadasz
+.     Em
  Swym słowem prawdziwym
+.   C
  Nadzieją, co trwa
+.      G           D
  Dotykając mnie, Panie
+.    Em
  Uwalniasz od grzechów
+.    Em
  Co wiązały mnie
+.        C     Em     D
  To dla Ciebie pragnę żyć
  Do Ciebie
 [v3]
+.    G
  Mój duch woła dziś
+.D
  Wciąż Ciebie pragnie
+.    Em
  Mój duch woła dziś
+.C
  Wciąż Ciebie szuka
+.     G
  Mój duch woła dziś
+.D
  Jestem tak wdzięczny
+.    Em
  Mój duch woła dziś
+.  C
  Jesteś wspaniały,
- 
+.G D Em C
  Tak!
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
