@@ -6279,8 +6279,8 @@
   <Description>3</Description>
   <FileName>Boże mój, jeszcze raz</FileName>
   <title>Boże mój, jeszcze raz</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry698>
   <Entry699>
   <Date>2023-05-10</Date>
@@ -6288,8 +6288,8 @@
   <Description>3</Description>
   <FileName>Boże mój, jeszcze raz</FileName>
   <title>Boże mój, jeszcze raz</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry699>
   <Entry700>
   <Date>2023-05-10</Date>
@@ -6297,8 +6297,8 @@
   <Description>3</Description>
   <FileName>Boże mój, jeszcze raz</FileName>
   <title>Boże mój, jeszcze raz</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry700>
   <Entry701>
   <Date>2023-05-10</Date>
@@ -6306,6 +6306,60 @@
   <Description>3</Description>
   <FileName>Boże mój, jeszcze raz</FileName>
   <title>Boże mój, jeszcze raz</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry701>
+  <Entry702>
+  <Date>2023-05-13</Date>
+  <Time>10:25:59</Time>
+  <Description>3</Description>
+  <FileName>Boże mój, jeszcze raz</FileName>
+  <title>Boże mój, jeszcze raz</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry702>
+  <Entry703>
+  <Date>2023-05-23</Date>
+  <Time>13:03:18</Time>
+  <Description>1</Description>
+  <FileName>( Wszystkie )/Cała Chwała</FileName>
+  <title>Cała Chwała</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry701></log>
+  <HasChords>false</HasChords></Entry703>
+  <Entry704>
+  <Date>2023-05-23</Date>
+  <Time>13:05:58</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Cała Chwała</FileName>
+  <title>Cała Chwała</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry704>
+  <Entry705>
+  <Date>2023-05-23</Date>
+  <Time>13:06:02</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Cała Chwała</FileName>
+  <title>Cała Chwała</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry705>
+  <Entry706>
+  <Date>2023-05-23</Date>
+  <Time>13:06:08</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Cała Chwała</FileName>
+  <title>Cała Chwała</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry706>
+  <Entry707>
+  <Date>2023-05-23</Date>
+  <Time>13:08:28</Time>
+  <Description>3</Description>
+  <FileName>( Wszystkie )/Cała Chwała</FileName>
+  <title>Cała Chwała</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry707></log>
