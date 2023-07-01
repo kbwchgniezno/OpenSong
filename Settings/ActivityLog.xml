@@ -6324,8 +6324,8 @@
   <Description>1</Description>
   <FileName>( Wszystkie )/Cała Chwała</FileName>
   <title>Cała Chwała</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry703>
   <Entry704>
   <Date>2023-05-23</Date>
@@ -6333,8 +6333,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Cała Chwała</FileName>
   <title>Cała Chwała</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry704>
   <Entry705>
   <Date>2023-05-23</Date>
@@ -6342,8 +6342,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Cała Chwała</FileName>
   <title>Cała Chwała</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry705>
   <Entry706>
   <Date>2023-05-23</Date>
@@ -6351,8 +6351,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Cała Chwała</FileName>
   <title>Cała Chwała</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry706>
   <Entry707>
   <Date>2023-05-23</Date>
@@ -6360,8 +6360,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Cała Chwała</FileName>
   <title>Cała Chwała</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry707>
   <Entry708>
   <Date>2023-05-23</Date>
@@ -6369,8 +6369,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Cała Chwała</FileName>
   <title>Cała Chwała</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry708>
   <Entry709>
   <Date>2023-05-23</Date>
@@ -6378,8 +6378,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Boże mój, jeszcze raz</FileName>
   <title>Cała Chwała</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry709>
   <Entry710>
   <Date>2023-05-23</Date>
@@ -6387,8 +6387,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Cała Chwała</FileName>
   <title>Cała Chwała</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry710>
   <Entry711>
   <Date>2023-06-05</Date>
@@ -6396,8 +6396,8 @@
   <Description>3</Description>
   <FileName>( Wszystkie )/Cała Chwała</FileName>
   <title>Cała Chwała</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry711>
   <Entry712>
   <Date>2023-06-05</Date>
@@ -6405,8 +6405,8 @@
   <Description>1</Description>
   <FileName>Tłumaczenia/Jahwe Objawi Siebie Sam (Yahweh se manifestra)</FileName>
   <title>Jahwe Objawi Siebie Sam (Yahweh se manifestra)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry712>
   <Entry713>
   <Date>2023-06-05</Date>
@@ -6414,8 +6414,8 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/Jahwe Objawi Siebie Sam (Yahweh se manifestra)</FileName>
   <title>Jahwe Objawi Siebie Sam (Yahweh se manifestra)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry713>
   <Entry714>
   <Date>2023-06-05</Date>
@@ -6423,6 +6423,51 @@
   <Description>3</Description>
   <FileName>Tłumaczenia/Jahwe Objawi Siebie Sam (Yahweh se manifestra)</FileName>
   <title>Jahwe Objawi Siebie Sam (Yahweh se manifestra)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry714>
+  <Entry715>
+  <Date>2023-06-27</Date>
+  <Time>13:00:15</Time>
+  <Description>1</Description>
+  <FileName>Tłumaczenia/Najświętsze z miejsc (Holy Ground)</FileName>
+  <title>Najświętsze z miejsc (Holy Ground)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry714></log>
+  <HasChords>false</HasChords></Entry715>
+  <Entry716>
+  <Date>2023-06-27</Date>
+  <Time>13:01:00</Time>
+  <Description>3</Description>
+  <FileName>Tłumaczenia/Najświętsze z miejsc (Holy Ground)</FileName>
+  <title>Najświętsze z miejsc (Holy Ground)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry716>
+  <Entry717>
+  <Date>2023-06-27</Date>
+  <Time>13:01:08</Time>
+  <Description>3</Description>
+  <FileName>Tłumaczenia/Najświętsze z miejsc (Holy Ground)</FileName>
+  <title>Najświętsze z miejsc (Holy Ground)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry717>
+  <Entry718>
+  <Date>2023-06-27</Date>
+  <Time>13:01:14</Time>
+  <Description>3</Description>
+  <FileName>Tłumaczenia/Najświętsze z miejsc (Holy Ground)</FileName>
+  <title>Najświętsze z miejsc (Holy Ground)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry718>
+  <Entry719>
+  <Date>2023-07-01</Date>
+  <Time>14:51:40</Time>
+  <Description>3</Description>
+  <FileName>Tłumaczenia/Najświętsze z miejsc (Holy Ground)</FileName>
+  <title>Najświętsze z miejsc (Holy Ground)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry719></log>
