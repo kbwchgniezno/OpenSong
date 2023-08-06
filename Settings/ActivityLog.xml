@@ -6486,8 +6486,8 @@
   <Description>1</Description>
   <FileName>Ślub Marcina i Marietty 05.08.2023/s</FileName>
   <title>s</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry721>
   <Entry722>
   <Date>2023-07-26</Date>
@@ -6495,8 +6495,8 @@
   <Description>2</Description>
   <FileName>Ślub Marcina i Marietty 05.08.2023/s</FileName>
   <title>s</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry722>
   <Entry723>
   <Date>2023-07-26</Date>
@@ -6504,8 +6504,8 @@
   <Description>1</Description>
   <FileName>Ślub Marcina i Marietty 05.08.2023/Są Chwile jak ta</FileName>
   <title>Są Chwile jak ta</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry723>
   <Entry724>
   <Date>2023-07-26</Date>
@@ -6513,8 +6513,8 @@
   <Description>3</Description>
   <FileName>Ślub Marcina i Marietty 05.08.2023/Są Chwile jak ta</FileName>
   <title>Są Chwile jak ta</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry724>
   <Entry725>
   <Date>2023-07-26</Date>
@@ -6522,8 +6522,8 @@
   <Description>3</Description>
   <FileName>Ślub Marcina i Marietty 05.08.2023/Są Chwile jak ta</FileName>
   <title>Są Chwile jak ta</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry725>
   <Entry726>
   <Date>2023-07-30</Date>
@@ -6531,8 +6531,8 @@
   <Description>3</Description>
   <FileName>Ślub Marcina i Marietty 05.08.2023/Są Chwile jak ta</FileName>
   <title>Są Chwile jak ta</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry726>
   <Entry727>
   <Date>2023-07-30</Date>
@@ -6540,8 +6540,8 @@
   <Description>3</Description>
   <FileName>Ślub Marcina i Marietty 05.08.2023/Są Chwile jak ta</FileName>
   <title>Są Chwile jak ta</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry727>
   <Entry728>
   <Date>2023-07-30</Date>
@@ -6549,8 +6549,8 @@
   <Description>3</Description>
   <FileName>Ślub Marcina i Marietty 05.08.2023/Są Chwile jak ta</FileName>
   <title>Są Chwile jak ta</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry728>
   <Entry729>
   <Date>2023-07-30</Date>
@@ -6558,6 +6558,15 @@
   <Description>3</Description>
   <FileName>Ślub Marcina i Marietty 05.08.2023/Są Chwile jak ta</FileName>
   <title>Są Chwile jak ta</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry729>
+  <Entry730>
+  <Date>2023-08-06</Date>
+  <Time>08:45:47</Time>
+  <Description>3</Description>
+  <FileName>Błogosław duszo moja Panu</FileName>
+  <title>Błogosław duszo moja Panu</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry729></log>
+  <HasChords>true</HasChords></Entry730></log>
