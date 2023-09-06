@@ -1,79 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>W to wierzę</title>
-  <lyrics>[v1]
-.C                Em D
- Nasz Ojcze nieskończony
-.                 G  C
+  <lyrics>[int1]
+.A C#m B E/G#
+
+[v1]
+.A                C#m B
+ Nasz Ojcze nieskończ_ony
+.                 E  A
  Wszystko stworzyłeś Ty
-.        D   G
+.        B   E
  Wszechmogący
-.C              Em D
- Świętego Ducha mocą
-.        G      C
+.A              C#m B
+ Świętego Ducha moc_ą
+.        E      A
  Poczęty został Syn
-.            D
+.            B
  Jezus, nasz Zbawca
 
 [c1]
-.G                     D
+.E                     B
  Tak, ja wierzę w Boga Ojca
-.C                    D
+.A                    B
  W Syna, którym Jezus jest
-.Em
+.C#m                   B
  Wierzę też w Świętego Ducha
-.C
+.A                     E
  Bóg jest w osobach trzech
-.G                         D
+.E                         B
  Wierzę także w zmartwychwstanie
-.C              D
+.A              B
  Że powstaniemy znów
-.Em                   C     D
+.C#m                  A     B
  Wyznaję to: Wierzę w imię Jezus
 
 [v2]
-.C                  Em  D
+.A                  C#m B
  Nasz Sędzio, nasz Obrońco
-.               G   C
+.               E   A
  Cierpiałeś za nasz grzech
-.            D    G
+.            B    E
  A nam przebaczono
-.C                 Em  D
+.A                 C#m B
  Ty zszedłeś do ciemności
-.                 G   C
+.                 E   A
  I w chwale wzniosłeś się
-.          D
+.                B
  Zająłeś w niebie tron
 
 [b1]
-.G    C Em   D   G
+.E    A C#m  B   E
  Wierzę, że Bóg jest
-.        C    Em     D    G
+.        A    C#m    B    E
  Wierzę, że pokonał śmierć
-.        C       D             G
+.        A       B             E
  Wierzę, że to Chrystus Panem jest
 
 [c2]
-.G                     D
+.E                     B
  Wierzę, że jest życie wieczne
-.C                      D
+.A                      B
  Że na ziemię przyszedł Bóg
-.Em
+.C#m                 B
  Wierzę we wspólnotę świętych
-.C                   G
+.A                   E
  I święty Kościół Twój
-.G                         D
+.E                         B
  Wierzę w nasze zmartwychwstanie
-.C                    D
+.A                    B
  Gdy Jezus przyjdzie znów
-.Em                 C       D   G
- Wyznaję to: Wierzę w imię Jezus</lyrics>
+.C#m                A       B   E
+ Wyznaję to: Wierzę w imię Jezus
+
+
+[tag1]
+.E
+ Twój krzyż uwalnia
+.A
+ Twa krew uzdrawia
+.C#m
+ Nasz Pan, Król Jezus
+.A
+ Jemu niech będzie chwała
+
+[tag2]
+.E
+ Twa ofiara wciąż działa
+.A
+ Twoja miłość wciąż zbawia
+.C#m
+ Nasz Pan, Król Jezus
+.A
+ Jemu niech będzie chwała</lyrics>
   <author>This I Believe</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
