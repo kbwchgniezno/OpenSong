@@ -1,66 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Twój głos (Take You At Your Word)</title>
-  <lyrics>[v1]
-.     C             G/B            F2
- Twój głos jest jak lampa dla mych stóp 
-.     C            G/B             F2
- Ty sam, to najlepsza z wszystkich dróg 
+  <lyrics>;CAPO 4
+[v1]
+.     G             D/F#           C2
+ Twój głos jest jak lampa dla mych stóp
+.     G            D/F#            C2
+ Ty sam, to najlepsza z wszystkich dróg
 
  [pc1]
-.          Am7                   G
+.          Em7                   D
  To wąski szlak, lecz chcę nim iść
-.                F2
+.                C2
  Bo prowadzi do życia
-.           Am7             G
- Choć walka trwa, to jedno wiem 
-.           F2
- Ty jesteś wierny 
+.           Em7             D
+ Choć walka trwa, to jedno wiem
+.           C2
+ Ty jesteś wierny
 
 [c1]
-.             C
+.             G
  Jezu wierzę Ci!
-.  G/B         F2
- I ufam Twoim słowom 
-.                 C
+.  D/F#        C2
+ I ufam Twoim słowom
+.                 G
  Widziałem to nie raz
-.    G/B          F2
- Ty kończysz, co zaczynasz 
-.            C
- Jezu wierzę Ci! 
+.    D/F#         C2
+ Ty kończysz, co zaczynasz
+.            G
+ Jezu wierzę Ci!
 
 [v2]
-.      C         G/B            F2
+.      G         D/F#           C2
  Twój głos cały chaos zmienia w ład
-.     C          G/B            F2 
+.     G          D/F#           C2
  Wiem to, bo składałeś mnie nie raz
  
 [pc2]
-.          Am7                  G
+.          Em7                  D
  To wąski szlak, lecz chcę nim iść
-.                F2
+.                C2
  Bo prowadzi do życia
-.           Am7              G
+.           Em7              D
  Choć wokół sztorm, to jedno wiem
-.                F2 
- Prowadzisz przez wody 
+.                C2
+ Prowadzisz przez wody
 
 [tag1]
-.              Am7 G F2
+.              Em7 D C2
  Ty jesteś wierny
 
 [b1]
-.F2                           Am7
+.C2                           Em7
  Twa miłość trwa, niezmienna jest
-.G                        C/E
+.D                        G/B
  A Twoja łaska nie kończy się
-.F2                    Am7         G     C/E
+.C2                    Em7         D     G/B
  Mówisz mi, że każdego dnia jesteś ze mną
-.F2                       Am7
+.C2                       Em7
  Ja jestem Twój, zbawiłeś mnie
-.G                                  C/E
+.D                                  G/B
  Trzymasz mą̨ przyszłość, nie boję się
-.F2                          Am7    G       C/E
+.C2                          Em7    D       G/B
  Ty jesteś wierny i nigdy mnie nie zawiedziesz</lyrics>
   <author></author>
   <copyright></copyright>
