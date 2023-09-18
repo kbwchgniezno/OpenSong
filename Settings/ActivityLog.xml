@@ -7098,8 +7098,8 @@
   <Description>3</Description>
   <FileName>Jahwe Objawi Siebie Sam (Yahweh se manifestra)</FileName>
   <title>Jahwe Objawi Siebie Sam (Yahweh se manifestra)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry789>
   <Entry790>
   <Date>2023-09-14</Date>
@@ -7107,8 +7107,8 @@
   <Description>3</Description>
   <FileName>Jahwe Objawi Siebie Sam (Yahweh se manifestra)</FileName>
   <title>Jahwe Objawi Siebie Sam (Yahweh se manifestra)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry790>
   <Entry791>
   <Date>2023-09-14</Date>
@@ -7116,8 +7116,8 @@
   <Description>3</Description>
   <FileName>JESZUA (Yeshua)</FileName>
   <title>JESZUA</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry791>
   <Entry792>
   <Date>2023-09-14</Date>
@@ -7126,7 +7126,7 @@
   <FileName>W to wierzę (This I Believe)</FileName>
   <title>W to wierzę</title>
   <author>This I Believe</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry792>
   <Entry793>
   <Date>2023-09-15</Date>
@@ -7135,5 +7135,14 @@
   <FileName>W to wierzę (This I Believe)</FileName>
   <title>W to wierzę</title>
   <author>This I Believe</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry793>
+  <Entry794>
+  <Date>2023-09-18</Date>
+  <Time>11:22:38</Time>
+  <Description>3</Description>
+  <FileName>Jahwe Objawi Siebie Sam (Yahweh se manifestra)</FileName>
+  <title>Jahwe Objawi Siebie Sam (Yahweh se manifestra)</title>
+  <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry793></log>
+  <HasChords>true</HasChords></Entry794></log>
