@@ -72,7 +72,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false" sharp="true">2</capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
