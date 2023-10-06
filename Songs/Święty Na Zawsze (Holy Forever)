@@ -1,67 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Święty Na Zawsze (Holy Forever)</title>
-  <lyrics>[v1] 
-.C
+  <lyrics>;CAPO 3
+[v1] 
+.G
  Dziś wszystkie pokolenia
-.F             C
- Stają w uwielbieniu 
-.Am           G             F
+.C             G
+ Stają w uwielbieniu
+.Em           D             C
  Śpiewając Barankowi chwały pieśń
-.C 
- I Ci którzy odeszli 
-.F              C
+.G
+ I Ci którzy odeszli
+.C              G
  I Ci, którzy uwierzą
-.Am             G             F 
- Zaśpiewają Barankowi chwały pieśń 
+.Em             D             C
+ Zaśpiewają Barankowi chwały pieśń
 
 [pc1]
-.     F                Am 
- Imię Twe jest najwyższe 
-.      G
- Imię Twe jest potężne 
-.     Am         G        F
+.     C                Em
+ Imię Twe jest najwyższe
+.      D
+ Imię Twe jest potężne
+.     Em         D        C
  Imię Twe ponad wszystko jest
-.     F              Am 
- Imię Twe ponad trony 
-.     G
+.     C              Em
+ Imię Twe ponad trony
+.     D
  Imię Twe ponad władze
-.     Am         G       Dm7 
- Imię Twe ponad wszystko jest 
+.     Em         D       Am7
+ Imię Twe ponad wszystko jest
 
 [c1]
-.             F         Am G
- Chór aniołów brzmi - Święty 
-.                 C/E      Am
- Wszystko wielbi Cię - Święty 
-.             Dm    G
- Wywyższony Pan - Święty 
-.           C
+.             C         Em D
+ Chór aniołów brzmi - Święty
+.                 G/B      Em
+ Wszystko wielbi Cię - Święty
+.             Am    D
+ Wywyższony Pan - Święty
+.           G
  Święty na zawsze
  
 [v2]
-.C                   F           C
- Jeśli uwierzyłeś, Że On wykupił Cię 
-.Am          G             F       
- Śpiewaj Barankowi chwały pieśń 
-.C
- Jeśli jesteś wolny 
-.  F            C
- I nosisz Jego imię 
-.Am           G            F
- Śpiewaj Barankowi chwały pieśń 
-.Am            G             F
- Śpiewajmy Barankowi chwały pieśń 
+.G                   C           G
+ Jeśli uwierzyłeś, Że On wykupił Cię
+.Em          D             C
+ Śpiewaj Barankowi chwały pieśń
+.G
+ Jeśli jesteś wolny
+.  C            G
+ I nosisz Jego imię
+.Em           D            C
+ Śpiewaj Barankowi chwały pieśń
+.Em            D             C
+ Śpiewajmy Barankowi chwały pieśń
 
 [c2]
-.               F         Am G
- Śpiewa Kościół Twój - Święty 
-.                C/E      Am
- To dla Króla chwał - Święty 
-.           Dm     G
- Wywyższony Pan - Święty 
-.          C
- Święty na zawsze </lyrics>
+.               C         Em D
+ Śpiewa Kościół Twój - Święty
+.                G/B      Em
+ To dla Króla chwał - Święty
+.           Am     D
+ Wywyższony Pan - Święty
+.          G
+ Święty na zawsze</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
