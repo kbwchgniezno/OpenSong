@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -17,19 +17,19 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
-.a                          d
+.Am                          Dm
  A gdyby dziś, Pan Jezus przyszedł
 .G                   C
  Jak złodziej w nocy, niespodziewanie,
-.a                  d 
+.Am                  Dm 
  I wszelkich planów, nić zawiłą przeciął,
-.e
+.Em
  I wszelkich ludzkich ambicji spełnienie.
  
 [v2]
  Gdyby tak dzis, Pan Jezus przyszedł,
  W serce twe spojrzał, życie pozostawił
- I spytał -- człowieku, czyjąs własnością?
+ I spytał -- człowieku, czyjąś własnością?
  Czym Ja cię z grzechów twych wyrwał i zbawił.
  
 [v3]
@@ -43,4 +43,7 @@
  Jak złodziej w nocy, niespodziewanie,
  I wszelkich planów, nić zawiłą przeciął,
  Czy jesteś gotów na takie pytanie?
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

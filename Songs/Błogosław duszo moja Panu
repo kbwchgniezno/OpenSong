@@ -16,66 +16,68 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[v1]
+  <lyrics>[C1]
 . E                    C#m
  Błogosław duszo moja Pana
-.             D                  fis     A
+.             D                  F#m     A
  Wszystko co we mnie, Jego najświętsze Imię
-. E                    cis
+. E                    C#m
  Błogosław duszo moja Pana,
-.       D               fis  A   E
+.       D               F#m  A   E
  Jego dobroci nigdy nie zapominaj.
 [v2]
-. fis                    A
+. F#m                   A
  On odpuszcza wszystkie twoje grzechy
 . E 
  Leczy wszystkie twoje choroby
-. fis          A
+. F#m          A
  Okazuje Swoje miłosierdzie, 
 . E
  On ratuje Ciebie od zguby
-. fis              A
+. F#m              A
  On napełnia twoje życie dobrem,
 . E
  aż odnowi się twoja młodość, jak u orła.
 [v3]
-. fis
+. F#m
  Nie odpłaca według grzechów
+.A
  Nie chce wiecznie gniewać się
 . D  
  On pamięta, żeśmy prochem
-. fis             H
+. F#m             B
  On  najlepiej wie
 [v4]
-. fis                A
+. F#m                A
  Tak, jak ojciec nad swoimi dziećmi
 . E
  Pan lituje się nad pokornym
-. fis        A
+. F#m        A
  On oddala nasze winy
 . E
  Jak daleko wschód od zachodu
-. fis              A
+. F#m              A
  Jak wysoko niebo jest nad ziemią
 . E
  tak jest wielka dobroć dla ludzi,
  Którzy się Go boją
 [v5]
-. fis
+. F#m
  Dni człowieka są jak trawa
+.A
  Kwitnie on, jak polny kwiat
 . D
  Kiedy mocniej wiatr zawieje,
-. fis             H
+. F#m             B
  Znika po nim ślad
-[V6]
+[b1]
 . E
  Błogosławcie Pana wszyscy aniołowie
-. cis
- Blogoslawcie Pana wszyscy Jego ludzie
+. C#m
+ Błogosławcie Pana wszyscy Jego ludzie
 . D
  Błogosławcie Pana wszystkie Jego dzieła
-. fis     A      E
+. F#m     A      E
  Błogosławcie Go!
  </lyrics>
   <linked_songs/>

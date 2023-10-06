@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><song>  <title>Boże cudow (God of wonders)</title>  <author></author>  <copyright></copyright>  <hymn_number></hymn_number>  <presentation></presentation>  <ccli></ccli>  <capo print="false"></capo>  <key></key>  <aka></aka>  <key_line></key_line>  <user1></user1>  <user2></user2>  <user3></user3>  <theme></theme>  <tempo></tempo>  <time_sig></time_sig>  <lyrics>[v1]. D        e    C Stworzycielu świata. D        e    C Twoja ziemia jest i czas. D        e    C Twoim tronem są niebiosa. D        e    C Twoja Chwała sięga gwiazd[v2]. D        e    C Codzień o poranku. D        e    C będę witał światło Twe. D        e    C Kiedy potkne się w ciemnościach. D        e    C z głębokości wezwę Cię.[c]. G                       D    Boże cudów w majestacie Swym,.          e      C Jestes Święty, Święty. G                       D     Niebo ziemia głosi chwałę Ci.         e       C Jesteś Święty, Święty.[v3]. Am7             C    D Alleluja, śpiewaj Panu niebo i ziemio x4</lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Boże cudow (God of wonders)</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+. D        Em    C
+ Stworzycielu świata
+. D        Em    C
+ Twoja ziemia jest i czas
+. D        Em    C
+ Twoim tronem są niebiosa
+. D        Em    C
+ Twoja Chwała sięga gwiazd
+[v2]
+. D        Em    C
+ Codzień o poranku
+. D        Em    C
+ będę witał światło Twe
+. D        Em    C
+ Kiedy potkne się w ciemnościach
+. D        Em    C
+ z głębokości wezwę Cię.
+[c]
+. G                       D   
+ Boże cudów w majestacie Swym,
+.          Em      C
+ Jestes Święty, Święty
+. G                       D    
+ Niebo ziemia głosi chwałę Ci
+.         Em       C
+ Jesteś Święty, Święty.
+[v3]
+. Am7             C    D
+ Alleluja, śpiewaj Panu niebo i ziemio x4</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
