@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -25,4 +25,7 @@
 . a             F      C        F           d        E
  Tyś mą siłą Tyś tarczą jest, na Tobie tylko polegać chcę.
 . C    e        a                    F     G       C
- Tyś pragnieniem mojego serca, Ciebie Panie wielbić chcę.</lyrics></song>
+ Tyś pragnieniem mojego serca, Ciebie Panie wielbić chcę.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
