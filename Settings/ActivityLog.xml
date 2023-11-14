@@ -7926,8 +7926,8 @@
   <Description>3</Description>
   <FileName>Tak jak gorejący śpiew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry881>
   <Entry882>
   <Date>2023-10-13</Date>
@@ -7935,8 +7935,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Tak jak gorejący krzew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry882>
   <Entry883>
   <Date>2023-10-13</Date>
@@ -7944,8 +7944,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Tak jak gorejący śpiew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry883>
   <Entry884>
   <Date>2023-10-13</Date>
@@ -7953,8 +7953,8 @@
   <Description>2</Description>
   <FileName>Tak jak gorejący śpiew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry884>
   <Entry885>
   <Date>2023-10-13</Date>
@@ -7962,8 +7962,8 @@
   <Description>3</Description>
   <FileName>Tak jak gorejący krzew</FileName>
   <title>Tak jak jelen</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry885>
   <Entry886>
   <Date>2023-10-16</Date>
@@ -7971,8 +7971,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Tak jak gorejący krzew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry886>
   <Entry887>
   <Date>2023-10-16</Date>
@@ -7980,8 +7980,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Tak jak gorejący krzew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry887>
   <Entry888>
   <Date>2023-10-16</Date>
@@ -7989,8 +7989,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Tak jak gorejący krzew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry888>
   <Entry889>
   <Date>2023-10-16</Date>
@@ -7998,8 +7998,8 @@
   <Description>3</Description>
   <FileName>Bóg Przebudzenia (God Of Revival)</FileName>
   <title>Bóg Przebudzenia (God Of Revival)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry889>
   <Entry890>
   <Date>2023-10-16</Date>
@@ -8007,8 +8007,8 @@
   <Description>3</Description>
   <FileName>JESZUA (Yeshua)</FileName>
   <title>Bóg Przebudzenia (God Of Revival)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry890>
   <Entry891>
   <Date>2023-10-16</Date>
@@ -8016,8 +8016,8 @@
   <Description>3</Description>
   <FileName>JESZUA (Yeshua)</FileName>
   <title>JESZUA</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry891>
   <Entry892>
   <Date>2023-10-16</Date>
@@ -8025,8 +8025,8 @@
   <Description>3</Description>
   <FileName>JESZUA (Yeshua)</FileName>
   <title>JESZUA</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry892>
   <Entry893>
   <Date>2023-10-16</Date>
@@ -8034,6 +8034,132 @@
   <Description>3</Description>
   <FileName>Bóg Przebudzenia (God Of Revival)</FileName>
   <title>Bóg Przebudzenia (God Of Revival)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry893>
+  <Entry894>
+  <Date>2023-11-14</Date>
+  <Time>12:25:27</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry893></log>
+  <HasChords>false</HasChords></Entry894>
+  <Entry895>
+  <Date>2023-11-14</Date>
+  <Time>12:27:01</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry895>
+  <Entry896>
+  <Date>2023-11-14</Date>
+  <Time>12:35:15</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry896>
+  <Entry897>
+  <Date>2023-11-14</Date>
+  <Time>12:38:32</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry897>
+  <Entry898>
+  <Date>2023-11-14</Date>
+  <Time>12:41:06</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry898>
+  <Entry899>
+  <Date>2023-11-14</Date>
+  <Time>12:42:01</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry899>
+  <Entry900>
+  <Date>2023-11-14</Date>
+  <Time>12:43:03</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry900>
+  <Entry901>
+  <Date>2023-11-14</Date>
+  <Time>12:44:25</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry901>
+  <Entry902>
+  <Date>2023-11-14</Date>
+  <Time>12:47:07</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry902>
+  <Entry903>
+  <Date>2023-11-14</Date>
+  <Time>12:55:35</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry903>
+  <Entry904>
+  <Date>2023-11-14</Date>
+  <Time>12:57:45</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry904>
+  <Entry905>
+  <Date>2023-11-14</Date>
+  <Time>12:58:37</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry905>
+  <Entry906>
+  <Date>2023-11-14</Date>
+  <Time>13:02:23</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry906>
+  <Entry907>
+  <Date>2023-11-14</Date>
+  <Time>13:06:39</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbij Go (Praise)</FileName>
+  <title>Wielbij Go (Praise)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry907></log>
