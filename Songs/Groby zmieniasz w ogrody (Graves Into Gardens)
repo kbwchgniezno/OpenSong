@@ -104,7 +104,7 @@
   <user3></user3>
   <theme></theme>
   <linked_songs/>
-  <tempo>70</tempo>
+  <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

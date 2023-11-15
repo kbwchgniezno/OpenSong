@@ -3,32 +3,32 @@
   <title>Przebudzenie</title>
   <lyrics>;CAPO 2
 [v1]
-.C                       Am
+.C                       Am7
  Ty poruszasz się tutaj Panie
-.                     G
+.                     Em7
  i kajdany rozrywasz nasze
-.               Bm
+.               D
  Dajesz wolność nam
-.C                       Am
+.C                       Am7
  Ty przywracasz zdrowie chorym
-.                  G
+.                  Em7
  I otwierasz oczy ślepym
-.              Bm
+.              D
  Czynisz nową rzecz
 
 [c1]
 .                 C
  To jest właśnie przebudzenie
-.D             Em                Bm
+.D             Em7               Bm7
  Przebudzenie gdy, Ty poruszasz się
 .                   C
  Wierzymy, że twój duch jest tutaj
-.D                Em
+.D                Em7
  Przynosi wolność nam
-.               Bm
+.               Bm7
  Czyń co tylko chcesz
 
-.C D Em Bm
+.C D Em7 Bm7
 
 [v2]
 .C                      Am
@@ -69,7 +69,7 @@
   <user3></user3>
   <theme></theme>
   <linked_songs/>
-  <tempo></tempo>
+  <tempo>80</tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
