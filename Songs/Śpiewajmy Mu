@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -17,28 +17,67 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
- Śpiewajmy Mu, dziękujmy Mu, 
+.G
+ Śpiewajmy Mu, dziękujmy Mu,
+.G 
  Jego miłość przetrwa wiecznie
- On dobry jest, On jest Panem mym, 
+.   C
+ On dobry jest, On jest Panem mym,
+.     G 
  Jego miłość przetrwa wiecznie
- 
+.       D             C
  Wznieś głos, wznieś głos
+
 [v2]
- Śpiewajmy Mu, dziękujmy Mu, 
+.G
+ Śpiewajmy Mu, dziękujmy Mu,
+.G 
  Jego miłość przetrwa wiecznie
+.    C
  Za życie, które daje nam, 
+.     G
  Jego miłość przetrwa wiecznie
- 
+.       D             C 
  Wznieś głos, wznieś głos
-[v3]
+
+[c1]
+.   G
  Na zawsze Bóg jest wierny
+.   Em7
  Na zawsze mocny jest
+.   D
  Na zawsze Bóg jest z nami
+    C          G
  Na zawsze, na zawsze
-[v4]
+
+[v3]
+.G
  Od rana, aż po nocy kres, 
+.G
  Jego miłość przetrwa wiecznie
- Opieką swą obdarza nas, 
+.    C
+ Opieką swą obdarza nas,
+.     G 
  Jego miłość przetrwa wiecznie
- 
- Wznieś głos, wznieś głos</lyrics></song>
+.       D            C 
+ Wznieś głos, wznieś głos
+
+[b1]
+.G
+ Jego miłość przetrwa wiecznie x8
+.      D             C
+ Wznieś głos, wznieś głos
+
+[c2]
+.   A
+ Na zawsze Bóg jest wierny
+.   F#m
+ Na zawsze mocny jest
+.   E
+ Na zawsze Bóg jest z nami
+    D          A
+ Na zawsze, na zawsze
+</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
