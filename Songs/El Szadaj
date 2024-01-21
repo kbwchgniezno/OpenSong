@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>El Szadaj</title>
+  <title>El Shaddai</title>
+  <lyrics>[c1]
+ El-Elyon na Adonai
+ Wieki płyną Tyś ten sam
+ Swoją mocą wiecznie trwasz
+
+[c2]
+ El Shaddai, El Shaddai
+ Wszechmogący Panie nasz
+ Wywyższamy Imię Twe
+ El Shaddai
+ 
+[v1]
+ Sam Baranka dałeś by
+ Nie zginął Abrahama Syn
+ Tyś potężną ręką swą
+ Morze zmienił w suchy ląd
+ Gdy wygnaniec modlił się
+ Tyś Bogiem był, co serce zna
+ Ty Mocą Swą wyzwalasz dzieci Swe
+
+
+[v2]
+ Wiele lat mówiłeś nam
+ Że czas Mesjasza bliski jest
+ Lecz nikt pojąć nie mógł
+ Że w mizernym kształcie zjawisz się
+ W słowie Twym zawarty plan
+ Niewielu wciąż zrozumieć chce
+ Posłuszny słowom Twym
+ W kruchym ciele zszedł Bóg Syn</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -17,17 +47,5 @@
   <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
- EL SZADDAJ, EL SZADDAJ 
- El Eljona Adonai.
- Wieki płyną Tyś ten sam, 
- imienia mocą wiecznie trwasz.
-
- El Szaddaj, El Szaddaj
- Wszechmogący Panie nasz.
- Wywyższamy imię Twe, El Szaddaj. 
-
-[V2]
- Sam Baranka dałeś, by nie zginął Abrahama Syn Tyś potężną ręką Swą morze zmienił w suchy ląd Gdy wygnaniec modlił się Tyś Bogiem był, co serce zna Ty mocą Swą wyzwalasz dzieci Swe [V3] Wiele lat mówiłeś nam, że czas Mesjasza bliski jest Lecz nikt pojąć nie mógł, że w mizernym kształcie zjawisz się W Słowie Twym zawarty plan, niewielu wciąż zrozumieć chce Posłuszny Słowom Twym W kruchym ciele zszedł Bóg Syn....</lyrics>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
