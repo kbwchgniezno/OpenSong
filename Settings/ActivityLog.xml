@@ -8412,8 +8412,8 @@
   <Description>1</Description>
   <FileName>Piotr/Przy Tobie</FileName>
   <title>Przy Tobie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry935>
   <Entry936>
   <Date>2024-01-16</Date>
@@ -8421,8 +8421,8 @@
   <Description>3</Description>
   <FileName>Piotr/Przy Tobie</FileName>
   <title>Przy Tobie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry936>
   <Entry937>
   <Date>2024-01-17</Date>
@@ -8430,8 +8430,8 @@
   <Description>1</Description>
   <FileName>Piotr/Blisko Ciebie</FileName>
   <title>Blisko Ciebie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry937>
   <Entry938>
   <Date>2024-01-17</Date>
@@ -8439,8 +8439,8 @@
   <Description>3</Description>
   <FileName>Piotr/Blisko Ciebie</FileName>
   <title>Blisko Ciebie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry938>
   <Entry939>
   <Date>2024-01-18</Date>
@@ -8448,8 +8448,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Otaczasz Mnie Dobrem</FileName>
   <title>Otaczasz Mnie Dobrem</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry939>
   <Entry940>
   <Date>2024-01-18</Date>
@@ -8457,8 +8457,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Otaczasz Mnie Dobrem</FileName>
   <title>Otaczasz Mnie Dobrem</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry940>
   <Entry941>
   <Date>2024-01-18</Date>
@@ -8466,6 +8466,114 @@
   <Description>3</Description>
   <FileName>( Główny )/Otaczasz Mnie Dobrem</FileName>
   <title>Otaczasz Mnie Dobrem</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry941>
+  <Entry942>
+  <Date>2024-01-18</Date>
+  <Time>15:20:04</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/O wychwalajcie Go</FileName>
+  <title>Otaczasz Mnie Dobrem</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry942>
+  <Entry943>
+  <Date>2024-01-18</Date>
+  <Time>15:27:39</Time>
+  <Description>3</Description>
+  <FileName>Otaczasz Mnie Dobrem</FileName>
+  <title>Otaczasz Mnie Dobrem</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry943>
+  <Entry944>
+  <Date>2024-01-19</Date>
+  <Time>20:56:04</Time>
+  <Description>3</Description>
+  <FileName>Otaczasz Mnie Dobrem</FileName>
+  <title>Otaczasz Mnie Dobrem</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry944>
+  <Entry945>
+  <Date>2024-01-24</Date>
+  <Time>13:15:41</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
+  <title>Pan Mnie Wysłuchał</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry941></log>
+  <HasChords>false</HasChords></Entry945>
+  <Entry946>
+  <Date>2024-01-24</Date>
+  <Time>13:17:49</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
+  <title>Pan Mnie Wysłuchał</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry946>
+  <Entry947>
+  <Date>2024-01-24</Date>
+  <Time>13:27:19</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
+  <title>Pan Mnie Wysłuchał</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry947>
+  <Entry948>
+  <Date>2024-01-24</Date>
+  <Time>13:28:39</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
+  <title>Pan Mnie Wysłuchał</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry948>
+  <Entry949>
+  <Date>2024-01-24</Date>
+  <Time>15:51:43</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
+  <title>Pan Mnie Wysłuchał</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry949>
+  <Entry950>
+  <Date>2024-01-25</Date>
+  <Time>11:39:08</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
+  <title>Pan Mnie Wysłuchał</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry950>
+  <Entry951>
+  <Date>2024-01-25</Date>
+  <Time>11:46:07</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
+  <title>Pan Mnie Wysłuchał</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry951>
+  <Entry952>
+  <Date>2024-01-25</Date>
+  <Time>11:48:15</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
+  <title>Pan Mnie Wysłuchał</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry952>
+  <Entry953>
+  <Date>2024-01-25</Date>
+  <Time>11:55:18</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
+  <title>Pan Mnie Wysłuchał</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry953></log>
