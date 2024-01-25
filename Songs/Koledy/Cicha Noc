@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Cicha Noc</title>
-  <lyrics>[v1] Cicha noc, święta noc
+  <lyrics>[v1] 
+ Cicha noc, święta noc
  Pokój niesie ludziom wszem,
  A u żłóbka Matka święta
  Czuwa sama, uśmiechnięta,
  Nad Dzieciątka snem,
  Nad Dzieciątka snem.
 
-[v2] Cicha noc, święta noc...
+[v2] 
+ Cicha noc, święta noc...
  Pastuszkowie od swych trzód
  Biegną wielce zadziwieni,
  Za anielskim głosem pieni,
  Gdzie się spełnił cud,
  Gdzie się spełnił cud.
 
-[v3] Cicha noc, święta noc...
+[v3] 
+ Cicha noc, święta noc...
  Narodzony Boży Syn,
  Pan wielkiego majestatu,
  Niesie dziś całemu światu
@@ -26,7 +29,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
