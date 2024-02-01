@@ -8583,8 +8583,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Bliżej (Closer)</FileName>
   <title>Bliżej (Closer)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry954>
   <Entry955>
   <Date>2024-02-01</Date>
@@ -8592,8 +8592,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Bliżej (Closer)</FileName>
   <title>Bliżej (Closer)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry955>
   <Entry956>
   <Date>2024-02-01</Date>
@@ -8601,8 +8601,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Bliżej (Closer)</FileName>
   <title>Bliżej (Closer)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry956>
   <Entry957>
   <Date>2024-02-01</Date>
@@ -8610,8 +8610,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Bliżej (Closer)</FileName>
   <title>Bliżej (Closer)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry957>
   <Entry958>
   <Date>2024-02-01</Date>
@@ -8619,8 +8619,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Bliżej (Closer)</FileName>
   <title>Bliżej (Closer)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry958>
   <Entry959>
   <Date>2024-02-01</Date>
@@ -8628,8 +8628,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Bliżej (Closer)</FileName>
   <title>Bliżej (Closer)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry959>
   <Entry960>
   <Date>2024-02-01</Date>
@@ -8637,8 +8637,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Bliżej (Closer)</FileName>
   <title>Bliżej (Closer)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry960>
   <Entry961>
   <Date>2024-02-01</Date>
@@ -8646,8 +8646,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Bliżej (Closer)</FileName>
   <title>Bliżej (Closer)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry961>
   <Entry962>
   <Date>2024-02-01</Date>
@@ -8655,8 +8655,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Bliżej (Closer)</FileName>
   <title>Bliżej (Closer)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry962>
   <Entry963>
   <Date>2024-02-01</Date>
@@ -8664,8 +8664,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Bliżej (Closer)</FileName>
   <title>Bliżej (Closer)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry963>
   <Entry964>
   <Date>2024-02-01</Date>
@@ -8673,6 +8673,60 @@
   <Description>3</Description>
   <FileName>( Główny )/Bliżej (Closer)</FileName>
   <title>Bliżej (Closer)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry964>
+  <Entry965>
+  <Date>2024-02-01</Date>
+  <Time>15:05:25</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Temu Chwała</FileName>
+  <title>Temu Chwała</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry964></log>
+  <HasChords>false</HasChords></Entry965>
+  <Entry966>
+  <Date>2024-02-01</Date>
+  <Time>15:08:29</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Temu Chwała</FileName>
+  <title>Temu Chwała</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry966>
+  <Entry967>
+  <Date>2024-02-01</Date>
+  <Time>15:20:59</Time>
+  <Description>3</Description>
+  <FileName>Jego miłość</FileName>
+  <title>Jego miłość</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry967>
+  <Entry968>
+  <Date>2024-02-01</Date>
+  <Time>15:22:01</Time>
+  <Description>3</Description>
+  <FileName>Jego miłość</FileName>
+  <title>Jego miłość</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry968>
+  <Entry969>
+  <Date>2024-02-01</Date>
+  <Time>15:25:27</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Temu Chwała</FileName>
+  <title>Temu Chwała</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry969>
+  <Entry970>
+  <Date>2024-02-01</Date>
+  <Time>15:53:45</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Temu Chwała</FileName>
+  <title>Temu Chwała</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry970></log>
