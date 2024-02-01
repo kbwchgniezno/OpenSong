@@ -8502,8 +8502,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
   <title>Pan Mnie Wysłuchał</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry945>
   <Entry946>
   <Date>2024-01-24</Date>
@@ -8511,8 +8511,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
   <title>Pan Mnie Wysłuchał</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry946>
   <Entry947>
   <Date>2024-01-24</Date>
@@ -8520,8 +8520,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
   <title>Pan Mnie Wysłuchał</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry947>
   <Entry948>
   <Date>2024-01-24</Date>
@@ -8529,8 +8529,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
   <title>Pan Mnie Wysłuchał</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry948>
   <Entry949>
   <Date>2024-01-24</Date>
@@ -8538,8 +8538,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
   <title>Pan Mnie Wysłuchał</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry949>
   <Entry950>
   <Date>2024-01-25</Date>
@@ -8547,8 +8547,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
   <title>Pan Mnie Wysłuchał</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry950>
   <Entry951>
   <Date>2024-01-25</Date>
@@ -8556,8 +8556,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
   <title>Pan Mnie Wysłuchał</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry951>
   <Entry952>
   <Date>2024-01-25</Date>
@@ -8565,8 +8565,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
   <title>Pan Mnie Wysłuchał</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry952>
   <Entry953>
   <Date>2024-01-25</Date>
@@ -8574,6 +8574,105 @@
   <Description>3</Description>
   <FileName>( Główny )/Pan Mnie Wysłuchał</FileName>
   <title>Pan Mnie Wysłuchał</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry953>
+  <Entry954>
+  <Date>2024-02-01</Date>
+  <Time>11:59:18</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Bliżej (Closer)</FileName>
+  <title>Bliżej (Closer)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry953></log>
+  <HasChords>false</HasChords></Entry954>
+  <Entry955>
+  <Date>2024-02-01</Date>
+  <Time>12:16:19</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Bliżej (Closer)</FileName>
+  <title>Bliżej (Closer)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry955>
+  <Entry956>
+  <Date>2024-02-01</Date>
+  <Time>12:21:01</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Bliżej (Closer)</FileName>
+  <title>Bliżej (Closer)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry956>
+  <Entry957>
+  <Date>2024-02-01</Date>
+  <Time>12:22:33</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Bliżej (Closer)</FileName>
+  <title>Bliżej (Closer)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry957>
+  <Entry958>
+  <Date>2024-02-01</Date>
+  <Time>12:23:49</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Bliżej (Closer)</FileName>
+  <title>Bliżej (Closer)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry958>
+  <Entry959>
+  <Date>2024-02-01</Date>
+  <Time>12:30:19</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Bliżej (Closer)</FileName>
+  <title>Bliżej (Closer)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry959>
+  <Entry960>
+  <Date>2024-02-01</Date>
+  <Time>12:31:43</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Bliżej (Closer)</FileName>
+  <title>Bliżej (Closer)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry960>
+  <Entry961>
+  <Date>2024-02-01</Date>
+  <Time>12:31:48</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Bliżej (Closer)</FileName>
+  <title>Bliżej (Closer)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry961>
+  <Entry962>
+  <Date>2024-02-01</Date>
+  <Time>12:32:41</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Bliżej (Closer)</FileName>
+  <title>Bliżej (Closer)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry962>
+  <Entry963>
+  <Date>2024-02-01</Date>
+  <Time>12:33:54</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Bliżej (Closer)</FileName>
+  <title>Bliżej (Closer)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry963>
+  <Entry964>
+  <Date>2024-02-01</Date>
+  <Time>12:33:55</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Bliżej (Closer)</FileName>
+  <title>Bliżej (Closer)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry964></log>
