@@ -2,6 +2,7 @@
 <song>
   <title>Nasz Pan</title>
   <lyrics>[V1]
+.
  Nasz Pan to wspaniały wielki Bóg,
  który włada nad nami, 
  więc głośmy wszystkim ludziom
@@ -17,7 +18,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

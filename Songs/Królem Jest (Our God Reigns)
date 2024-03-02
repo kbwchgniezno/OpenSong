@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Nasz Bog potezny jest</title>
+  <title>Królem Jest (Our God Reigns)</title>
+  <lyrics>.C      F
+ Królem jest
+.F   G    Am
+ Chrystus Pan
+.Am       G/B    C
+ Na wieki panuje nam 
+</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -14,19 +21,8 @@
   <user2></user2>
   <user3></user3>
   <theme></theme>
+  <linked_songs/>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
-.     C   G        
- Nasz Bóg potężny jest 
-.        D     Em
- W mocy swej Panuje nad nami
-. C      G 
- Z nieba rządzi On
-.  Am         Bm       Em D 
- W miłości, mądrości swej
- 
- </lyrics>
-  <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
