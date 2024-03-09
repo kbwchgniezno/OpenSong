@@ -8781,8 +8781,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Królem Jest (Our God Reigns)</FileName>
   <title>Królem Jest (Our God Reigns)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry976>
   <Entry977>
   <Date>2024-02-29</Date>
@@ -8790,8 +8790,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Królem Jest (Our God Reigns)</FileName>
   <title>Królem Jest (Our God Reigns)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry977>
   <Entry978>
   <Date>2024-02-29</Date>
@@ -8799,8 +8799,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Królem Jest (Our God Reigns)</FileName>
   <title>Królem Jest (Our God Reigns)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry978>
   <Entry979>
   <Date>2024-02-29</Date>
@@ -8808,8 +8808,8 @@
   <Description>3</Description>
   <FileName>Nasz Bog potezny jest</FileName>
   <title>Nasz Pan</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry979>
   <Entry980>
   <Date>2024-02-29</Date>
@@ -8817,6 +8817,78 @@
   <Description>3</Description>
   <FileName>Nasz Bog potezny jest</FileName>
   <title>Nasz Bog potezny jest</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry980>
+  <Entry981>
+  <Date>2024-03-09</Date>
+  <Time>19:15:36</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Wielbię Imię Twe (Worthy)</FileName>
+  <title>Wielbię Imię Twe (Worthy)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry980></log>
+  <HasChords>false</HasChords></Entry981>
+  <Entry982>
+  <Date>2024-03-09</Date>
+  <Time>19:23:00</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbię Imię Twe (Worthy)</FileName>
+  <title>Wielbię Imię Twe (Worthy)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry982>
+  <Entry983>
+  <Date>2024-03-09</Date>
+  <Time>19:27:05</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbię Imię Twe (Worthy)</FileName>
+  <title>Wielbię Imię Twe (Worthy)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry983>
+  <Entry984>
+  <Date>2024-03-09</Date>
+  <Time>19:30:19</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbię Imię Twe (Worthy)</FileName>
+  <title>Wielbię Imię Twe (Worthy)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry984>
+  <Entry985>
+  <Date>2024-03-09</Date>
+  <Time>19:52:19</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbię Imię Twe (Worthy)</FileName>
+  <title>Wielbię Imię Twe (Worthy)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry985>
+  <Entry986>
+  <Date>2024-03-09</Date>
+  <Time>19:55:21</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbię Imię Twe (Worthy)</FileName>
+  <title>Wielbię Imię Twe (Worthy)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry986>
+  <Entry987>
+  <Date>2024-03-09</Date>
+  <Time>19:57:47</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbię Imię Twe (Worthy)</FileName>
+  <title>Wielbię Imię Twe (Worthy)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry987>
+  <Entry988>
+  <Date>2024-03-09</Date>
+  <Time>19:58:40</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wielbię Imię Twe (Worthy)</FileName>
+  <title>Wielbię Imię Twe (Worthy)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry988></log>
