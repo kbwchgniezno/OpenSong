@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -17,30 +17,33 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-. D       A                 h
+. D       A                 Bm
  Majestat Twój nie wstrzymał Cię,
-.        fis            G 
+.        F#m            G 
  korony swej wyrzekłeś się,
-.       D             e               A
+.       D             Em               A
  wydany byłeś w ręce tych, których stworzyłeś.
 [V2] 
-. D       A                 h
+. D       A                 Bm
  Mój grzech, mój brud zmazałeś sam, 
-.        fis            G 
+.        F#m            G 
  kiedyś zmarł i zmartwychwstał.
-.       D                e        A
+.       D                Em        A
  Dzisiaj rządzisz Ty nad niebo wywyższony. 
 [V3] 
-. D       A                 h 
+. D       A                 Bm 
  Tylko Ciebie Panie wielbić chcę,
-.        fis            G  
+.        F#m            G  
  tylko TY zdobyłeś serce me. 
-.       D             e       A
+.       D             Em       A
  Po wieki wieczne będę kochać Cię,
-. D       A                 h 
+. D       A                 Bm 
  bo tylko Ty zdecydowałeś się, 
-.        fis            G
+.        F#m            G
  umrzeć za mnie i wyzwolić mnie.
-.       D               e          A      D 
+.       D               Em          A      D 
  Panie, Tobie więc dziś śpiewam w uwielbieniu. 
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
