@@ -17,33 +17,32 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
-. D       A                 Bm
+. G       D                 Em
  Majestat Twój nie wstrzymał Cię,
-.        F#m            G 
+.        Bm             C
  korony swej wyrzekłeś się,
-.       D             Em               A
+.       G             Am               D
  wydany byłeś w ręce tych, których stworzyłeś.
 [V2] 
-. D       A                 Bm
- Mój grzech, mój brud zmazałeś sam, 
-.        F#m            G 
+. G       D                 Em
+ Mój grzech, mój brud zmazałeś sam,
+.        Bm             C
  kiedyś zmarł i zmartwychwstał.
-.       D                Em        A
- Dzisiaj rządzisz Ty nad niebo wywyższony. 
+.       G                Am        D
+ Dzisiaj rządzisz Ty nad niebo wywyższony.
 [V3] 
-. D       A                 Bm 
+. G       D                 Em
  Tylko Ciebie Panie wielbić chcę,
-.        F#m            G  
- tylko TY zdobyłeś serce me. 
-.       D             Em       A
+.        Bm             C
+ tylko TY zdobyłeś serce me.
+.       G             Am       D
  Po wieki wieczne będę kochać Cię,
-. D       A                 Bm 
- bo tylko Ty zdecydowałeś się, 
-.        F#m            G
+. G       D                 Em
+ bo tylko Ty zdecydowałeś się,
+.        Bm             C
  umrzeć za mnie i wyzwolić mnie.
-.       D               Em          A      D 
- Panie, Tobie więc dziś śpiewam w uwielbieniu. 
- </lyrics>
+.       G               Am          D      G
+ Panie, Tobie więc dziś śpiewam w uwielbieniu.</lyrics>
   <linked_songs/>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
