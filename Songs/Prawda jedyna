@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -19,16 +19,18 @@
   <lyrics>[v1]
 . D      A
  Prawda jedyna 
-.     fis       cis
+.     F#m       C#m
  słowa Jezusa z Nazaretu,
  że swego Syna posłał z nieba Bóg na świat,
  aby niewinnie cierpiąc zmarł
  za nasze grzechy
  i w pohańbieniu przyjął winy wszystkich nas
-[c]
+
+[c1]
  Dzięki Ci, Boże mój za ten krzyż,
  który Jezus cierpiał za mnie, 
  Jezus cierpiał za mnie 
+
 [v2]
  Uwierz w Jezusa, 
  przecież On za Ciebie umarł

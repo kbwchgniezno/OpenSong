@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>O, przyjdźcie do tronu</title>
-  <lyrics>.B E
+  <lyrics>.A D
 [v1]
-.B     E                       B
+.A     D                       A
  Jeśli cierpisz i nie masz już sił
-.         E                           G#m
+.         D                           F#m
  Dźwigać wszystkich swych grzechów i win
-.          E
+.          D
  Jezus cię woła
 
-.B     E                         B
+.A     D                         A
  Kiedy nie wiesz już, dokąd masz iść
-.      E                           G#m
+.      D                           F#m
  Kiedy pragniesz, lecz nie masz co pić
-.          E
+.          D
  Jezus cię woła
 
 [c1]
-.B            C#m
+.A            Bm
  O, przyjdźcie do tronu
-.G#m              E      B
+.F#m              D      A
  W ramiona Ojciec weźmie was
-.              C#m
+.              Bm
  Wasz dług jest spłacony
-.G#m             E     B
+.F#m             D     A
  Bo Jezus własne życie dał
-.B E
+.A D
 
 [v2]
-.B       E                   B
+.A       D                   A
  Dziś za sobą zostawcie swój wstyd
-.       E                        G#m
+.       D                        F#m
  Nie zwlekajcie – już czas, żeby przyjść
-.           E
+.           D
  Jezus was woła
 
-.B      E                B
+.A      D                A
  Wasze troski zamieni na śmiech
-.      E                  G#m
+.      D                  F#m
  Swoje życie wam włoży do serc
-.          E
+.          D
  Jezus was woła
 
 
 
 [b1]
-.B G#m E
+.A F#m D
 
-.        B
+.        A
  To nasz Zbawiciel
-.       G#m
+.       F#m
  Niesamowity Bóg
-.      E               B
+.      D               A
  O, alleluja, Jezus żyje
 
-.             B
+.             A
  Przed nim się skłońmy
-.        G#m
+.        F#m
  Jedynym Panem jest
-.    E                B
+.    D                A
  O, alleluja, Jezus żyje
 
 [b2]
-.B C#m G#m E    B
+.A Bm F#m D A
 
 .
  Nieś swój krzyż, idąc do nieba bram
@@ -73,7 +73,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
