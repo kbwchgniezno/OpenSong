@@ -17,19 +17,21 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
-. G
- Alleluja, Alleluja
+. G   C G    G    C
+ Alleluja,  Alleluja
 .    D          C             G
  Zakrólował wszechmocny nasz Bóg x2
-. G   C D Em
+. G  C D C
  Alleluja
 [c]
-.  Em D  G
+.D  G    D   G
  Święty, Święty
-.       G           D
+.       C  G     Em   D
  Jesteś Panem wszechmocnym
-.                C
- Baranek godzien jest, Baranek godzien jest
+.Am      Bm      C            
+ Baranek godzien jest, 
+.Am      Bm      C
+ Baranek godzien jest
 . C   (D)  G
  Jesteś Święty..</lyrics>
   <linked_songs/>
