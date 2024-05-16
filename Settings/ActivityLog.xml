@@ -9258,8 +9258,8 @@
   <Description>3</Description>
   <FileName>Alleluja zakrólował</FileName>
   <title>Alleluja zakrólował</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1029>
   <Entry1030>
   <Date>2024-04-06</Date>
@@ -9267,8 +9267,8 @@
   <Description>3</Description>
   <FileName>Alleluja zakrólował</FileName>
   <title>Alleluja zakrólował</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1030>
   <Entry1031>
   <Date>2024-04-06</Date>
@@ -9276,6 +9276,42 @@
   <Description>3</Description>
   <FileName>Alleluja zakrólował</FileName>
   <title>Alleluja zakrólował</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1031>
+  <Entry1032>
+  <Date>2024-05-16</Date>
+  <Time>10:15:51</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Stare minęło</FileName>
+  <title>Stare minęło</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry1031></log>
+  <HasChords>false</HasChords></Entry1032>
+  <Entry1033>
+  <Date>2024-05-16</Date>
+  <Time>10:19:40</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Stare minęło</FileName>
+  <title>Stare minęło</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1033>
+  <Entry1034>
+  <Date>2024-05-16</Date>
+  <Time>10:20:08</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Stare minęło</FileName>
+  <title>Stare minęło</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1034>
+  <Entry1035>
+  <Date>2024-05-16</Date>
+  <Time>10:43:39</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Stare minęło</FileName>
+  <title>Stare minęło</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1035></log>
