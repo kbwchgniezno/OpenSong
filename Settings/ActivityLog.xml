@@ -9285,8 +9285,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Stare minęło</FileName>
   <title>Stare minęło</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1032>
   <Entry1033>
   <Date>2024-05-16</Date>
@@ -9294,8 +9294,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Stare minęło</FileName>
   <title>Stare minęło</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1033>
   <Entry1034>
   <Date>2024-05-16</Date>
@@ -9303,8 +9303,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Stare minęło</FileName>
   <title>Stare minęło</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1034>
   <Entry1035>
   <Date>2024-05-16</Date>
@@ -9312,8 +9312,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Stare minęło</FileName>
   <title>Stare minęło</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1035>
   <Entry1036>
   <Date>2024-05-16</Date>
@@ -9321,8 +9321,8 @@
   <Description>3</Description>
   <FileName>Wielbij Go (Praise)</FileName>
   <title>Wielbij Go (Praise)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1036>
   <Entry1037>
   <Date>2024-05-17</Date>
@@ -9330,8 +9330,8 @@
   <Description>3</Description>
   <FileName>Wielbię Imię Twe (Worthy)</FileName>
   <title>Wielbię Imię Twe (Worthy)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1037>
   <Entry1038>
   <Date>2024-05-17</Date>
@@ -9339,8 +9339,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Pan Wielki Jest (Great Are You Lord)</FileName>
   <title>Pan Wielki Jest (Great Are You Lord)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1038>
   <Entry1039>
   <Date>2024-05-17</Date>
@@ -9348,8 +9348,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Pan Wielki Jest (Great Are You Lord)</FileName>
   <title>Pan Wielki Jest (Great Are You Lord)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1039>
   <Entry1040>
   <Date>2024-05-17</Date>
@@ -9357,8 +9357,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Pan Wielki Jest (Great Are You Lord)</FileName>
   <title>Pan Wielki Jest (Great Are You Lord)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1040>
   <Entry1041>
   <Date>2024-05-17</Date>
@@ -9366,8 +9366,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Pan Wielki Jest (Great Are You Lord)</FileName>
   <title>Pan Wielki Jest (Great Are You Lord)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1041>
   <Entry1042>
   <Date>2024-05-17</Date>
@@ -9375,8 +9375,8 @@
   <Description>3</Description>
   <FileName>Przebudzenie</FileName>
   <title>Przebudzenie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1042>
   <Entry1043>
   <Date>2024-05-17</Date>
@@ -9384,8 +9384,8 @@
   <Description>3</Description>
   <FileName>Przebudzenie</FileName>
   <title>Przebudzenie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1043>
   <Entry1044>
   <Date>2024-05-17</Date>
@@ -9393,8 +9393,8 @@
   <Description>3</Description>
   <FileName>Przebudzenie</FileName>
   <title>Przebudzenie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1044>
   <Entry1045>
   <Date>2024-05-17</Date>
@@ -9402,8 +9402,8 @@
   <Description>3</Description>
   <FileName>Przebudzenie</FileName>
   <title>Przebudzenie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1045>
   <Entry1046>
   <Date>2024-05-17</Date>
@@ -9411,8 +9411,8 @@
   <Description>3</Description>
   <FileName>Mąż boleści (Son of Suffering)</FileName>
   <title>Przebudzenie</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1046>
   <Entry1047>
   <Date>2024-05-17</Date>
@@ -9420,6 +9420,33 @@
   <Description>3</Description>
   <FileName>Mąż boleści (Son of Suffering)</FileName>
   <title>Mąż boleści (Son of Suffering)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1047>
+  <Entry1048>
+  <Date>2024-09-21</Date>
+  <Time>06:46:36</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Kochany Ojcze</FileName>
+  <title>Kochany Ojcze</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry1047></log>
+  <HasChords>false</HasChords></Entry1048>
+  <Entry1049>
+  <Date>2024-09-21</Date>
+  <Time>06:49:36</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kochany Ojcze</FileName>
+  <title>Kochany Ojcze</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1049>
+  <Entry1050>
+  <Date>2024-09-21</Date>
+  <Time>06:49:46</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kochany Ojcze</FileName>
+  <title>Kochany Ojcze</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1050></log>
