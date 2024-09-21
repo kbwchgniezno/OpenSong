@@ -1,76 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Kochany Ojcze</title>
-  <lyrics>[i1]
-. Bb / / / / / I Bbsus4 / / / / / 
+  <lyrics>;CAPO 3
+[i1]
+. G / / / / / I Gsus4 / / / / /
 
 [v1]
-.Bb Bbsus4
+.G          Gsus4
  zmarnowany raj
-.Bb Bbsus4
+.G            Gsus4
  roztrwonione piękno
-.Gm Bbsus4
- na to nas było stać
-.Gm Bbsus4
+.Em              Gsus4
+ na  to nas było stać
+.Em              Gsus4
  zapanowała ciemność
 
 [v2]
+.G                  Gsus4
  Wszechświat stracił sens
+.G                   Gsus4
  nie chciałeś nas porzucić
+.Em                  Gsus4
  Twój Syn na ziemię zszedł
+.Em                   Gsus4
  by życie nam przywrócić
 
 [pc1]
-.Eb Fadd4 Gm
+.C       Dadd4  Em
  nasz olbrzymi dług
-.Bb F6 F
+.  C     G      D6 D
  gotowy byłeś spłacić
-.Eb Fadd4 Gm
+.C    Dadd4   Em
  opuszczony grób
-.Bb F6 F
+. C        G         D6 D
  świadectwo Twojej chwały
 
 [c1]
- Eb Bb Fadd4
+.              C  G Dadd4
  nasz Kochany Ojcze
- Eb Bb Fadd4
+.         C        G       Dadd4
  córką i synem nazwałeś nas
- Eb Bb Fadd4
+.     C      G Dadd4
  Boże pokoleń
- Eb F Bb
+.       C       D         G
  Twoja łaska na wieki trwa
 
 [v3]
- Bb Ebadd2
+. G            Cadd2
  obrońcą stałeś się
- Bb Ebadd2
+. G           Cadd2
  tatą dla sieroty
- Gm Eb
+. Em                C
  zmieniłeś smutek w pieśń
- Gm Eb
+. Em               C
  ubrałeś nam korony
 
+[pc1]
+
+[c1]
+
 [ins1]
-. Bb / / / / / I Bb / / / / / I Bbsus4 / / / / / I Bbsus4 / / / / / I
+. G / / / / / I G / / / / / I Gsus4 / / / / / I Gsus4 / / / / / I
 
 [b1]
-.Bb
+.G
  Twoja łaska na wieki
-.Bb
+.G
  trwa przez pokolenia
-.Bbsus4
+.Gsus4
  bo jesteś dobry
-.Bbsus4
+.Gsus4
  bo jesteś dobry
 
 [b2]
-.Bb
+.G
  Twoja łaska na wieki
-.Bb
+.G
  trwa przez pokolenia
-.Gm7
+.Em7
  bo jesteś dobry
-.F
+.D
  bo jesteś dobry</lyrics>
   <author></author>
   <copyright></copyright>
