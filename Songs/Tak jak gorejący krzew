@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Tak jak gorejący krzew</title>
-  <lyrics>;CAPO 3
+  <lyrics>;CAPO 4
+[intro1]
+.Am G F
 [c1]
 .Am                G
  Tak jak gorejący krzew
@@ -9,20 +11,24 @@
  Chcę płonąć znów
 
 [b1]
-.Am            G
+.Am            Em
  W moim sercu zamieszkał Bóg
-.     F
+.     Dm
  Jego chwała pasją mą
 
+[intro1]
+
 [v1]
-.Am            G
+.Am            Em
  Chcę zbliżyć się
-.            F
+.           Dm       F
  Ty moje serce skrusz
-.Am             G
+.Am             Em
  Kolana swe uginam
-.       F
+.       Dm      F
  Przed Tobą znów
+
+[c1]
 
 [b1]
 .                Am G
@@ -31,11 +37,28 @@
  Żar prosto z nieba
 .            F
  Dziś wypala mnie
-
 .                Am G
  Zapłonął ogień Twój
 .                 D  F
- Nic nie powstrzyma go</lyrics>
+ Nic nie powstrzyma go
+
+[intr1]
+
+[tag1]
+.Am               G
+ Wracam znów do Ciebie
+.  Dm
+ Rozpal miłość mą
+.F
+ Wylej chwałę swą
+.Am              G
+ Wracam znów do Ciebie
+.  F
+ Rozpal miłość mą
+.  Dm
+ Wylej chwałę Swą
+.             G
+ Dziś w sercu mym</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
