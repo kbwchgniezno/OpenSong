@@ -9600,8 +9600,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Baranek nasz (Unto The Lamb)</FileName>
   <title>Baranek nasz (Unto The Lamb)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1067>
   <Entry1068>
   <Date>2024-10-14</Date>
@@ -9609,8 +9609,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Baranek nasz (Unto The Lamb)</FileName>
   <title>Baranek nasz (Unto The Lamb)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1068>
   <Entry1069>
   <Date>2024-10-14</Date>
@@ -9618,8 +9618,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Baranek nasz (Unto The Lamb)</FileName>
   <title>Baranek nasz (Unto The Lamb)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1069>
   <Entry1070>
   <Date>2024-10-14</Date>
@@ -9627,8 +9627,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Baranek nasz (Unto The Lamb)</FileName>
   <title>Baranek nasz (Unto The Lamb)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1070>
   <Entry1071>
   <Date>2024-10-15</Date>
@@ -9636,8 +9636,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Tak jak gorejący krzew</FileName>
   <title>Baranek nasz (Unto The Lamb)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1071>
   <Entry1072>
   <Date>2024-10-15</Date>
@@ -9645,8 +9645,8 @@
   <Description>3</Description>
   <FileName>Tak jak gorejący krzew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1072>
   <Entry1073>
   <Date>2024-10-15</Date>
@@ -9654,8 +9654,8 @@
   <Description>3</Description>
   <FileName>Tak jak gorejący krzew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1073>
   <Entry1074>
   <Date>2024-10-15</Date>
@@ -9663,8 +9663,8 @@
   <Description>3</Description>
   <FileName>Tak jak gorejący krzew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1074>
   <Entry1075>
   <Date>2024-10-15</Date>
@@ -9672,8 +9672,8 @@
   <Description>3</Description>
   <FileName>Tak jak gorejący krzew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1075>
   <Entry1076>
   <Date>2024-10-15</Date>
@@ -9681,6 +9681,51 @@
   <Description>3</Description>
   <FileName>Tak jak gorejący krzew</FileName>
   <title>Tak jak gorejący krzew</title>
-  <author></author>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1076>
+  <Entry1077>
+  <Date>2024-10-17</Date>
+  <Time>16:42:29</Time>
+  <Description>3</Description>
+  <FileName>Tak jak gorejący krzew</FileName>
+  <title>Tak jak gorejący krzew</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1077>
+  <Entry1078>
+  <Date>2024-10-31</Date>
+  <Time>11:04:58</Time>
+  <Description>3</Description>
+  <FileName>Wśród nas jak w niebie (Here as in heaven)</FileName>
+  <title>Wśród nas jak w niebie</title>
+  <author>Here as in heaven</author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry1076></log>
+  <HasChords>true</HasChords></Entry1078>
+  <Entry1079>
+  <Date>2024-10-31</Date>
+  <Time>11:05:41</Time>
+  <Description>3</Description>
+  <FileName>Wśród nas jak w niebie (Here as in heaven)</FileName>
+  <title>Wśród nas jak w niebie</title>
+  <author>Here as in heaven</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1079>
+  <Entry1080>
+  <Date>2024-10-31</Date>
+  <Time>11:20:36</Time>
+  <Description>3</Description>
+  <FileName>Wśród nas jak w niebie (Here as in heaven)</FileName>
+  <title>Wśród nas jak w niebie</title>
+  <author>Here as in heaven</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1080>
+  <Entry1081>
+  <Date>2024-10-31</Date>
+  <Time>11:26:41</Time>
+  <Description>3</Description>
+  <FileName>Wśród nas jak w niebie (Here as in heaven)</FileName>
+  <title>Wśród nas jak w niebie</title>
+  <author>Here as in heaven</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1081></log>

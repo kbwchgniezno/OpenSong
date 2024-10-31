@@ -11,6 +11,10 @@
 .F                   C     G
  To Duch Pana z nami teraz jest
 
+[c1]
+
+[c2]
+
 [v2]
 .F          C        G
  Cuda dziś spełniają się
@@ -26,7 +30,7 @@
  Bezmiar Miłości Twej
 .      G        Am
  Serce wypełnia me
-.         Em
+.         G
  Przenika głębiej
 
 [c2]
@@ -34,7 +38,7 @@
  Znowu bliżej chcę być
 .        G          Am
  Spotkać Miłość Twą dziś
-.          Em
+.          G
  Przenikaj głębiej
 
 [b1]
@@ -42,20 +46,28 @@
  Niech zstąpi Duch
 .G      Am
  Odnowi nas
-.          Em
+.          G
  Pragniemy Ciebie
 .F
  Królestwo Twe
 .G       Am
  Objawia się
-.               Em
- Wśród nas jak w niebie</lyrics>
+.               G
+ Wśród nas jak w niebie
+
+ {inst1]
+.F Am G
+.F G Am G 
+;Przyjdź królestwo Twe
+;Jeszua
+;Twoja jest chwała, Twoje Królestwo, Twoja jest moc na wieki Amen
+</lyrics>
   <author>Here as in heaven</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
