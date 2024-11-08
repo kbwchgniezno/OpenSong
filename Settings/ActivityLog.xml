@@ -9735,8 +9735,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
   <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1082>
   <Entry1083>
   <Date>2024-11-02</Date>
@@ -9744,8 +9744,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
   <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1083>
   <Entry1084>
   <Date>2024-11-02</Date>
@@ -9753,8 +9753,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
   <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1084>
   <Entry1085>
   <Date>2024-11-02</Date>
@@ -9762,8 +9762,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
   <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1085>
   <Entry1086>
   <Date>2024-11-02</Date>
@@ -9771,8 +9771,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
   <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1086>
   <Entry1087>
   <Date>2024-11-02</Date>
@@ -9780,6 +9780,42 @@
   <Description>3</Description>
   <FileName>( Główny )/Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
   <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry1087>
+  <Entry1088>
+  <Date>2024-11-07</Date>
+  <Time>11:55:25</Time>
+  <Description>3</Description>
+  <FileName>Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
+  <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>false</HasChords></Entry1087></log>
+  <HasChords>true</HasChords></Entry1088>
+  <Entry1089>
+  <Date>2024-11-07</Date>
+  <Time>12:11:55</Time>
+  <Description>3</Description>
+  <FileName>Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
+  <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1089>
+  <Entry1090>
+  <Date>2024-11-07</Date>
+  <Time>12:54:43</Time>
+  <Description>3</Description>
+  <FileName>Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
+  <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1090>
+  <Entry1091>
+  <Date>2024-11-07</Date>
+  <Time>14:15:29</Time>
+  <Description>3</Description>
+  <FileName>Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
+  <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1091></log>
