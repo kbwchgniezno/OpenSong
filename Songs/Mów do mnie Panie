@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -18,19 +18,23 @@
   <time_sig></time_sig>
   <lyrics>[v1]
 . C           D
- Mów do mnie, Panie
+ Mów do mnie, Panie   
  Chcę słyszeć Cię
  Przyjąć od Ciebie, co masz dla mnie
  Nie chcę się chować
  Lecz w Tobie skryć
  W cieniu Twym Panie chcę iść
-[v2]
-. e        D            C     e
+
+[c2]
+. Em        D     C     Am     Em
  Święty, potężny jesteś Panie nasz
-. e       D             C    e
+.       D    C    Am     Em
  Przed Tobą dziś możemy stać
-.       D   C
+.       D   C  Am
  Dzięki łasce
-. e             D
+. Em             D
  Nie dzięki nam samym
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
