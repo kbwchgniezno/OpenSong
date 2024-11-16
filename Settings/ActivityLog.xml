@@ -9825,8 +9825,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1092>
   <Entry1093>
   <Date>2024-11-11</Date>
@@ -9834,8 +9834,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1093>
   <Entry1094>
   <Date>2024-11-11</Date>
@@ -9843,8 +9843,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1094>
   <Entry1095>
   <Date>2024-11-11</Date>
@@ -9852,8 +9852,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1095>
   <Entry1096>
   <Date>2024-11-11</Date>
@@ -9861,8 +9861,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1096>
   <Entry1097>
   <Date>2024-11-11</Date>
@@ -9870,8 +9870,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1097>
   <Entry1098>
   <Date>2024-11-11</Date>
@@ -9879,8 +9879,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1098>
   <Entry1099>
   <Date>2024-11-11</Date>
@@ -9888,8 +9888,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1099>
   <Entry1100>
   <Date>2024-11-11</Date>
@@ -9897,8 +9897,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1100>
   <Entry1101>
   <Date>2024-11-11</Date>
@@ -9906,8 +9906,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1101>
   <Entry1102>
   <Date>2024-11-11</Date>
@@ -9915,8 +9915,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1102>
   <Entry1103>
   <Date>2024-11-11</Date>
@@ -9924,8 +9924,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Duchu Święty (The Dove)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1103>
   <Entry1104>
   <Date>2024-11-12</Date>
@@ -9933,8 +9933,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Mąż boleści (Son of Suffering)</FileName>
   <title>Duchu Święty (The Dove)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1104>
   <Entry1105>
   <Date>2024-11-12</Date>
@@ -9942,6 +9942,24 @@
   <Description>3</Description>
   <FileName>Mów do mnie Panie</FileName>
   <title>Mów do mnie Panie</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1105>
+  <Entry1106>
+  <Date>2024-11-16</Date>
+  <Time>11:13:24</Time>
+  <Description>3</Description>
+  <FileName>Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
+  <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry1105></log>
+  <HasChords>true</HasChords></Entry1106>
+  <Entry1107>
+  <Date>2024-11-16</Date>
+  <Time>14:55:24</Time>
+  <Description>3</Description>
+  <FileName>Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
+  <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1107></log>
