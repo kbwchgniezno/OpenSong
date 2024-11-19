@@ -9951,8 +9951,8 @@
   <Description>3</Description>
   <FileName>Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
   <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1106>
   <Entry1107>
   <Date>2024-11-16</Date>
@@ -9960,6 +9960,24 @@
   <Description>3</Description>
   <FileName>Nikt nie jest jak nasz Pan (No One Like The Lord)</FileName>
   <title>Nikt nie jest jak nasz Pan (No One Like The Lord)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1107>
+  <Entry1108>
+  <Date>2024-11-19</Date>
+  <Time>18:03:10</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Przez pustynię</FileName>
+  <title>Przez pustynię</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry1107></log>
+  <HasChords>false</HasChords></Entry1108>
+  <Entry1109>
+  <Date>2024-11-19</Date>
+  <Time>18:03:15</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Przez pustynię</FileName>
+  <title>Przez pustynię</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1109></log>
