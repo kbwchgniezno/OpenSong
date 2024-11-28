@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -18,76 +18,75 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[v1]
-.G
+.A                C#m
  Stojąc w Twej obecności
-.
+.   A                C#m
  W łasce, która się nie kończy
-.C
+.D
  Cieszę się
-.          D
+.          E
  Z miłości Twej
-.G
+.A                    C#m
  Jestem tu, w objęciach nieba
-.
+.A                  C#m
  Tu, gdzie pokój końca nie ma
-.C
+.D
  W morzu łask
-.        D
+.        E
  Głęboko tak
 
 [c1]
-.   Am      Em
+.   Bm      F#m
  Rozbudzasz mnie
-.G
+.A
  Zbliżam się
-.D
+.E
  W łasce Twej
-. Am        Em     D
+. Bm        F#m    E
  I wszystko Twoje jest
-.      Am    Em
+.      Bm    F#m
  Znikł cały strach
-.  G
+.  A
  I wdycham Cię
-. D               C
+. E               D
  Przyjmuję miłość Twą
-.       G
+.       A
  Miłość Twą
 
 [v2]
-.G
+.A                   C#m
  Szukasz mnie, kiedy błądzę
-.
+.A                C#m
  Pokazujesz swoją chwałę
-.C
+.D
  Panów Pan
-.        D
+.        E
  Cudowny tak
-.G
+.A                  C#m
  W cieniu Twym mam schronienie
-.
+.A                  C#m
  Ty przyciągasz mnie do siebie
-.C
+.D
  Twoja twarz
-.       D
+.       E
  Piękna tak
 
 [c2]
-.G
+.A
  Kochasz mnie
-.            Am
+.            Bm7
  Przebaczasz winy me
-.            Em
+.            F#m
  Twej twarzy szukać chcę
-.         C
+.         D
  To mego życia sens
-.G
+.A
  Jezu, Ty
-.       Am
+.       Bm
  Jesteś pragnieniem mym
-.           Em
+.           F#m
  Chcę tylko tego, by
-.            C
- Znać Cię do końca dni
-</lyrics>
+.            D
+ Znać Cię do końca dni</lyrics>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>

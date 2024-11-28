@@ -9969,8 +9969,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Przez pustynię</FileName>
   <title>Przez pustynię</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1108>
   <Entry1109>
   <Date>2024-11-19</Date>
@@ -9978,6 +9978,69 @@
   <Description>3</Description>
   <FileName>( Główny )/Przez pustynię</FileName>
   <title>Przez pustynię</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry1109>
+  <Entry1110>
+  <Date>2024-11-28</Date>
+  <Time>09:58:46</Time>
+  <Description>3</Description>
+  <FileName>Głęboko tak (Sinking Deep)</FileName>
+  <title>Głęboko tak</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>false</HasChords></Entry1109></log>
+  <HasChords>true</HasChords></Entry1110>
+  <Entry1111>
+  <Date>2024-11-28</Date>
+  <Time>10:00:10</Time>
+  <Description>3</Description>
+  <FileName>Juz czas</FileName>
+  <title>Głęboko tak</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1111>
+  <Entry1112>
+  <Date>2024-11-28</Date>
+  <Time>10:01:28</Time>
+  <Description>3</Description>
+  <FileName>Przez pustynię</FileName>
+  <title>Przez pustynię</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1112>
+  <Entry1113>
+  <Date>2024-11-28</Date>
+  <Time>10:02:18</Time>
+  <Description>3</Description>
+  <FileName>Przez pustynię</FileName>
+  <title>Przez pustynię</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1113>
+  <Entry1114>
+  <Date>2024-11-28</Date>
+  <Time>10:09:06</Time>
+  <Description>3</Description>
+  <FileName>Przez pustynię</FileName>
+  <title>Przez pustynię</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1114>
+  <Entry1115>
+  <Date>2024-11-28</Date>
+  <Time>10:19:39</Time>
+  <Description>3</Description>
+  <FileName>Przez pustynię</FileName>
+  <title>Przez pustynię</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1115>
+  <Entry1116>
+  <Date>2024-11-28</Date>
+  <Time>10:25:25</Time>
+  <Description>3</Description>
+  <FileName>Przez pustynię</FileName>
+  <title>Przez pustynię</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1116></log>

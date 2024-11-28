@@ -1,44 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Przez pustynię</title>
-  <lyrics> V1
-              D sus4/3
+  <lyrics>[v1]
+.        Dsus4/3
  Przez pustynie przeprowadziłeś mnie
-                  fis
+.         F#m
  Rwące potoki nie zatrzymały Cię
-               h                        G     A
+.          Bm       G          A A4
  Góry, doliny nie rozdzieliły nas
  
- V2
-              D sus4/3
+[v2]
+.       Dsus4/3
  Suchą stopą przez wodę mogłam iść
-                    fis
+.            F#m
  Codzienny oddech podarowałeś mi
-                        h                                  G                      A
+.              Bm                G              A
  Słucham Cię córko, mów do mnie synu ja słyszę dziś
  
  
- Ref
-       G2                                 A
- To dzięki Tobie Panie ja mogę tu być
-      G2                                                  A
+[c1]
+.    G2                    A
+ Bo to dzięki Tobie Panie ja mogę tu być
+.      G2                         A
  To przez Twą śmierć na krzyżu ja mogę dziś żyć
-       G2                A                                             G2       A
+.G2                A                       G2       A
  Obfita łaska, potężna moc jest w imieniu Twym
  
  
- V3
+[v3]
+.      Dsus4
  Do wolności powołałeś mnie
+.           F#m
  Ja z Tobą kroczyć po wodzie chce
+.           Bm                G               A
  Bo Ty rozdzielasz czerwone morze, gdy idzie wróg
- V4
+
+[v4]
+.        Dsus4
  Kiedy mówisz – ja słuchać chcę
+.           F#m
  Moc Twych obietnic na drodze mej
+.       Bm              G                       A  A4
  Góry padają, doliny powstają na dźwięk Twoich słów
  
- Ref. 
+[c1]
  
- Bridge (akordy ref…)
+[b1]
+.G A A4
  Jezus…
  
  Jezus – drogą
@@ -54,8 +62,7 @@
  Jezus – tylko On tylko On
 
 
-
- ref.
+ [c1]
 </lyrics>
   <author></author>
   <copyright></copyright>
