@@ -9987,8 +9987,8 @@
   <Description>3</Description>
   <FileName>Głęboko tak (Sinking Deep)</FileName>
   <title>Głęboko tak</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1110>
   <Entry1111>
   <Date>2024-11-28</Date>
@@ -9996,8 +9996,8 @@
   <Description>3</Description>
   <FileName>Juz czas</FileName>
   <title>Głęboko tak</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1111>
   <Entry1112>
   <Date>2024-11-28</Date>
@@ -10005,8 +10005,8 @@
   <Description>3</Description>
   <FileName>Przez pustynię</FileName>
   <title>Przez pustynię</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1112>
   <Entry1113>
   <Date>2024-11-28</Date>
@@ -10014,8 +10014,8 @@
   <Description>3</Description>
   <FileName>Przez pustynię</FileName>
   <title>Przez pustynię</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1113>
   <Entry1114>
   <Date>2024-11-28</Date>
@@ -10023,8 +10023,8 @@
   <Description>3</Description>
   <FileName>Przez pustynię</FileName>
   <title>Przez pustynię</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1114>
   <Entry1115>
   <Date>2024-11-28</Date>
@@ -10032,8 +10032,8 @@
   <Description>3</Description>
   <FileName>Przez pustynię</FileName>
   <title>Przez pustynię</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1115>
   <Entry1116>
   <Date>2024-11-28</Date>
@@ -10041,6 +10041,150 @@
   <Description>3</Description>
   <FileName>Przez pustynię</FileName>
   <title>Przez pustynię</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1116>
+  <Entry1117>
+  <Date>2024-11-28</Date>
+  <Time>10:25:52</Time>
+  <Description>3</Description>
+  <FileName>Przez pustynię</FileName>
+  <title>Przez pustynię</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1117>
+  <Entry1118>
+  <Date>2024-12-11</Date>
+  <Time>11:49:15</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry1116></log>
+  <HasChords>false</HasChords></Entry1118>
+  <Entry1119>
+  <Date>2024-12-11</Date>
+  <Time>11:49:26</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1119>
+  <Entry1120>
+  <Date>2024-12-11</Date>
+  <Time>11:49:57</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1120>
+  <Entry1121>
+  <Date>2024-12-11</Date>
+  <Time>11:56:40</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1121>
+  <Entry1122>
+  <Date>2024-12-11</Date>
+  <Time>12:21:04</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1122>
+  <Entry1123>
+  <Date>2024-12-11</Date>
+  <Time>12:21:45</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1123>
+  <Entry1124>
+  <Date>2024-12-11</Date>
+  <Time>12:42:27</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1124>
+  <Entry1125>
+  <Date>2024-12-11</Date>
+  <Time>12:44:55</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1125>
+  <Entry1126>
+  <Date>2024-12-11</Date>
+  <Time>12:46:04</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1126>
+  <Entry1127>
+  <Date>2024-12-11</Date>
+  <Time>13:10:23</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1127>
+  <Entry1128>
+  <Date>2024-12-11</Date>
+  <Time>13:14:43</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1128>
+  <Entry1129>
+  <Date>2024-12-11</Date>
+  <Time>13:21:29</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1129>
+  <Entry1130>
+  <Date>2024-12-11</Date>
+  <Time>14:03:46</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Kołysanka Józefa</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1130>
+  <Entry1131>
+  <Date>2024-12-11</Date>
+  <Time>14:09:19</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Król Chwały (King of Glory)</FileName>
+  <title>Kołysanka Józefa</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1131>
+  <Entry1132>
+  <Date>2024-12-11</Date>
+  <Time>15:28:47</Time>
+  <Description>3</Description>
+  <FileName>Kołysanka Józefa</FileName>
+  <title>Król Chwały (King of Glory)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1132></log>
