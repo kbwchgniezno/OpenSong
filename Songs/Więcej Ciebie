@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -16,19 +16,24 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]  
-. e           C          h
+  <lyrics>[C1]  
+. Em           C         
  Więcej Ciebie, więcej mocy 
-.                   e   
+.D     Bm           Em   
  i miłości w życiu mym!   x2
-. e           a                  e
+
+[v1]
+. En           Am         D       Em
  Całym sercem swym szukam twarzy Twej
+.              Am          D      Em
  Z całej myśli swej szukam twarzy Twej
+.              Am          D     Em
  Z całej siły swej szukam twarzy Twej
-.            C     h
+.            C     Bm
  Boś Ty Panem mym !
-. e
- Tyś Bogiem mym !
+.           Em
+ Tyś Bogiem mym 
+
 [V2]
  Całym sercem swym uwielbiam Cię
  Z całej myśli swej uwielbiam Cię
