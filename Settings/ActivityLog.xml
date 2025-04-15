@@ -10302,8 +10302,8 @@
   <Description>1</Description>
   <FileName>( Główny )/To My</FileName>
   <title>To My</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1145>
   <Entry1146>
   <Date>2025-04-09</Date>
@@ -10311,8 +10311,8 @@
   <Description>3</Description>
   <FileName>( Główny )/To My</FileName>
   <title>To My</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1146>
   <Entry1147>
   <Date>2025-04-09</Date>
@@ -10320,8 +10320,8 @@
   <Description>3</Description>
   <FileName>( Główny )/To My</FileName>
   <title>To My</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1147>
   <Entry1148>
   <Date>2025-04-09</Date>
@@ -10329,8 +10329,8 @@
   <Description>3</Description>
   <FileName>( Główny )/To My</FileName>
   <title>To My</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1148>
   <Entry1149>
   <Date>2025-04-09</Date>
@@ -10338,8 +10338,8 @@
   <Description>3</Description>
   <FileName>( Główny )/To My</FileName>
   <title>To My</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1149>
   <Entry1150>
   <Date>2025-04-09</Date>
@@ -10347,8 +10347,8 @@
   <Description>5</Description>
   <FileName>/To My</FileName>
   <title>To My</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1150>
   <Entry1151>
   <Date>2025-04-09</Date>
@@ -10356,8 +10356,8 @@
   <Description>5</Description>
   <FileName>/Latarnia (My Lighthouse)</FileName>
   <title>Latarnia (My Lighthouse)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1151>
   <Entry1152>
   <Date>2025-04-09</Date>
@@ -10365,8 +10365,8 @@
   <Description>3</Description>
   <FileName>( Główny )/To My</FileName>
   <title>To My</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1152>
   <Entry1153>
   <Date>2025-04-09</Date>
@@ -10374,8 +10374,8 @@
   <Description>5</Description>
   <FileName>/To My</FileName>
   <title>To My</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1153>
   <Entry1154>
   <Date>2025-04-09</Date>
@@ -10383,6 +10383,96 @@
   <Description>5</Description>
   <FileName>/Latarnia (My Lighthouse)</FileName>
   <title>Latarnia (My Lighthouse)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1154>
+  <Entry1155>
+  <Date>2025-04-09</Date>
+  <Time>17:03:12</Time>
+  <Description>5</Description>
+  <FileName>/To My</FileName>
+  <title>To My</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1155>
+  <Entry1156>
+  <Date>2025-04-09</Date>
+  <Time>17:03:12</Time>
+  <Description>5</Description>
+  <FileName>/Latarnia (My Lighthouse)</FileName>
+  <title>Latarnia (My Lighthouse)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1156>
+  <Entry1157>
+  <Date>2025-04-15</Date>
+  <Time>17:01:39</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
+  <title>Koronę Wkładamy Ci</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry1154></log>
+  <HasChords>false</HasChords></Entry1157>
+  <Entry1158>
+  <Date>2025-04-15</Date>
+  <Time>17:02:37</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
+  <title>Koronę Wkładamy Ci</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1158>
+  <Entry1159>
+  <Date>2025-04-15</Date>
+  <Time>17:03:26</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
+  <title>Koronę Wkładamy Ci</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1159>
+  <Entry1160>
+  <Date>2025-04-15</Date>
+  <Time>17:03:56</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
+  <title>Koronę Wkładamy Ci</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1160>
+  <Entry1161>
+  <Date>2025-04-15</Date>
+  <Time>17:04:14</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
+  <title>Koronę Wkładamy Ci</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1161>
+  <Entry1162>
+  <Date>2025-04-15</Date>
+  <Time>17:05:02</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
+  <title>Koronę Wkładamy Ci (We Crown You)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1162>
+  <Entry1163>
+  <Date>2025-04-15</Date>
+  <Time>19:15:57</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
+  <title>Koronę Wkładamy Ci (We Crown You)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1163>
+  <Entry1164>
+  <Date>2025-04-15</Date>
+  <Time>19:17:50</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
+  <title>Koronę Wkładamy Ci (We Crown You)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1164></log>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <present_settings version="1.2">
-  <style blanks="true" border="true" initial_mode="N" shadow="true" thickness="2" transition="true" blank_is_slide_change="false" blank_uses_next="true" exit_prompt="false"/>
+  <style blanks="true" border="true" initial_mode="N" shadow="true" thickness="2" transition="true" blank_is_slide_change="false" blank_uses_next="true" exit_prompt="false" exit_doubleclick="false"/>
   <default_style>
   <title align="center" bold="true" border="true" border_color="#000000" color="#FFFFFF" fill="false" fill_color="#000000" font="Helvetica" italic="true" shadow="true" shadow_color="#000000" size="26" underline="false" valign="bottom" include_verse="false" enabled="true"/>
   <body align="center" bold="true" border="true" border_color="#000000" color="#FFFFFF" fill="false" fill_color="#FF0000" font="Helvetica" highlight_chorus="true" italic="false" shadow="true" shadow_color="#000000" size="34" underline="false" valign="middle" enabled="true" auto_scale="true"/>
@@ -15,7 +15,7 @@
   <subtitle align="center" bold="true" border="true" border_color="#000000" color="#FFFFFF" font="Helvetica" italic="true" shadow="true" shadow_color="#000000" size="20" underline="false" valign="bottom" fill="false" descriptive="false" enabled="true"/>
   <song_subtitle/>
 </scripture_style>
-  <monitors control="1" present="2"/>
+  <monitors control="1" present="2" force_4_3_preview="false" force_16_9_preview="false"/>
   <alert align="left" bold="true" border="false" border_color="#000000" color="#FFFFFF" fill="true" fill_color="#FF0000" font="Helvetica" italic="false" shadow="false" shadow_color="#000000" size="40" underline="false" valign="top"/>
   <logo>/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
 HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
