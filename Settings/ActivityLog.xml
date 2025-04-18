@@ -10410,8 +10410,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
   <title>Koronę Wkładamy Ci</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1157>
   <Entry1158>
   <Date>2025-04-15</Date>
@@ -10419,8 +10419,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
   <title>Koronę Wkładamy Ci</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1158>
   <Entry1159>
   <Date>2025-04-15</Date>
@@ -10428,8 +10428,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
   <title>Koronę Wkładamy Ci</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1159>
   <Entry1160>
   <Date>2025-04-15</Date>
@@ -10437,8 +10437,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
   <title>Koronę Wkładamy Ci</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1160>
   <Entry1161>
   <Date>2025-04-15</Date>
@@ -10446,8 +10446,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
   <title>Koronę Wkładamy Ci</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1161>
   <Entry1162>
   <Date>2025-04-15</Date>
@@ -10455,8 +10455,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
   <title>Koronę Wkładamy Ci (We Crown You)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1162>
   <Entry1163>
   <Date>2025-04-15</Date>
@@ -10464,8 +10464,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
   <title>Koronę Wkładamy Ci (We Crown You)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1163>
   <Entry1164>
   <Date>2025-04-15</Date>
@@ -10473,6 +10473,33 @@
   <Description>3</Description>
   <FileName>( Główny )/Koronę Wkładamy Ci</FileName>
   <title>Koronę Wkładamy Ci (We Crown You)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1164>
+  <Entry1165>
+  <Date>2025-04-18</Date>
+  <Time>10:53:01</Time>
+  <Description>3</Description>
+  <FileName>W to wierzę (This I Believe)</FileName>
+  <title>W to wierzę</title>
+  <author>This I Believe</author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1165>
+  <Entry1166>
+  <Date>2025-04-18</Date>
+  <Time>11:13:26</Time>
+  <Description>3</Description>
+  <FileName>Wielbię Imię Twe (Worthy)</FileName>
+  <title>Wielbię Imię Twe (Worthy)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry1164></log>
+  <HasChords>true</HasChords></Entry1166>
+  <Entry1167>
+  <Date>2025-04-18</Date>
+  <Time>11:28:51</Time>
+  <Description>3</Description>
+  <FileName>Mąż boleści (Son of Suffering)</FileName>
+  <title>Mąż boleści (Son of Suffering)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1167></log>
