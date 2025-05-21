@@ -10483,7 +10483,7 @@
   <FileName>W to wierzę (This I Believe)</FileName>
   <title>W to wierzę</title>
   <author>This I Believe</author>
-  <ccli></ccli>
+  <ccli/>
   <HasChords>true</HasChords></Entry1165>
   <Entry1166>
   <Date>2025-04-18</Date>
@@ -10491,8 +10491,8 @@
   <Description>3</Description>
   <FileName>Wielbię Imię Twe (Worthy)</FileName>
   <title>Wielbię Imię Twe (Worthy)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1166>
   <Entry1167>
   <Date>2025-04-18</Date>
@@ -10500,8 +10500,8 @@
   <Description>3</Description>
   <FileName>Mąż boleści (Son of Suffering)</FileName>
   <title>Mąż boleści (Son of Suffering)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1167>
   <Entry1168>
   <Date>2025-04-18</Date>
@@ -10509,8 +10509,8 @@
   <Description>3</Description>
   <FileName>Golgoto</FileName>
   <title>Golgoto</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1168>
   <Entry1169>
   <Date>2025-04-18</Date>
@@ -10518,8 +10518,8 @@
   <Description>3</Description>
   <FileName>Golgoto</FileName>
   <title>Golgoto</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry1169>
   <Entry1170>
   <Date>2025-04-18</Date>
@@ -10527,6 +10527,186 @@
   <Description>3</Description>
   <FileName>Golgoto</FileName>
   <title>Golgoto</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1170>
+  <Entry1171>
+  <Date>2025-04-19</Date>
+  <Time>13:43:27</Time>
+  <Description>3</Description>
+  <FileName>Golgoto</FileName>
+  <title>Golgoto</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1171>
+  <Entry1172>
+  <Date>2025-05-14</Date>
+  <Time>11:13:25</Time>
+  <Description>3</Description>
+  <FileName>Tylko ciebie chce</FileName>
+  <title>Tylko ciebie chce</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1172>
+  <Entry1173>
+  <Date>2025-05-21</Date>
+  <Time>13:31:23</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Godzien Jesteś Chwały Tej (Worthy Of It All)</FileName>
+  <title>Godzien Jesteś Chwały Tej (Worthy Of It All)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry1170></log>
+  <HasChords>false</HasChords></Entry1173>
+  <Entry1174>
+  <Date>2025-05-21</Date>
+  <Time>13:32:14</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Godzien Jesteś Chwały Tej (Worthy Of It All)</FileName>
+  <title>Godzien Jesteś Chwały Tej (Worthy Of It All)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1174>
+  <Entry1175>
+  <Date>2025-05-21</Date>
+  <Time>13:38:18</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Godzien Jesteś Chwały Tej (Worthy Of It All)</FileName>
+  <title>Godzien Jesteś Chwały Tej (Worthy Of It All)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1175>
+  <Entry1176>
+  <Date>2025-05-21</Date>
+  <Time>13:47:25</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Godzien Jesteś Chwały Tej (Worthy Of It All)</FileName>
+  <title>Godzien Jesteś Chwały Tej (Worthy Of It All)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1176>
+  <Entry1177>
+  <Date>2025-05-21</Date>
+  <Time>13:47:36</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Godzien Jesteś Chwały Tej (Worthy Of It All)</FileName>
+  <title>Godzien Jesteś Chwały Tej (Worthy Of It All)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1177>
+  <Entry1178>
+  <Date>2025-05-21</Date>
+  <Time>13:48:06</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Godzien Jesteś Chwały Tej (Worthy Of It All)</FileName>
+  <title>Godzien Jesteś Chwały Tej (Worthy Of It All)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1178>
+  <Entry1179>
+  <Date>2025-05-21</Date>
+  <Time>13:55:23</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Godzien Jesteś Chwały Tej (Worthy Of It All)</FileName>
+  <title>Godzien Jesteś Chwały Tej (Worthy Of It All)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1179>
+  <Entry1180>
+  <Date>2025-05-21</Date>
+  <Time>14:13:17</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Godzien Jesteś Chwały Tej (Worthy Of It All)</FileName>
+  <title>Godzien Jesteś Chwały Tej (Worthy Of It All)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1180>
+  <Entry1181>
+  <Date>2025-05-21</Date>
+  <Time>14:21:13</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Godzien Jesteś Chwały Tej (Worthy Of It All)</FileName>
+  <title>Godzien Jesteś Chwały Tej (Worthy Of It All)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1181>
+  <Entry1182>
+  <Date>2025-05-21</Date>
+  <Time>14:40:31</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Ty Jesteś Godzien (Who Else)</FileName>
+  <title>Ty Jesteś Godzien (Who Else)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1182>
+  <Entry1183>
+  <Date>2025-05-21</Date>
+  <Time>14:40:37</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Ty Jesteś Godzien (Who Else)</FileName>
+  <title>Ty Jesteś Godzien (Who Else)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1183>
+  <Entry1184>
+  <Date>2025-05-21</Date>
+  <Time>14:41:21</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Ty Jesteś Godzien (Who Else)</FileName>
+  <title>Ty Jesteś Godzien (Who Else)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1184>
+  <Entry1185>
+  <Date>2025-05-21</Date>
+  <Time>14:47:43</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Ty Jesteś Godzien (Who Else)</FileName>
+  <title>Ty Jesteś Godzien (Who Else)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1185>
+  <Entry1186>
+  <Date>2025-05-21</Date>
+  <Time>14:48:48</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Ty Jesteś Godzien (Who Else)</FileName>
+  <title>Ty Jesteś Godzien (Who Else)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1186>
+  <Entry1187>
+  <Date>2025-05-21</Date>
+  <Time>14:51:44</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Ty Jesteś Godzien (Who Else)</FileName>
+  <title>Ty Jesteś Godzien (Who Else)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1187>
+  <Entry1188>
+  <Date>2025-05-21</Date>
+  <Time>14:53:23</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Ty Jesteś Godzien (Who Else)</FileName>
+  <title>Ty Jesteś Godzien (Who Else)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1188>
+  <Entry1189>
+  <Date>2025-05-21</Date>
+  <Time>14:57:41</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Ty Jesteś Godzien (Who Else)</FileName>
+  <title>Ty Jesteś Godzien (Who Else)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1189>
+  <Entry1190>
+  <Date>2025-05-21</Date>
+  <Time>14:58:47</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Ty Jesteś Godzien (Who Else)</FileName>
+  <title>Ty Jesteś Godzien (Who Else)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1190></log>

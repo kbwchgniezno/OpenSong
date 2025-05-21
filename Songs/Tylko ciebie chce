@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><song>  <title>Tylko ciebie chce</title>  <author></author>  <copyright></copyright>  <hymn_number></hymn_number>  <presentation></presentation>  <ccli></ccli>  <capo print="false"></capo>  <key></key>  <aka></aka>  <key_line></key_line>  <user1></user1>  <user2></user2>  <user3></user3>  <theme></theme>  <tempo></tempo>  <time_sig></time_sig>  <lyrics>[v1].C#m                       F#m        A          H Strach porzucam by za Tobą iść, słyszeć Cię, blisko być..C#m                   E          H Gdy do Ciebie na kolanach modlę się.C#m                  F#m               A          H To, że jestem tu zawdzięczam Ci, miłość Twa wystarcza mi.C#m                       E          H I choć wiem, że jesteś tu chcę zobaczyć Cię.[v2].           F#m A                E           H Tylko Ciebie chcę, tylko Ciebie pragnę, mój Panie. X2[v3].C#m                            F#m       A                     H                 Z dnia na dzień wszystko zmienia się, Duch zbudził mnie bym wielbił Cię..C#m                    E           H Znów słyszeć chcę zbawiciela mego głos..C#m                            F#m         A             H     Gdzie byłbym dziś gdyby nie Twój Syn, Jego śmierć oczyszcza z win..C#m                         E          H Wytchnieniem myśl, że mnie strzeże Twoja moc..Bridge Inst. A E   H F#m   A E   B[v4].A E      H      F#m      A E           H         F#m To Ty prowadzisz nas, to Ty trzymasz w rękach świat. A E      H       F#m     A E     H To Ty prowadzisz nas, to Ty, to Ty     x3</lyrics></song>
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Tylko ciebie chce</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false" sharp="true"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+
+.C#m                       F#m        A          H
+ Strach porzucam by za Tobą iść, słyszeć Cię, blisko być.
+.C#m                   E          H
+ Gdy do Ciebie na kolanach modlę się
+.C#m                  F#m               A          H
+ To, że jestem tu zawdzięczam Ci, miłość Twa wystarcza mi
+.C#m                       E          H
+ I choć wiem, że jesteś tu chcę zobaczyć Cię.
+
+[v2]
+.           F#m A                E           H
+ Tylko Ciebie chcę, tylko Ciebie pragnę, mój Panie. X2
+
+[v3]
+.C#m                            F#m       A                     H                
+ Z dnia na dzień wszystko zmienia się, Duch zbudził mnie bym wielbił Cię.
+.C#m                    E           H
+ Znów słyszeć chcę zbawiciela mego głos.
+.C#m                            F#m         A             H    
+ Gdzie byłbym dziś gdyby nie Twój Syn, Jego śmierć oczyszcza z win.
+.C#m                         E          H
+ Wytchnieniem myśl, że mnie strzeże Twoja moc.
+
+;Bridge Inst. A E   H F#m   A E   B
+
+[v4]
+.A E      H      F#m      A E           H         F#m
+ To Ty prowadzisz nas, to Ty trzymasz w rękach świat
+. A E      H       F#m     A E     H
+ To Ty prowadzisz nas, to Ty, to Ty     x3
+
+
+</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
