@@ -10734,8 +10734,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Jesteś Święty (You Are Holy)</FileName>
   <title>Jesteś Święty (You Are Holy)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1193>
   <Entry1194>
   <Date>2025-06-11</Date>
@@ -10743,8 +10743,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesteś Święty (You Are Holy)</FileName>
   <title>Jesteś Święty (You Are Holy)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1194>
   <Entry1195>
   <Date>2025-06-11</Date>
@@ -10752,8 +10752,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesteś Święty (You Are Holy)</FileName>
   <title>Jesteś Święty (You Are Holy)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1195>
   <Entry1196>
   <Date>2025-06-11</Date>
@@ -10761,8 +10761,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesteś Święty (You Are Holy)</FileName>
   <title>Jesteś Święty (You Are Holy)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1196>
   <Entry1197>
   <Date>2025-06-11</Date>
@@ -10770,8 +10770,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesteś Święty (You Are Holy)</FileName>
   <title>Jesteś Święty (You Are Holy)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry1197>
   <Entry1198>
   <Date>2025-06-11</Date>
@@ -10779,6 +10779,195 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesteś Święty (You Are Holy)</FileName>
   <title>Jesteś Święty (You Are Holy)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1198>
+  <Entry1199>
+  <Date>2025-08-04</Date>
+  <Time>16:55:24</Time>
+  <Description>3</Description>
+  <FileName>Oddaje swe smutki (Trading My sorrows)</FileName>
+  <title>Oddaje swe smutki (Trading My sorrows)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry1199>
+  <Entry1200>
+  <Date>2025-09-08</Date>
+  <Time>18:53:18</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry1198></log>
+  <HasChords>false</HasChords></Entry1200>
+  <Entry1201>
+  <Date>2025-09-08</Date>
+  <Time>18:53:53</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry1201>
+  <Entry1202>
+  <Date>2025-09-08</Date>
+  <Time>18:56:49</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1202>
+  <Entry1203>
+  <Date>2025-09-08</Date>
+  <Time>18:57:17</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1203>
+  <Entry1204>
+  <Date>2025-09-08</Date>
+  <Time>18:58:45</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1204>
+  <Entry1205>
+  <Date>2025-09-08</Date>
+  <Time>19:00:27</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1205>
+  <Entry1206>
+  <Date>2025-09-08</Date>
+  <Time>19:00:47</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1206>
+  <Entry1207>
+  <Date>2025-09-09</Date>
+  <Time>16:53:54</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1207>
+  <Entry1208>
+  <Date>2025-09-09</Date>
+  <Time>16:54:16</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1208>
+  <Entry1209>
+  <Date>2025-09-09</Date>
+  <Time>16:55:53</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1209>
+  <Entry1210>
+  <Date>2025-09-09</Date>
+  <Time>16:56:04</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1210>
+  <Entry1211>
+  <Date>2025-09-09</Date>
+  <Time>16:57:05</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1211>
+  <Entry1212>
+  <Date>2025-09-09</Date>
+  <Time>16:57:47</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1212>
+  <Entry1213>
+  <Date>2025-09-09</Date>
+  <Time>16:58:35</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1213>
+  <Entry1214>
+  <Date>2025-09-09</Date>
+  <Time>16:59:54</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1214>
+  <Entry1215>
+  <Date>2025-09-09</Date>
+  <Time>17:02:38</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1215>
+  <Entry1216>
+  <Date>2025-09-09</Date>
+  <Time>17:03:56</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1216>
+  <Entry1217>
+  <Date>2025-09-09</Date>
+  <Time>17:05:13</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1217>
+  <Entry1218>
+  <Date>2025-09-09</Date>
+  <Time>17:05:25</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1218>
+  <Entry1219>
+  <Date>2025-09-09</Date>
+  <Time>17:09:10</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Chwała Ci Jezu (All Hail King Jesus)</FileName>
+  <title>Chwała Ci Jezu (All Hail King Jesus)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry1219></log>

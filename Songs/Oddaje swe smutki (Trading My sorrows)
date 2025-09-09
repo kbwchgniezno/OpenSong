@@ -23,7 +23,7 @@
  Odtąd radość moją siłą jest.
 
 [v3]
-. D G C
+. D F C
  Chociaż smutek przez noc może trwać
  Wraz z porankiem przyjdzie | RADOŚĆ.
 
@@ -33,7 +33,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
