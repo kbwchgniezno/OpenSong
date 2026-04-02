@@ -132,8 +132,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Fundament (Firm Foundation)</FileName>
   <title>Fundament (Firm Foundation)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry15>
   <Entry16>
   <Date>2026-03-15</Date>
@@ -141,8 +141,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Fundament (Firm Foundation)</FileName>
   <title>Fundament (Firm Foundation)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry16>
   <Entry17>
   <Date>2026-03-15</Date>
@@ -150,8 +150,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Fundament (Firm Foundation)</FileName>
   <title>Fundament (Firm Foundation)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry17>
   <Entry18>
   <Date>2026-03-15</Date>
@@ -159,8 +159,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Fundament (Firm Foundation)</FileName>
   <title>Fundament (Firm Foundation)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry18>
   <Entry19>
   <Date>2026-03-15</Date>
@@ -168,8 +168,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Fundament (Firm Foundation)</FileName>
   <title>Fundament (Firm Foundation)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry19>
   <Entry20>
   <Date>2026-03-15</Date>
@@ -177,8 +177,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Fundament (Firm Foundation)</FileName>
   <title>Fundament (Firm Foundation)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry20>
   <Entry21>
   <Date>2026-03-15</Date>
@@ -186,8 +186,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Fundament (Firm Foundation)</FileName>
   <title>Fundament (Firm Foundation)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry21>
   <Entry22>
   <Date>2026-03-15</Date>
@@ -195,8 +195,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Fundament (Firm Foundation)</FileName>
   <title>Fundament (Firm Foundation)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry22>
   <Entry23>
   <Date>2026-03-16</Date>
@@ -204,8 +204,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Fundament (Firm Foundation)</FileName>
   <title>Fundament (Firm Foundation)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry23>
   <Entry24>
   <Date>2026-03-16</Date>
@@ -213,6 +213,159 @@
   <Description>3</Description>
   <FileName>( Główny )/Fundament (Firm Foundation)</FileName>
   <title>Fundament (Firm Foundation)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry24>
+  <Entry25>
+  <Date>2026-03-16</Date>
+  <Time>19:41:46</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Fundament (Firm Foundation)</FileName>
+  <title>Fundament (Firm Foundation)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry25>
+  <Entry26>
+  <Date>2026-03-31</Date>
+  <Time>09:58:38</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Wierzyć to znaczy</FileName>
+  <title>Wierzyć to znaczy</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry26>
+  <Entry27>
+  <Date>2026-03-31</Date>
+  <Time>09:58:55</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wierzyć to znaczy</FileName>
+  <title>Wierzyć to znaczy</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry27>
+  <Entry28>
+  <Date>2026-03-31</Date>
+  <Time>10:00:17</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wierzyć to znaczy</FileName>
+  <title>Wierzyć to znaczy</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry28>
+  <Entry29>
+  <Date>2026-03-31</Date>
+  <Time>10:03:38</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wierzyć to znaczy</FileName>
+  <title>Wierzyć to znaczy</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry29>
+  <Entry30>
+  <Date>2026-03-31</Date>
+  <Time>10:10:01</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wierzyć to znaczy</FileName>
+  <title>Wierzyć to znaczy</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry30>
+  <Entry31>
+  <Date>2026-03-31</Date>
+  <Time>10:18:11</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Wierzyć to znaczy</FileName>
+  <title>Wierzyć to znaczy</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry31>
+  <Entry32>
+  <Date>2026-04-01</Date>
+  <Time>08:50:47</Time>
+  <Description>3</Description>
+  <FileName>JESZUA (Yeshua)</FileName>
+  <title>JESZUA</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry32>
+  <Entry33>
+  <Date>2026-04-01</Date>
+  <Time>08:51:58</Time>
+  <Description>3</Description>
+  <FileName>JESZUA (Yeshua)</FileName>
+  <title>JESZUA</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry33>
+  <Entry34>
+  <Date>2026-04-01</Date>
+  <Time>08:57:49</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Pragnę Ciebie Poznać (Yeshua)</FileName>
+  <title>Pragnę Ciebie Poznać (Yeshua)</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry34>
+  <Entry35>
+  <Date>2026-04-01</Date>
+  <Time>08:57:52</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Pragnę Ciebie Poznać (Yeshua)</FileName>
+  <title>Pragnę Ciebie Poznać (Yeshua)</title>
+  <author/>
+  <ccli/>
+  <HasChords>false</HasChords></Entry35>
+  <Entry36>
+  <Date>2026-04-01</Date>
+  <Time>09:08:31</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Pragnę Ciebie Poznać (Yeshua)</FileName>
+  <title>Pragnę Ciebie Poznać (Yeshua)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry36>
+  <Entry37>
+  <Date>2026-04-01</Date>
+  <Time>09:13:22</Time>
+  <Description>3</Description>
+  <FileName>JESZUA (Yeshua)</FileName>
+  <title>JESZUA</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry37>
+  <Entry38>
+  <Date>2026-04-01</Date>
+  <Time>09:35:44</Time>
+  <Description>3</Description>
+  <FileName>JESZUA (Yeshua)</FileName>
+  <title>JESZUA</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry38>
+  <Entry39>
+  <Date>2026-04-01</Date>
+  <Time>09:38:59</Time>
+  <Description>3</Description>
+  <FileName>Godzien Jesteś Chwały Tej (Worthy Of It All)</FileName>
+  <title>Jakie piękne jest imię</title>
+  <author>What a beautiful name</author>
+  <ccli/>
+  <HasChords>true</HasChords></Entry39>
+  <Entry40>
+  <Date>2026-04-01</Date>
+  <Time>09:53:15</Time>
+  <Description>3</Description>
+  <FileName>Ukojenie</FileName>
+  <title>Ukojenie</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry24></log>
+  <HasChords>true</HasChords></Entry40>
+  <Entry41>
+  <Date>2026-04-01</Date>
+  <Time>10:07:31</Time>
+  <Description>3</Description>
+  <FileName>Ukojenie</FileName>
+  <title>Ukojenie</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry41></log>

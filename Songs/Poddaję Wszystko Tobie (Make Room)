@@ -2,61 +2,60 @@
 <song>
   <title>Poddaję Wszystko Tobie (Make Room)</title>
   <lyrics>[v1]
-.C                        G
+.G                        D
  Dzisiaj składam u Twych stóp
-.                     Dm
+.                     Am
  Własną dumę, własny trud
 .
  Poddaję wszystko Tobie
-.F
+.C
  Poddaję wszystko Tobie
-.C                        G
+.G                        D
  Dzisiaj składam u Twych stóp
-.                      Dm
+.                      Am
  Każde kłamstwo, każdy ból
-.                      F
+.                      C
  Poddaję wszystko Tobie
 
 [c1]
-.              C          G
+.              G         D
  Przyjmij dziś to, co mam
-.                  Dm7
+.                  Am7
  Oddaję Ci moją przestrzeń
-.                   Fmaj7
+.                   Cmaj7
  Możesz czynić, co zechcesz
 
 [v2]
-.C                      G
+.G                      D
  Życie składam u Twych stóp
-.                    Dm7
+.                    Am7
  Twoją drogą pragnę pójść
 .
  Poddaję wszystko Tobie
-.F
+.C
  Poddaję wszystko Tobie
-.C                      G
+.G                      D
  Życie składam u Twych stóp
-.                    Dm
+.                    Am
  Twoją drogą pragnę pójść
-.                       F
- Poddaję wszystko Tobie 
+.                      C
+ Poddaję wszystko Tobie
 
 [b1]
-.C
- Zburz każdy mur mojej tradycji
 .G
+ Zburz każdy mur mojej tradycji
+.D
  Niech runie grunt pustej religii
-.Dm
+.Am
  Chcę tylko Ciebie
-.F
- Chcę tylko Ciebie
-</lyrics>
+.C
+ Chcę tylko Ciebie</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>

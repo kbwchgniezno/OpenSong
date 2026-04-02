@@ -2,100 +2,100 @@
 <song>
   <title>Jakie piękne jest imię</title>
   <lyrics>[v1]
-.E
+.G
  Ty na początku byłeś Słowem
-.           A    C#m      B
+.           C    Em       D
  Tam, gdzie sam Najwyższy Pan
-.C#m                        E
+.Em                         G
  Swą chwałę ukrył w tym, co stworzył
-.     A       C#m    B
+.     C       Em     D
  Lecz objawił Ciebie nam
 
 [c1]
-.                       E
+.                       G
  Jakie piękne jest imię Twe
-.                       B
+.                       D
  Jakie piękne jest imię Twe
-.          C#m    B     A
+.          Em     D     C
  Twe imię, Jezu, Królu nasz
 
-.                       E
+.                       G
  Jakie piękne jest imię Twe
-.                    B
+.                    D
  Nic z nim nie równa się
-.                       C#m
+.                       Em
  Jakie piękne jest imię Twe
-.     B     A
+.     D     C
  Twe imię, Jezu
 
 [v2]
-.E
+.G
  Nie chciałeś mieszkać w niebie bez nas
-.          A       C#m  B
+.          C       Em   D
  Więc przyniosłeś niebo tu
-.C#m                       E
+.Em                        G
  Twa miłość, Jezu, jest największa
-.        A      C#m    B
+.        C      Em     D
  Nic nas nie rozłączy już
 
 [c2]
-.                      E
+.                      G
  Jak cudowne jest imię Twe
-.                      B
+.                      D
  Jak cudowne jest imię Twe
-.           C#m    B    A
+.           Em     D    C
  Twe imię, Jezu, Królu nasz
 
-.                      E
+.                      G
  Jak cudowne jest imię Twe
-.                    B
+.                    D
  Nic z nim nie równa się
-.                      C#m
+.                      Em
  Jak cudowne jest imię Twe
-.     B     A
+.     D     C
  Twe imię, Jezu
 
 [b1]
-.         A                   B
+.         C                   D
  Śmierć pokonana, zasłona rozdarta
-.             C#m7             E
+.             Em7              G
  Zamilkł już grzech i zamilkł grób
-.             A                  B
+.             C                  D
  Głośno grzmi niebo, chwałę Twą wielbiąc
-.                    C#m        B
+.                    Em         D
  Bo z martwych wstał nasz Pan i Bóg
 
-.          A              B
+.          C              D
  Nie masz rywala, sobie równego
-.            C#m           E
+.            Em            G
  Na zawsze rządzisz w mocy swej
-.            A               B
+.            C               D
  Twoja jest chwała, Twoje królestwo
-.       C#m            B
+.       Em             D
  A imię Twe najwyższe jest
 
 [c3]
-.                      E
+.                      G
  Jak potężne jest imię Twe
-.                      B
+.                      D
  Jak potężne jest imię Twe
-.          C#m    B     A
+.          Em     D     C
  Twe imię, Jezu, Królu nasz
 
-.                     E
+.                     G
  Jak potężne jest imię Twe
-.                    B
+.                    D
  Nic z nim nie równa się
-.                     C#m
+.                     Em
  Jak potężne jest imię Twe
-.     B     A
+.     D     C
  Twe imię, Jezu</lyrics>
   <author>What a beautiful name</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
