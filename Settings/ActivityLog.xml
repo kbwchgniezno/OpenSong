@@ -375,8 +375,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Jestem Ci Wdzięczny (God I'm Just Greatfull)</FileName>
   <title>Jestem Ci Wdzięczny (God I'm Just Greatfull)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry42>
   <Entry43>
   <Date>2026-04-14</Date>
@@ -384,8 +384,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jestem Ci Wdzięczny (God I'm Just Greatfull)</FileName>
   <title>Jestem Ci Wdzięczny (God I'm Just Greatfull)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry43>
   <Entry44>
   <Date>2026-04-14</Date>
@@ -393,8 +393,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jestem Ci Wdzięczny (God I'm Just Greatfull)</FileName>
   <title>Jestem Ci Wdzięczny (God I'm Just Greatfull)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry44>
   <Entry45>
   <Date>2026-04-14</Date>
@@ -402,8 +402,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jestem Ci Wdzięczny (God I'm Just Greatfull)</FileName>
   <title>Jestem Ci Wdzięczny (God I'm Just Greatfull)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry45>
   <Entry46>
   <Date>2026-04-14</Date>
@@ -411,8 +411,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jestem Ci Wdzięczny (God I'm Just Greatfull)</FileName>
   <title>Jestem Ci Wdzięczny (God I'm Just Grateful)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry46>
   <Entry47>
   <Date>2026-04-14</Date>
@@ -420,8 +420,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jestem Ci Wdzięczny (God I'm Just Greatfull)</FileName>
   <title>Jestem Ci Wdzięczny (God I'm Just Grateful)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry47>
   <Entry48>
   <Date>2026-04-14</Date>
@@ -429,8 +429,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jestem Ci Wdzięczny (God I'm Just Greatfull)</FileName>
   <title>Jestem Ci Wdzięczny (God I'm Just Grateful)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry48>
   <Entry49>
   <Date>2026-04-14</Date>
@@ -438,8 +438,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jestem Ci Wdzięczny (God I'm Just Greatfull)</FileName>
   <title>Jestem Ci Wdzięczny (God I'm Just Grateful)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry49>
   <Entry50>
   <Date>2026-04-14</Date>
@@ -447,8 +447,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jestem Ci Wdzięczny (God I'm Just Greatfull)</FileName>
   <title>Jestem Ci Wdzięczny (God I'm Just Grateful)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry50>
   <Entry51>
   <Date>2026-04-14</Date>
@@ -456,8 +456,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jestem Ci Wdzięczny (God I'm Just Greatfull)</FileName>
   <title>Jestem Ci Wdzięczny (God I'm Just Grateful)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry51>
   <Entry52>
   <Date>2026-04-14</Date>
@@ -465,6 +465,24 @@
   <Description>3</Description>
   <FileName>( Główny )/Jestem Ci Wdzięczny (God I'm Just Greatfull)</FileName>
   <title>Jestem Ci Wdzięczny (God I'm Just Grateful)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry52>
+  <Entry53>
+  <Date>2026-04-14</Date>
+  <Time>16:25:31</Time>
+  <Description>3</Description>
+  <FileName>Nasz Bog potezny jest</FileName>
+  <title>Nasz Bog potezny jest</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry52></log>
+  <HasChords>true</HasChords></Entry53>
+  <Entry54>
+  <Date>2026-04-14</Date>
+  <Time>16:38:43</Time>
+  <Description>3</Description>
+  <FileName>Nasz Bog potezny jest</FileName>
+  <title>Nasz Bog potezny jest</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry54></log>

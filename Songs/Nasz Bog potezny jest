@@ -16,15 +16,25 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
+  <lyrics>[c1]
 .     C   G        
  Nasz Bóg potężny jest 
 .        D     Em
  W mocy swej Panuje nad nami
 . C      G 
  Z nieba rządzi On
-.  Am         Bm       Em D 
+.  D                  Em  
  W miłości, mądrości swej
+
+.     C   G        
+ Nasz Bóg potężny jest 
+.        D     Em
+ W mocy swej Panuje nad nami
+. C      G 
+ Z nieba rządzi On
+.  Am       Bm        Em  
+ W miłości, mądrości swej
+
  
  </lyrics>
   <linked_songs/>
