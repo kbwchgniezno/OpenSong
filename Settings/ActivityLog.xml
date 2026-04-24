@@ -519,8 +519,8 @@
   <Description>3</Description>
   <FileName>Nasz Bog potezny jest</FileName>
   <title>Nasz Bog potezny jest</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry58>
   <Entry59>
   <Date>2026-04-18</Date>
@@ -528,8 +528,8 @@
   <Description>3</Description>
   <FileName>Nasz Bog potezny jest</FileName>
   <title>Nasz Bog potezny jest</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry59>
   <Entry60>
   <Date>2026-04-18</Date>
@@ -537,8 +537,8 @@
   <Description>3</Description>
   <FileName>Nasz Bog potezny jest</FileName>
   <title>Nasz Bog potezny jest</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry60>
   <Entry61>
   <Date>2026-04-18</Date>
@@ -546,6 +546,24 @@
   <Description>3</Description>
   <FileName>Nasz Bog potezny jest</FileName>
   <title>Nasz Bog potezny jest</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry61>
+  <Entry62>
+  <Date>2026-04-24</Date>
+  <Time>19:34:29</Time>
+  <Description>3</Description>
+  <FileName>Cała Chwała</FileName>
+  <title>Cała Chwała</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry61></log>
+  <HasChords>true</HasChords></Entry62>
+  <Entry63>
+  <Date>2026-04-24</Date>
+  <Time>19:35:10</Time>
+  <Description>3</Description>
+  <FileName>Cała Chwała</FileName>
+  <title>Cała Chwała</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry63></log>

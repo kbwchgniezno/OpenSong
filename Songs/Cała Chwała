@@ -2,7 +2,7 @@
 <song>
   <title>Cała Chwała</title>
   <lyrics>[i1]
-.G2 Bm7
+.D G2 Bm7
 .Asus A Asus A
 
 [v1]
@@ -46,18 +46,24 @@
 [i1]
 
 [v2]
+.D
  KIMŻE JEST CZŁOWIEK PRZED
+.G2
  JEGO POTĘŻNYM TRONEM
+.D
  CZYM SĄ NARODY WOBEC
+.G2
  POTĘGI TEJ
+.D
  KTO MOŻE RÓWNAĆ SIĘ
+.G2
  Z TYM CO NIE MA SOBIE RÓWNYCH
+.Bm7 A
  JAHWE
+.G2
  JEDYNY BÓG
 
 [c1]
-
-[c2]
 
 [b1]
 .D  Em7 D/F#
@@ -70,9 +76,7 @@
  JEST NASZ PAN
 
 [c1]
-[c2]
-[i1]
-[b1]</lyrics>
+[i1]</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>
