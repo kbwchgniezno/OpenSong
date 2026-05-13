@@ -555,8 +555,8 @@
   <Description>3</Description>
   <FileName>Cała Chwała</FileName>
   <title>Cała Chwała</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry62>
   <Entry63>
   <Date>2026-04-24</Date>
@@ -564,8 +564,8 @@
   <Description>3</Description>
   <FileName>Cała Chwała</FileName>
   <title>Cała Chwała</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry63>
   <Entry64>
   <Date>2026-04-24</Date>
@@ -573,6 +573,114 @@
   <Description>3</Description>
   <FileName>Cała Chwała</FileName>
   <title>Cała Chwała</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry64>
+  <Entry65>
+  <Date>2026-05-12</Date>
+  <Time>19:34:24</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry64></log>
+  <HasChords>false</HasChords></Entry65>
+  <Entry66>
+  <Date>2026-05-12</Date>
+  <Time>19:34:35</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry66>
+  <Entry67>
+  <Date>2026-05-12</Date>
+  <Time>19:35:03</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry67>
+  <Entry68>
+  <Date>2026-05-12</Date>
+  <Time>19:45:44</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry68>
+  <Entry69>
+  <Date>2026-05-12</Date>
+  <Time>19:50:20</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry69>
+  <Entry70>
+  <Date>2026-05-12</Date>
+  <Time>20:25:23</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry70>
+  <Entry71>
+  <Date>2026-05-13</Date>
+  <Time>15:20:45</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry71>
+  <Entry72>
+  <Date>2026-05-13</Date>
+  <Time>15:32:54</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry72>
+  <Entry73>
+  <Date>2026-05-13</Date>
+  <Time>15:32:58</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry73>
+  <Entry74>
+  <Date>2026-05-13</Date>
+  <Time>15:43:45</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry74>
+  <Entry75>
+  <Date>2026-05-13</Date>
+  <Time>15:45:59</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry75>
+  <Entry76>
+  <Date>2026-05-13</Date>
+  <Time>15:46:14</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
+  <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry76></log>
