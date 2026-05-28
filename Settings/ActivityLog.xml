@@ -582,8 +582,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry65>
   <Entry66>
   <Date>2026-05-12</Date>
@@ -591,8 +591,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry66>
   <Entry67>
   <Date>2026-05-12</Date>
@@ -600,8 +600,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry67>
   <Entry68>
   <Date>2026-05-12</Date>
@@ -609,8 +609,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry68>
   <Entry69>
   <Date>2026-05-12</Date>
@@ -618,8 +618,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry69>
   <Entry70>
   <Date>2026-05-12</Date>
@@ -627,8 +627,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry70>
   <Entry71>
   <Date>2026-05-13</Date>
@@ -636,8 +636,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry71>
   <Entry72>
   <Date>2026-05-13</Date>
@@ -645,8 +645,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry72>
   <Entry73>
   <Date>2026-05-13</Date>
@@ -654,8 +654,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry73>
   <Entry74>
   <Date>2026-05-13</Date>
@@ -663,8 +663,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry74>
   <Entry75>
   <Date>2026-05-13</Date>
@@ -672,8 +672,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry75>
   <Entry76>
   <Date>2026-05-13</Date>
@@ -681,8 +681,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry76>
   <Entry77>
   <Date>2026-05-13</Date>
@@ -690,6 +690,114 @@
   <Description>3</Description>
   <FileName>( Główny )/Żegnaj, wczorajszy dniu (Goodbye Yesterday)</FileName>
   <title>Żegnaj, wczorajszy dniu (Goodbye Yesterday)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry77>
+  <Entry78>
+  <Date>2026-05-28</Date>
+  <Time>14:36:36</Time>
+  <Description>1</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry77></log>
+  <HasChords>false</HasChords></Entry78>
+  <Entry79>
+  <Date>2026-05-28</Date>
+  <Time>14:37:21</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>false</HasChords></Entry79>
+  <Entry80>
+  <Date>2026-05-28</Date>
+  <Time>14:39:39</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry80>
+  <Entry81>
+  <Date>2026-05-28</Date>
+  <Time>14:53:19</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry81>
+  <Entry82>
+  <Date>2026-05-28</Date>
+  <Time>14:53:32</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry82>
+  <Entry83>
+  <Date>2026-05-28</Date>
+  <Time>14:57:53</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry83>
+  <Entry84>
+  <Date>2026-05-28</Date>
+  <Time>15:01:39</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry84>
+  <Entry85>
+  <Date>2026-05-28</Date>
+  <Time>15:01:45</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry85>
+  <Entry86>
+  <Date>2026-05-28</Date>
+  <Time>15:05:47</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry86>
+  <Entry87>
+  <Date>2026-05-28</Date>
+  <Time>15:07:24</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry87>
+  <Entry88>
+  <Date>2026-05-28</Date>
+  <Time>15:10:20</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry88>
+  <Entry89>
+  <Date>2026-05-28</Date>
+  <Time>15:17:42</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry89></log>
