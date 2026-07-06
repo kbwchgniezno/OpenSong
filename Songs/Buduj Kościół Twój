@@ -1,48 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
-  <lyrics>[v1]
+  <lyrics>[ins1]
+.Bm  A/C# D
+.G   D/F# G A/C#
+.Bm  A/C# D
+.G   D/F# G
+
+[v1]
+.Bm     A       G
  Przynosimy do Twojego domu
+.D    D2/F#    G   A4
  Wszystko co mamy
+.Bm  A             G
  W oczyszczonych rękach
+.      F#m7     Em7
  Ze szczerego serca
  
 [v2]
+.Bm      A         G
  Przychodzimy jako wolni ludzie
+.D      D2/F#   G   A4
  Dzięki Twej łasce
+.Bm     A            G
  Ty z niewoli grzechu
+.        F#m7   Em7
  Nas wyrwałeś Jezu
 
-[c]
+[c1]
+.Bm    A        D
  Buduj Kościół Twój
+.Bm  A         D  A/C#
  Uczyń z nami cud
+.Bm                A
  Wiemy że jesteś z nami
+.G               F#m7
  Nie budujemy sami
+.Em7            D
  Buduj Kościół Twój
 
+[instr1]
+.Bm  A/C# D
+.G   D/F# G A/C#
+.Bm  A/C# D
+.G   D/F# G
+
 [v3]
+.Bm       A         G
  Panie pobudź dziś naszego ducha
+.D     D2/F#  G    A4
  Połóż fundament
+.Bm    A            G
  To co Ty rozpoczniesz
+.         F#m7    Em7
  Skończy się owocnie
 
 [v4] 
- Twe marzenia znaczą dla nas
- Więcej niż nasze plany
+.Bm      A           G
+ Twe marzenia znaczą dla nas więcej
+.D  D2/F#   G    A4 
+ Niż nasze plany
+.Bm      A        G
  Dom Twój wywyższony
+.       F#m7   Em7
  Ponad nasze domy
 
+[c1] 
+
+[inst1]
+
 [b1]
+.Bm
  To co ujrzymy
+.A/C#         D
  Przyćmi co widzimy dziś
+.G           D/F#
  Tam gdzie zmierzamy
+.G          A
  Sami nie zdołamy przyjść
 
 [b2] 
+.Bm
  Płomień przed nami
+.A/C#     D
  Wytycza naszą drogę
+.G           D/F#
  Niech nas rozpali
- Niech płonie chwały ogień</lyrics>
+.G             A
+ Niech płonie chwały ogień
+
+[inst1]
+
+[c1]</lyrics>
   <author></author>
   <copyright></copyright>
   <hymn_number></hymn_number>

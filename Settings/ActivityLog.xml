@@ -699,8 +699,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry78>
   <Entry79>
   <Date>2026-05-28</Date>
@@ -708,8 +708,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry79>
   <Entry80>
   <Date>2026-05-28</Date>
@@ -717,8 +717,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry80>
   <Entry81>
   <Date>2026-05-28</Date>
@@ -726,8 +726,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry81>
   <Entry82>
   <Date>2026-05-28</Date>
@@ -735,8 +735,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry82>
   <Entry83>
   <Date>2026-05-28</Date>
@@ -744,8 +744,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry83>
   <Entry84>
   <Date>2026-05-28</Date>
@@ -753,8 +753,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry84>
   <Entry85>
   <Date>2026-05-28</Date>
@@ -762,8 +762,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry85>
   <Entry86>
   <Date>2026-05-28</Date>
@@ -771,8 +771,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry86>
   <Entry87>
   <Date>2026-05-28</Date>
@@ -780,8 +780,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry87>
   <Entry88>
   <Date>2026-05-28</Date>
@@ -789,8 +789,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry88>
   <Entry89>
   <Date>2026-05-28</Date>
@@ -798,6 +798,141 @@
   <Description>3</Description>
   <FileName>( Główny )/Jesus The Only</FileName>
   <title>Jesus The Only</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry89>
+  <Entry90>
+  <Date>2026-05-29</Date>
+  <Time>19:46:09</Time>
+  <Description>3</Description>
+  <FileName>( Główny )/Jesus The Only</FileName>
+  <title>Jesus The Only</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry90>
+  <Entry91>
+  <Date>2026-06-01</Date>
+  <Time>18:11:29</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry91>
+  <Entry92>
+  <Date>2026-06-04</Date>
+  <Time>08:21:28</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry92>
+  <Entry93>
+  <Date>2026-07-06</Date>
+  <Time>18:53:59</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry89></log>
+  <HasChords>true</HasChords></Entry93>
+  <Entry94>
+  <Date>2026-07-06</Date>
+  <Time>18:54:21</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry94>
+  <Entry95>
+  <Date>2026-07-06</Date>
+  <Time>18:59:59</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry95>
+  <Entry96>
+  <Date>2026-07-06</Date>
+  <Time>19:01:00</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry96>
+  <Entry97>
+  <Date>2026-07-06</Date>
+  <Time>19:01:35</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry97>
+  <Entry98>
+  <Date>2026-07-06</Date>
+  <Time>19:02:24</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry98>
+  <Entry99>
+  <Date>2026-07-06</Date>
+  <Time>19:08:44</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry99>
+  <Entry100>
+  <Date>2026-07-06</Date>
+  <Time>19:10:12</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry100>
+  <Entry101>
+  <Date>2026-07-06</Date>
+  <Time>19:10:52</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry101>
+  <Entry102>
+  <Date>2026-07-06</Date>
+  <Time>19:12:48</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry102>
+  <Entry103>
+  <Date>2026-07-06</Date>
+  <Time>19:15:42</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry103>
+  <Entry104>
+  <Date>2026-07-06</Date>
+  <Time>19:16:47</Time>
+  <Description>3</Description>
+  <FileName>Buduj Kościół Twój</FileName>
+  <title>Buduj Kościół Twój - Pieśń Aggeusza</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry104></log>
