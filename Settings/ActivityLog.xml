@@ -1158,8 +1158,8 @@
   <Description>1</Description>
   <FileName>( Główny )/Umiłowany (Michał Król)</FileName>
   <title>Umiłowany (Michał Król)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry129>
   <Entry130>
   <Date>2026-09-08</Date>
@@ -1167,8 +1167,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Umiłowany (Michał Król)</FileName>
   <title>Umiłowany (Michał Król)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>false</HasChords></Entry130>
   <Entry131>
   <Date>2026-09-08</Date>
@@ -1176,8 +1176,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Umiłowany (Michał Król)</FileName>
   <title>Umiłowany (Michał Król)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry131>
   <Entry132>
   <Date>2026-09-08</Date>
@@ -1185,8 +1185,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Umiłowany (Michał Król)</FileName>
   <title>Umiłowany (Michał Król)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry132>
   <Entry133>
   <Date>2026-09-08</Date>
@@ -1194,8 +1194,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Umiłowany (Michał Król)</FileName>
   <title>Umiłowany (Michał Król)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry133>
   <Entry134>
   <Date>2026-09-08</Date>
@@ -1203,8 +1203,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Umiłowany (Michał Król)</FileName>
   <title>Umiłowany (Michał Król)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry134>
   <Entry135>
   <Date>2026-09-08</Date>
@@ -1212,8 +1212,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Umiłowany (Michał Król)</FileName>
   <title>Umiłowany (Michał Król)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry135>
   <Entry136>
   <Date>2026-09-08</Date>
@@ -1221,8 +1221,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Umiłowany (Michał Król)</FileName>
   <title>Umiłowany (Michał Król)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry136>
   <Entry137>
   <Date>2026-09-08</Date>
@@ -1230,8 +1230,8 @@
   <Description>3</Description>
   <FileName>( Główny )/Umiłowany (Michał Król)</FileName>
   <title>Umiłowany (Michał Król)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry137>
   <Entry138>
   <Date>2026-09-08</Date>
@@ -1239,6 +1239,33 @@
   <Description>3</Description>
   <FileName>( Główny )/Umiłowany (Michał Król)</FileName>
   <title>Umiłowany (Michał Król)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry138>
+  <Entry139>
+  <Date>2026-09-08</Date>
+  <Time>16:25:12</Time>
+  <Description>3</Description>
+  <FileName>Jezu, Imię Twe (Jesus Be The Name)</FileName>
+  <title>Jezu, Imię Twe (Jesus Be The Name)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry139>
+  <Entry140>
+  <Date>2026-09-08</Date>
+  <Time>16:50:25</Time>
+  <Description>3</Description>
+  <FileName>Jezu, Imię Twe (Jesus Be The Name)</FileName>
+  <title>Jezu, Imię Twe (Jesus Be The Name)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry140>
+  <Entry141>
+  <Date>2026-09-26</Date>
+  <Time>11:09:04</Time>
+  <Description>3</Description>
+  <FileName>Memu Bogu</FileName>
+  <title>Memu Bogu</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry138></log>
+  <HasChords>true</HasChords></Entry141></log>
