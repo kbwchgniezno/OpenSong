@@ -17,12 +17,15 @@
 [c1]
 .       C          G
  Niech wieje Twój Duch
-.       Am  C                 G
+.         C                 G
  Świat pozna, jaki jest nasz Bóg
 .      C       G
  Wylewaj, swą miłość 
-.        Am C       G
+.         C       G
  Niech kości ożyją znów
+
+[inst1];Hej
+.C G
 
 [v2]
 .C                              G
@@ -33,6 +36,11 @@
  Tchnij ożywcze tchnienie na swój lud 
 .C                               G
  Świat niech pozna Twej miłości cud
+
+[c1]
+
+[inst1] ;Hej
+.C G
 
 [b1]
 .C
@@ -50,7 +58,16 @@
 .C
  Wypełnia każdy brak
 .G        Em
- Swą miłością
+ Swą miłością ;x2
+
+[inst1]
+.C G
+
+[c1]
+
+[b1]
+
+
 </lyrics>
   <author></author>
   <copyright></copyright>
