@@ -6,7 +6,7 @@
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
-  <capo print="false"></capo>
+  <capo print="false" sharp="true"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V1]
+  <lyrics>[v1]
 .   G        D    A     D
  Po zboczach góry rzeka mknie
 .   G        D    A     D
@@ -25,7 +25,7 @@
  Ożywia pustynię, przynosi plon
 .   G        D    A     D
  Bo źródłem tej rzeki jest Boży tron
-[V2]
+[v2]
 . D                    G    D
  Ta rzeka jest tu serce me wypełnia
 . D                    A       D
@@ -34,7 +34,7 @@
  Ta rzeka jest tu sprawia, że chcę tańczyć
 . G        D          A        D
  Cieszymy się bo wody życia są tu
-[V3]
+[v3]
 .   G        D    A     D
  Po zboczach góry będziemy iść
 .   G        D    A     D
@@ -43,7 +43,7 @@
  By Boża chwała jaśniała w nas
 .   G        D    A     D
  By Chrystus był uwielbiony wśród nas
-[V4]
+[v4]
 .   G        D    A     D
  Ta rzeka dzisiaj życiem tchnie
 .   G        D    A     D
@@ -52,4 +52,7 @@
  Gdy będziesz wodę życia pić
 .   G        D    A     D
  To bliżej Pana zapragniesz być.
- </lyrics></song>
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
