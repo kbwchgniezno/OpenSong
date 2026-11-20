@@ -1590,8 +1590,8 @@
   <Description>3</Description>
   <FileName>Święty Na Zawsze (Holy Forever)</FileName>
   <title>Święty Na Zawsze (Holy Forever)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry177>
   <Entry178>
   <Date>2026-11-19</Date>
@@ -1599,8 +1599,8 @@
   <Description>3</Description>
   <FileName>Święty Na Zawsze (Holy Forever)</FileName>
   <title>Święty Na Zawsze (Holy Forever)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry178>
   <Entry179>
   <Date>2026-11-19</Date>
@@ -1608,8 +1608,8 @@
   <Description>3</Description>
   <FileName>Święty Na Zawsze (Holy Forever)</FileName>
   <title>Święty Na Zawsze (Holy Forever)</title>
-  <author></author>
-  <ccli></ccli>
+  <author/>
+  <ccli/>
   <HasChords>true</HasChords></Entry179>
   <Entry180>
   <Date>2026-11-19</Date>
@@ -1617,6 +1617,24 @@
   <Description>3</Description>
   <FileName>Święty Na Zawsze (Holy Forever)</FileName>
   <title>Święty Na Zawsze (Holy Forever)</title>
+  <author/>
+  <ccli/>
+  <HasChords>true</HasChords></Entry180>
+  <Entry181>
+  <Date>2026-11-20</Date>
+  <Time>11:10:35</Time>
+  <Description>3</Description>
+  <FileName>Powiew Przebudzenia (Revivals In The Air)</FileName>
+  <title>Powiew Przebudzenia (Revivals In The Air)</title>
   <author></author>
   <ccli></ccli>
-  <HasChords>true</HasChords></Entry180></log>
+  <HasChords>true</HasChords></Entry181>
+  <Entry182>
+  <Date>2026-11-20</Date>
+  <Time>11:12:26</Time>
+  <Description>3</Description>
+  <FileName>Powiew Przebudzenia (Revivals In The Air)</FileName>
+  <title>Powiew Przebudzenia (Revivals In The Air)</title>
+  <author></author>
+  <ccli></ccli>
+  <HasChords>true</HasChords></Entry182></log>
